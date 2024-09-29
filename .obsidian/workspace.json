@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Iostream (Libreria).md",
+                "file": "C++/Comportamiento no inicializado e indefinido.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Iostream (Libreria).md",
+                "file": "C++/Comportamiento no inicializado e indefinido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Iostream (Libreria).md",
+                "file": "C++/Comportamiento no inicializado e indefinido.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Iostream (Libreria).md"
+                "file": "C++/Comportamiento no inicializado e indefinido.md"
               }
             }
           },
@@ -190,10 +190,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25d5c0a9c81c0451",
+  "active": "3835dd88d3841b00",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "C++/Iostream (Libreria).md",
+    "conflict-files-obsidian-git.md",
     "C++/Inicios C++.md",
     "C++/Comportamiento no inicializado e indefinido.md",
     "C++/Compilador.png",
