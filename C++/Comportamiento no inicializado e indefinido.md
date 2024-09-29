@@ -15,5 +15,3 @@ El comportamiento indefinidio puede generarse por la generacion de un codigo que
 - Your program crashes, either immediately or later.
 - Your program works on some compilers but not others.
 - Your program works until you change some other seemingly unrelated code.
-- 
-Adicionalmente: ya no quiero
