@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "C++/Iostream (Libreria).md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "C++/Iostream (Libreria).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "C++/Iostream (Libreria).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "C++/Iostream (Libreria).md"
               }
             }
           },
@@ -192,8 +192,8 @@
   },
   "active": "25d5c0a9c81c0451",
   "lastOpenFiles": [
-    "C++/Iostream (Libreria).md",
     "conflict-files-obsidian-git.md",
+    "C++/Iostream (Libreria).md",
     "C++/Inicios C++.md",
     "C++/Comportamiento no inicializado e indefinido.md",
     "C++/Compilador.png",
