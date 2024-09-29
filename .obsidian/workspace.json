@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Inicios C++.md",
+                "file": "C++/Comportamiento no inicializado e indefinido.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Inicios C++.md",
+                "file": "C++/Comportamiento no inicializado e indefinido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Inicios C++.md",
+                "file": "C++/Comportamiento no inicializado e indefinido.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Inicios C++.md"
+                "file": "C++/Comportamiento no inicializado e indefinido.md"
               }
             }
           },
@@ -180,13 +180,13 @@
   },
   "active": "aa519c28a0b40d83",
   "lastOpenFiles": [
+    "C++/Compilador.png",
+    "C++/Iostream (Libreria).md",
     "C++/Inicios C++.md",
     "C++/Prueba de actualizacion.md",
     "Remote/Inicios C++ 1.md",
-    "C++/Compilador.png",
     "Remote",
     "C++/Comportamiento no inicializado e indefinido.md",
-    "C++/Iostream (Libreria).md",
     "C++/Flujo.png",
     "Templates/Default Note.md",
     "Templates/Untitled.md",
