@@ -108,6 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "C++/Inicios C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,6 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "C++/Inicios C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,16 +148,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Prueba de actualizacion.md"
+                "file": "C++/Inicios C++.md"
               }
             }
+          },
+          {
+            "id": "3835dd88d3841b00",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,7 +178,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "950bc8abdbcb2924",
+  "active": "aa519c28a0b40d83",
   "lastOpenFiles": [
     "C++/Inicios C++.md",
     "C++/Prueba de actualizacion.md",
