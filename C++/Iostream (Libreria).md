@@ -82,4 +82,4 @@ int main()
 * Si _x = 123abc_ x se asignara al valor 123.
 * Si _x = abc123_  x se asignara a 0, debido a que las letras daran a entender que en la variable no hay enteros (Extraccion invalida desde a).
 * Si _x=3.2_ o _x=3.7_ siempre x se asignara el valor de 3.
-* 
+* Modificacion

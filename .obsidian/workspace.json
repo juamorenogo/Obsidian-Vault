@@ -8,17 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ebb005d41333550d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "C++/Compilador.png"
-              }
-            }
-          },
-          {
-            "id": "ba234715715943ea",
+            "id": "aa519c28a0b40d83",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -28,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "aa519c28a0b40d83",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Comportamiento no inicializado e indefinido.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Comportamiento no inicializado e indefinido.md",
+                "file": "C++/Iostream (Libreria).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Comportamiento no inicializado e indefinido.md",
+                "file": "C++/Iostream (Libreria).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Comportamiento no inicializado e indefinido.md"
+                "file": "C++/Iostream (Libreria).md"
               }
             }
           },
@@ -182,11 +159,11 @@
   "lastOpenFiles": [
     "C++/Compilador.png",
     "C++/Iostream (Libreria).md",
+    "C++/Comportamiento no inicializado e indefinido.md",
     "C++/Inicios C++.md",
     "C++/Prueba de actualizacion.md",
     "Remote/Inicios C++ 1.md",
     "Remote",
-    "C++/Comportamiento no inicializado e indefinido.md",
     "C++/Flujo.png",
     "Templates/Default Note.md",
     "Templates/Untitled.md",
