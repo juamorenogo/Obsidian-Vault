@@ -35,14 +35,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Inicios C++.md",
+                "file": "C++/Iostream (Libreria).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "25d5c0a9c81c0451",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Inicios C++.md",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Inicios C++.md",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Inicios C++.md"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -178,12 +190,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa519c28a0b40d83",
+  "active": "25d5c0a9c81c0451",
   "lastOpenFiles": [
+    "C++/Iostream (Libreria).md",
+    "conflict-files-obsidian-git.md",
+    "C++/Inicios C++.md",
     "C++/Comportamiento no inicializado e indefinido.md",
     "C++/Compilador.png",
-    "C++/Iostream (Libreria).md",
-    "C++/Inicios C++.md",
     "C++/Prueba de actualizacion.md",
     "Remote/Inicios C++ 1.md",
     "Remote",
