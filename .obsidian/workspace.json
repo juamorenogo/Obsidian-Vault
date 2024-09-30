@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronica Analoga/Diodo (Analoga 1).md",
+                "file": "C++/Inicios C++.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronica Analoga/Diodo (Analoga 1).md",
+                "file": "C++/Inicios C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronica Analoga/Diodo (Analoga 1).md",
+                "file": "C++/Inicios C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronica Analoga/Diodo (Analoga 1).md"
+                "file": "C++/Inicios C++.md"
               }
             }
           },
@@ -195,8 +195,8 @@
   },
   "active": "ed2a8dec424646b6",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Electronica Analoga/Diodo (Analoga 1).md",
+    "conflict-files-obsidian-git.md",
     "Electronica Analoga/Imagenes/EsquemaDiodo.png",
     "Electronica Analoga/Transistores MOSFET (Analoga 1).md",
     "Electronica Analoga/Transistores BJT (Analoga 1).md",
