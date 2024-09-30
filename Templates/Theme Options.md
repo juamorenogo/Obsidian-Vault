@@ -41,3 +41,6 @@
 
 - Bloque de código:
   ```markdown
+```
+
+[artisticat1/obsidian-tikzjax: Render LaTeX and TikZ diagrams in your notes (github.com)](https://github.com/artisticat1/obsidian-tikzjax)
