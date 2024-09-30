@@ -8,5 +8,5 @@ Elemento de 2 terminales semiconductor con el siguiente símbolo:
 
 La ecuación del Diodo es:
 
-$$ I_{D}= \frac{I_{S}\left( e^{\frac{V_{D}}{nV_{T}}}-1 \right)*AWAWAWAWAWAWAW}{1}$$
+$$ I_{D}= I_{S}(e^{\frac{V_{D}}{nV_{T}}}-1)$$
 
