@@ -12,7 +12,6 @@ $$ I_{D}= I_{S}(e^{\frac{V_{D}}{nV_{T}}}-1)$$
 
 ```tikz
 \usepackage{circuitikz}
-\begin{document}
 
 \begin{circuitikz}[american, voltage shift=0.5]
 \draw (0,0)
@@ -24,5 +23,4 @@ to[R=$R_2$, i>_=$i_2$]
 (4,0) to[short, -*] (2,0);
 \end{circuitikz}
 
-\end{document}
 ```
