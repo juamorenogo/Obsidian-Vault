@@ -2,9 +2,10 @@
 
 Tags: #Analoga #Diodos
 
-
-La ecuacion del Diodo es:
+Elemento de 2 terminales semiconductor con el siguiente simbolo:
+[[]]
+La ecuación del Diodo es:
 $$
-Id
+I_{D}= I_{S}(e^{\frac{V_{D}}{nV_{T}}}-1)
 $$
 
