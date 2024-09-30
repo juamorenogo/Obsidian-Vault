@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Inicios C++.md",
+                "file": "Electronica Analoga/Diodo (Analoga 1).md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Inicios C++.md",
+                "file": "Electronica Analoga/Diodo (Analoga 1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Inicios C++.md",
+                "file": "Electronica Analoga/Diodo (Analoga 1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Inicios C++.md"
+                "file": "Electronica Analoga/Diodo (Analoga 1).md"
               }
             }
           },
@@ -195,6 +195,7 @@
   },
   "active": "ed2a8dec424646b6",
   "lastOpenFiles": [
+    "C++/Inicios C++.md",
     "Electronica Analoga/Diodo (Analoga 1).md",
     "conflict-files-obsidian-git.md",
     "Electronica Analoga/Imagenes/EsquemaDiodo.png",
@@ -204,7 +205,6 @@
     "Electronica Analoga/Imagenes/EsquematicoDiodo.jpeg",
     "Electronica Analoga/Imagenes",
     "C++/Imagenes",
-    "C++/Inicios C++.md",
     "C++/Comportamiento no inicializado e indefinido.md",
     "Electronica Analoga",
     "C++/Iostream (Libreria).md",
