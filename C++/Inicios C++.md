@@ -11,7 +11,7 @@ Del _Código_ (.cpp) pasa a compilador que crea un archivo intermedio _Object fi
 
 Se incluye de manera predeterminada _C++ Standart Library_ donde viene _Iostream_ que contiene funcionalidades de monitor y teclado.
 
-![[Compilador.png]]
+![Compilador](Imagenes/Compilador.png)
 ## IDE C++
 
 Para un IDE propiamente de C++, se tiene estas diferentes opciones para la depuracion y compilacion para casos especificos:
