@@ -143,7 +143,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,7 +157,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "25d5c0a9c81c0451",
+  "active": "3835dd88d3841b00",
   "lastOpenFiles": [
     "C++/Iostream (Libreria).md",
     "C++/Compilador.png",
