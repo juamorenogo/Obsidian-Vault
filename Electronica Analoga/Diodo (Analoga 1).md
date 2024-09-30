@@ -4,6 +4,7 @@ Tags: #Analoga #Diodos
 
 Elemento de 2 terminales semiconductor con el siguiente símbolo:
 
+![Flujo](Imagenes/Flujo.png)
 
 ![Esquema Del Diodo](Imagenes/EsquemaDiodo.png)
 
