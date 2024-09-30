@@ -19,8 +19,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "cc00430115370278",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electronica Analoga/Diodo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Comportamiento no inicializado e indefinido.md",
+                "file": "Electronica Analoga/Diodo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Comportamiento no inicializado e indefinido.md",
+                "file": "Electronica Analoga/Diodo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Comportamiento no inicializado e indefinido.md"
+                "file": "Electronica Analoga/Diodo.md"
               }
             }
           },
@@ -157,11 +170,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3835dd88d3841b00",
+  "active": "cc00430115370278",
   "lastOpenFiles": [
+    "C++/Comportamiento no inicializado e indefinido.md",
+    "Electronica Analoga/Diodo.md",
+    "Electronica Analoga",
     "C++/Iostream (Libreria).md",
     "C++/Compilador.png",
-    "C++/Comportamiento no inicializado e indefinido.md",
     "Templates/Default Note.md",
     "Templates/Theme Options.md",
     "conflict-files-obsidian-git.md",
