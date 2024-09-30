@@ -8,4 +8,4 @@ La ecuación del Diodo es:
 $$
 I_{D}= I_{S}(e^{\frac{V_{D}}{nV_{T}}}-1)
 $$
-![Ecuación de LaTeX](https://latex.codecogs.com/png.latex?I_{D}%3D%20I_{S}(e^{\frac{V_{D}}{nV_{T}}}-1))
+
