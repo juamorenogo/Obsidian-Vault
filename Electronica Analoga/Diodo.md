@@ -2,8 +2,8 @@
 
 Tags: #Analoga #Diodos
 
-Elemento de 2 terminales semiconductor con el siguiente simbolo:
-[[]]
+Elemento de 2 terminales semiconductor con el siguiente símbolo:
+![[EsquematicoDiodo.jpeg]]
 La ecuación del Diodo es:
 $$
 I_{D}= I_{S}(e^{\frac{V_{D}}{nV_{T}}}-1)
