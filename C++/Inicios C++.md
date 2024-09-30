@@ -4,7 +4,8 @@ Tags: #C
 
 El flujo usual de desarrollo de un programa / proyecto : 
 
-![[Flujo.png]]
+![Flujo](Imagenes/Flujo.png)
+
 
 Del _Código_ (.cpp) pasa a compilador que crea un archivo intermedio _Object file_ (.o) para despues producir el _Output_ (.exe) usando un proceso de _Linking_ que conecta las librerias y objetos para generar una salida.
 
