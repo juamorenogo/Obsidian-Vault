@@ -4,7 +4,7 @@ Tags: #Analoga #Diodos
 
 Elemento de 2 terminales semiconductor con el siguiente símbolo:
 
-![[EsquemaDiodo.png]]
+![[Imagenes/EsquemaDiodo.png|300]]
 
 La ecuación del Diodo es:
 
