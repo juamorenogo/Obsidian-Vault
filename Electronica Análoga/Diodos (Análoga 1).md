@@ -54,7 +54,7 @@ Si se expresa esta formulación teniendo en cuenta parámetros que pueden ser de
 $$\Large V_{rrp} = \frac {I_{Load}}{fC}$$
 Y su nivel DC de offset se calcula como : 
 
-$$\LARGE V_{DC} = Vin_{p} - \frac {Vrrp}{2}$$
+$$\LARGE V_{DC} = Vin_{p} - \frac {V_{rrp}}{2}$$
 # PDF_Referencia
 
 ![[E.Analoga.pdf]]
