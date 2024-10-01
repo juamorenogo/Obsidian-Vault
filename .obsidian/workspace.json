@@ -48,8 +48,12 @@
             "id": "ed2a8dec424646b6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Electronica Analoga/Diodo (Analoga 1).md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -119,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electronica Analoga/Diodo (Analoga 1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electronica Analoga/Diodo (Analoga 1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Electronica Analoga/Diodo (Analoga 1).md"
+              }
             }
           },
           {
@@ -185,16 +193,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed2a8dec424646b6",
+  "active": "950bc8abdbcb2924",
   "lastOpenFiles": [
+    "Templates/Default Note.md",
     "Electronica Analoga/Diodo (Analoga 1).md",
+    "Electronica Analoga/Imagenes/E.Analoga.pdf",
     "Templates/Theme Options.md",
     "C++/Inicios C++.md",
     "C++/Comportamiento no inicializado e indefinido.md",
     "Electronica Analoga/Transistores BJT (Analoga 1).md",
     "C++/Iostream (Libreria).md",
     "C++/Imagenes/Compilador.png",
-    "Templates/Default Note.md",
     "Electronica Analoga/Imagenes/EsquemaDiodo.png",
     "conflict-files-obsidian-git.md",
     "Electronica Analoga/Transistores MOSFET (Analoga 1).md",
