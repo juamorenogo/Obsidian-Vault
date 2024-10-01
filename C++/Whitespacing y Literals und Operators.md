@@ -19,3 +19,18 @@ Se trata de un valor fijo puesto de manera literal en el código, como:
 int x {5};
 ```
 
+Mientras que se entiende a los _operadores_  como:
+* +
+* -
+* /
+* *
+* =
+* <<
+* >>
+* ==
+* new
+* delete
+* throw
+
+Y muchos mas. La cantidad de inputs que acepta un operador es llamado _arity_, que se dividen en:
+*
