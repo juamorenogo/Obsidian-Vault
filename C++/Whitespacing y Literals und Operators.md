@@ -37,3 +37,6 @@ Y muchos mas. La cantidad de inputs que acepta un operador es llamado _arity_, q
 * _Binary_  : 2 inputs, "+" ,">>", "<<"
 * _Ternary_  : 3 inputs, tratados en [REFERENCIA] 
 * _Nullary_  : 0 inputs, tratados en [REFERENCIA]
+
+No todo operador retorna valores y algunos tienen _side effects_ que se define como un efecto observable de un operador posterior al retorno de un resultado. Tal es el caso del operador de asignación _=_.
+
