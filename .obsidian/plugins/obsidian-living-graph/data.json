@@ -1,6 +1,6 @@
 {
   "activeComposites": [
-    "Muscle"
+    "Breathing"
   ],
-  "includeLocal": true
+  "includeLocal": false
 }

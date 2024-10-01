@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiBaggageClaim",
       "LiAlignJustify",
       "LiArrowDownNarrowWide",
       "LiActivitySquare"
@@ -34,5 +35,6 @@
   "Electronica Analoga": "LiActivitySquare",
   "C++": "LiArrowDownNarrowWide",
   "PDFS": "LiAlignJustify",
-  "Templates": "LiAlignJustify"
+  "Templates": "LiAlignJustify",
+  "Circuitos": "LiBaggageClaim"
 }
