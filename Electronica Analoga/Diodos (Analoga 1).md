@@ -36,7 +36,9 @@ En _polarización directa_ funciona como un diodo usual, no obstante, en _invers
 * Se debe tener en cuenta _Izmin_ y _Izmax_ al diseñar y permitir una buena regulación.
 # Rizado en fuentes reguladas lineales de voltaje
 
+El rizado se entiende como la fluctuacion en una señal respecto a una referencia constante. Se establece inicialmente por la siguiente formula:
 
+$$ V_{rrp} = \frac {I_{Load}}{fC}$$
 # PDF_referencia 
 
 ![[E.Analoga.pdf]]
