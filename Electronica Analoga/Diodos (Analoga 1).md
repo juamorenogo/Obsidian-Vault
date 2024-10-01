@@ -50,6 +50,9 @@ Donde cada parámetro se establece como:
 Si se expresa esta formulación teniendo en cuenta parámetros que pueden ser despreciados y que el principal factor del que va a depender el rizado, es la carga y descarga del capacitor, se obtiene que : 
 
 $$\Large V_{rrp} = \frac {I_{Load}}{fC}$$
+Y su nivel DC de offset se calcula como : 
+
+$$\LARGE V_{DC} = Vin_{p} - \frac {Vrrp}{2}$$
 # PDF_Referencia
 
 ![[E.Analoga.pdf]]
