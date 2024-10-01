@@ -8,6 +8,8 @@ Elemento de 2 terminales semiconductor con el siguiente símbolo:
 
 La ecuación del Diodo es:
 
-$$ I_{D}= I_{S}(e^{\frac{V_{D}}{nV_{T}}}-1)$$
+$$\LARGE I_{D}= I_{S}(e^{\frac{V_{D}}{nV_{T}}}-1)$$
 
 
+Donde cada parámetro corresponde a:
+* Id : Corriente 
