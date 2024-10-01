@@ -47,7 +47,9 @@ Donde cada parámetro se establece como:
 * _C_ : Capacitancia del filtro capacitivo
 * _Vrrp_ : Valor del rizado del voltaje después de la rectificación y filtrado.
 
+Si se expresa esta formulación teniendo en cuenta parámetros que pueden ser despreciados y que el principal factor del que va a depender el rizado, es la carga y descarga del capacitor, se obtiene que : 
 
+$$Vrrp = \frac {I_{Load}}{fC}$$
 # PDF_Referencia
 
 ![[E.Analoga.pdf]]
