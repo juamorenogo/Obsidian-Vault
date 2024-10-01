@@ -38,7 +38,7 @@ En _polarización directa_ funciona como un diodo usual, no obstante, en _invers
 
 El rizado se entiende como la fluctuación en una señal respecto a una referencia constante. Se establece inicialmente por la siguiente formula para el caso de un rectificador de onda completa con filtro capacitivo:
 
-$$ V_{rrp} = Vin_{p}-Vin_{p}(e^{\frac {-T/2}{RC}})$$
+$$\Large V_{rrp} = Vin_{p}-Vin_{p}(e^{\frac {-T/2}{RC}})$$
 
 Donde cada parámetro se establece como:
 * _Vin_ : Valor pico de la señal ya rectificada.
@@ -49,7 +49,7 @@ Donde cada parámetro se establece como:
 
 Si se expresa esta formulación teniendo en cuenta parámetros que pueden ser despreciados y que el principal factor del que va a depender el rizado, es la carga y descarga del capacitor, se obtiene que : 
 
-$$Vrrp = \frac {I_{Load}}{fC}$$
+$$\Large V_{rrp} = \frac {I_{Load}}{fC}$$
 # PDF_Referencia
 
 ![[E.Analoga.pdf]]
