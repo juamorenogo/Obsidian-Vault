@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronica Analoga/Diodos (Analoga 1).md",
+                "file": "Electronica Análoga/Diodos (Análoga 1).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronica Analoga/Diodos (Analoga 1).md",
+                "file": "Electronica Análoga/Diodos (Análoga 1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronica Analoga/Diodos (Analoga 1).md",
+                "file": "Electronica Análoga/Diodos (Análoga 1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronica Analoga/Diodos (Analoga 1).md"
+                "file": "Electronica Análoga/Diodos (Análoga 1).md"
               }
             }
           },
@@ -142,8 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,12 +155,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "950bc8abdbcb2924",
+  "active": "58cf559a01cb5203",
   "lastOpenFiles": [
-    "Electronica Analoga/Imagenes/CurvaDiodo.png",
-    "Electronica Analoga/Transistores BJT (Analoga 1).md",
-    "Electronica Analoga/Transistores MOSFET (Analoga 1).md",
-    "Electronica Analoga/Diodos (Analoga 1).md",
+    "Electronica Análoga/Transistores MOSFET (Análoga 1).md",
+    "Electronica Análoga/Transistores BJT (Análoga 1).md",
+    "Electronica Análoga/Diodos (Análoga 1).md",
+    "Electronica Análoga/Imagenes/CurvaDiodo.png",
     "C++/Inicios C++.md",
     "Circuitos",
     "PDFS/E.Analoga.pdf",
@@ -177,13 +176,13 @@
     "Templates/Theme Options.md",
     "C++/Iostream (Libreria).md",
     "C++/Imagenes/Compilador.png",
-    "Electronica Analoga/Imagenes/EsquemaDiodo.png",
+    "Electronica Análoga/Imagenes/EsquemaDiodo.png",
     "conflict-files-obsidian-git.md",
     "Untitled.jpeg",
     "Electronica Analoga/Imagenes/EsquematicoDiodo.jpeg",
-    "Electronica Analoga/Imagenes",
+    "Electronica Análoga/Imagenes",
     "C++/Imagenes",
-    "Electronica Analoga",
+    "Electronica Análoga",
     "C++/Prueba de actualizacion.md",
     "Remote/Inicios C++ 1.md",
     "Remote",

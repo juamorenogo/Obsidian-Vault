@@ -32,9 +32,9 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "Electronica Analoga": "LiActivitySquare",
   "C++": "LiArrowDownNarrowWide",
   "PDFS": "LiAlignJustify",
   "Templates": "LiAlignJustify",
-  "Circuitos": "LiBaggageClaim"
+  "Circuitos": "LiBaggageClaim",
+  "Electronica Análoga": "LiActivitySquare"
 }
