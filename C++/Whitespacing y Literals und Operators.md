@@ -40,3 +40,25 @@ Y muchos mas. La cantidad de inputs que acepta un operador es llamado _arity_, q
 
 No todo operador retorna valores y algunos tienen _side effects_ que se define como un efecto observable de un operador posterior al retorno de un resultado. Tal es el caso del operador de asignación _=_.
 
+Al combinar todo lo anterior se llegan a la concatenacion de operadores y posteriormente a la expresiones.
+
+	Expresion : Secuencia no vacia de literales, variables, funciones y operadores. 
+
+```C++
+// five() is a function that returns the value 5
+int five()
+{
+    return 5;
+}
+
+int main()
+{
+    int a{ 2 };             // initialize variable a with literal value 2
+    int b{ 2 + 3 };         // initialize variable b with computed value 5
+    int c{ (2 * 3) + 4 };   // initialize variable c with computed value 10
+    int d{ b };             // initialize variable d with variable value 5
+    int e{ five() };        // initialize variable e with function return value 5
+
+    return 0;
+}
+```
