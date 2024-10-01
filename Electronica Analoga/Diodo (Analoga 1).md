@@ -20,4 +20,5 @@ $$ V_{T} = \frac {kT}{q} $$
 Con k = constante de Boltzmann (1.38 x 10^-23 J/K)  ||  T = temperatura en Kelvin || q = Carga del electrón (1.6 x10^-19 C). 
 
 * _n (Factor de Idealidad)_ : Idealmente seria de 1, no obstante, el valor suele rondar entre 1 -2 . Define la capacidad de emisión del diodo.
-![[E.Analoga.pdf]]
+
+[PdfElectronica](\Imagenes\E.Analoga.pdf)
