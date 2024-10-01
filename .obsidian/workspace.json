@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Whitespacing y formato básico.md",
+                "file": "C++/Whitespacing y Literals und Operators.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Whitespacing y formato básico.md",
+                "file": "C++/Whitespacing y Literals und Operators.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Whitespacing y formato básico.md",
+                "file": "C++/Whitespacing y Literals und Operators.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Whitespacing y formato básico.md"
+                "file": "C++/Whitespacing y Literals und Operators.md"
               }
             }
           },
@@ -185,7 +185,7 @@
     "C++/Keywords und naming rules.md",
     "C++/Inicios C++.md",
     "C++/Iostream (Libreria).md",
-    "C++/Whitespacing y formato básico.md",
+    "C++/Whitespacing y Literals und Operators.md",
     "C++/Comportamiento no inicializado e indefinido.md",
     "Templates/Theme Options.md",
     "Templates/Default Note.md",
