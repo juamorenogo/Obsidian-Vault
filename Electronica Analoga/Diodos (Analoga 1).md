@@ -24,10 +24,14 @@ Con k = constante de Boltzmann (1.38 x 10^-23 J/K)  ||  T = temperatura en Kelvi
 
 Si Id >> Is entonces la ecuación resultante es:
 $$\LARGE I_{D}= I_{S}(e^{\frac{V_{D}}{nV_{T}}})$$
-La curva característica de un Diodo:
+La curva característica de un Diodo, que incluye el comportamiento Zener para un tipo especifico de diodo:
+
+![Curva Diodo|400](Imagenes/CurvaDiodo.png)
 
 
 # Zener
+
+En _polarización directa_ funciona como un diodo usual, no obstante, en _inversa_ presenta un comportamiento tal que, si se supera un valor de voltaje _vz_ entonces el diodo empieza a conducir corriente. En dado caso que siga aumentando _Vz_ el voltaje del diodo seguiría siendo un valor estable. Por ejemplo, si el diodo Zener esta diseñado para una tensión de **5.6 V** y se aplican **12 V** , el voltaje del diodo se mantendrá haciendo asi un regulador de voltaje.
 
 # Rizado en fuentes reguladas lineales de voltaje
  
