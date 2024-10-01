@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e6ba64f7093a05b8",
+        "id": "9dde3131ab82b30d",
         "type": "tabs",
         "children": [
           {
-            "id": "6d92e518757e15e1",
+            "id": "58cf559a01cb5203",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -44,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#C",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -148,10 +148,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "950bc8abdbcb2924",
+  "active": "58cf559a01cb5203",
   "lastOpenFiles": [
-    "Circuitos",
+    "Electronica Analoga/Transistores BJT (Analoga 1).md",
+    "Electronica Analoga/Transistores MOSFET (Analoga 1).md",
     "Electronica Analoga/Diodo (Analoga 1).md",
+    "C++/Inicios C++.md",
+    "Circuitos",
     "PDFS/E.Analoga.pdf",
     "PDFS",
     "E.Analoga.pdf",
@@ -163,13 +166,10 @@
     "Imagenes",
     "Templates/Default Note.md",
     "Templates/Theme Options.md",
-    "C++/Inicios C++.md",
-    "Electronica Analoga/Transistores BJT (Analoga 1).md",
     "C++/Iostream (Libreria).md",
     "C++/Imagenes/Compilador.png",
     "Electronica Analoga/Imagenes/EsquemaDiodo.png",
     "conflict-files-obsidian-git.md",
-    "Electronica Analoga/Transistores MOSFET (Analoga 1).md",
     "Untitled.jpeg",
     "Electronica Analoga/Imagenes/EsquematicoDiodo.jpeg",
     "Electronica Analoga/Imagenes",
@@ -182,7 +182,6 @@
     "Templates/Untitled.md",
     "C++/C++.md",
     "Pasted image 20240928153322.png",
-    "C++",
-    "Uso"
+    "C++"
   ]
 }
