@@ -26,7 +26,7 @@ Si Id >> Is entonces la ecuación resultante es:
 $$\LARGE I_{D}= I_{S}(e^{\frac{V_{D}}{nV_{T}}})$$
 La curva característica de un Diodo, que incluye el comportamiento Zener para un tipo especifico de diodo:
 
-![Curva Diodo|400](CurvaDiodo.png)
+![Curva Diodo|400](Imagenes/CurvaDiodo.png)
 
 
 # Zener
