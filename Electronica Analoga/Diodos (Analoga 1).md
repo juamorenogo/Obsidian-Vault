@@ -31,10 +31,12 @@ La curva característica de un Diodo, que incluye el comportamiento Zener para u
 
 # Zener
 
-En _polarización directa_ funciona como un diodo usual, no obstante, en _inversa_ presenta un comportamiento tal que, si se supera un valor de voltaje _vz_ entonces el diodo empieza a conducir corriente. En dado caso que siga aumentando _Vz_ el voltaje del diodo seguiría siendo un valor estable. Por ejemplo, si el diodo Zener esta diseñado para una tensión de **5.6 V** y se aplican **12 V** , el voltaje del diodo se mantendrá haciendo asi un regulador de voltaje.
+En _polarización directa_ funciona como un diodo usual, no obstante, en _inversa_ presenta un comportamiento tal que, si se supera un valor de voltaje _vz_ entonces el diodo empieza a conducir corriente. En dado caso que siga aumentando _Vz_ el voltaje del diodo seguiría siendo un valor estable. Por ejemplo, si el diodo Zener esta diseñado para una tensión de **5.6 V** y se aplican **12 V** , el voltaje del diodo se mantendrá haciendo así un regulador de voltaje.
 
+* Se debe tener en cuenta _Izmin_ y _Izmax_ al diseñar y permitir una buena regulación.
 # Rizado en fuentes reguladas lineales de voltaje
- 
+
+
 # PDF_referencia 
 
 ![[E.Analoga.pdf]]
