@@ -17,3 +17,18 @@ El comportamiento indefinido puede generarse por la generación de un código qu
 	- Your program works on some compilers but not others.
 	- Your program works until you change some other seemingly unrelated code.
 
+#  Implementation-defined behavior:
+Entendiendo _Implementation_ como el conjunto del compilador y librerías estándar de C++. Esto variara dado el siguiente código:
+
+```C++
+#include <iostream>
+
+int main()
+{
+	std::cout << sizeof(int) << '\n'; // print how many bytes of memory an int value takes
+
+	return 0;
+}
+```
+
+Algunas implementaciones darán como resultado **2** mientras que otras darán **4**.
