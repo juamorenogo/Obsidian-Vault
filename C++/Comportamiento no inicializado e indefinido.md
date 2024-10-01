@@ -7,7 +7,7 @@ Inicializar se refiere a darle un espacio de memoria a la variable, mas no darle
 	- Assignment = The object is given a known value beyond the point of definition.
 	- Uninitialized = The object has not been given a known value yet.
 
-El comportamiento indefinido puede generarse por la generacion de un codigo que el lenguaje no sabe interpretar correctamente, los sintomas de esto son:
+El comportamiento indefinido puede generarse por la generación de un código que el lenguaje no sabe interpretar correctamente, los síntomas de esto son:
 
 	- Your program produces different results every time it is run.
 	- Your program consistently produces the same incorrect result.

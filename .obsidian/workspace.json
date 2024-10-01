@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronica Análoga/Diodos (Análoga 1).md",
+                "file": "C++/Comportamiento no inicializado e indefinido.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronica Análoga/Diodos (Análoga 1).md",
+                "file": "C++/Comportamiento no inicializado e indefinido.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronica Análoga/Diodos (Análoga 1).md",
+                "file": "C++/Comportamiento no inicializado e indefinido.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronica Análoga/Diodos (Análoga 1).md"
+                "file": "C++/Comportamiento no inicializado e indefinido.md"
               }
             }
           },
@@ -157,9 +157,12 @@
   },
   "active": "58cf559a01cb5203",
   "lastOpenFiles": [
+    "Templates/Theme Options.md",
+    "Templates/Default Note.md",
+    "C++/Comportamiento no inicializado e indefinido.md",
+    "Electronica Análoga/Diodos (Análoga 1).md",
     "Electronica Análoga/Transistores MOSFET (Análoga 1).md",
     "Electronica Análoga/Transistores BJT (Análoga 1).md",
-    "Electronica Análoga/Diodos (Análoga 1).md",
     "Electronica Análoga/Imagenes/CurvaDiodo.png",
     "C++/Inicios C++.md",
     "Circuitos",
@@ -168,12 +171,9 @@
     "E.Analoga.pdf",
     "imagenes.md",
     "imagenes 2.md",
-    "C++/Comportamiento no inicializado e indefinido.md",
     "imagenes 1.md",
     "Imagenes/E.Analoga.pdf.md",
     "Imagenes",
-    "Templates/Default Note.md",
-    "Templates/Theme Options.md",
     "C++/Iostream (Libreria).md",
     "C++/Imagenes/Compilador.png",
     "Electronica Análoga/Imagenes/EsquemaDiodo.png",

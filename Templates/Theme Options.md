@@ -64,3 +64,6 @@ to[R=$R_2$, i>_=$i_2$]
 ```
 [HoLaTeX](https://holatex.app/)
 $$\LARGE I_{D}= I_{S}(e^{\frac{V_{D}}{nV_{T}}}-1)$$
+Alt+96 = "``"
+Alt + 94 = "^"
+Alt + 92 =  "\"
