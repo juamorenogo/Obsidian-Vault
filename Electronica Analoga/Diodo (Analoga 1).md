@@ -7,6 +7,7 @@ Elemento de 2 terminales semiconductor con el siguiente símbolo:
 ![Esquema Del Diodo|300](Imagenes/EsquemaDiodo.png)
 
 La ecuación del Diodo para el diodo cuando esta en **polarización directa**.
+
 $$\LARGE I_{D}= I_{S}(e^{\frac{V_{D}}{nV_{T}}}-1)$$
 
 Donde cada parámetro corresponde a:
