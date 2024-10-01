@@ -41,7 +41,7 @@ El rizado se entiende como la fluctuación en una señal respecto a una referenc
 $$\Large V_{rrp} = Vin_{p}-Vin_{p}(e^{\frac {-T/2}{RC}})$$
 
 Donde cada parámetro se establece como:
-* _Vin_ : Valor pico de la señal ya rectificada.
+* _Vinp_ : Valor pico de la señal ya rectificada.
 * _T_ : Periodo de la señal original
 * _R_ : Resistencia de carga.
 * _C_ : Capacitancia del filtro capacitivo
