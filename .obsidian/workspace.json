@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronica Analoga/Diodo (Analoga 1).md",
+                "file": "Electronica Analoga/Diodos (Analoga 1).md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronica Analoga/Diodo (Analoga 1).md",
+                "file": "Electronica Analoga/Diodos (Analoga 1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronica Analoga/Diodo (Analoga 1).md",
+                "file": "Electronica Analoga/Diodos (Analoga 1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronica Analoga/Diodo (Analoga 1).md"
+                "file": "Electronica Analoga/Diodos (Analoga 1).md"
               }
             }
           },
@@ -160,7 +160,7 @@
   "lastOpenFiles": [
     "Electronica Analoga/Transistores BJT (Analoga 1).md",
     "Electronica Analoga/Transistores MOSFET (Analoga 1).md",
-    "Electronica Analoga/Diodo (Analoga 1).md",
+    "Electronica Analoga/Diodos (Analoga 1).md",
     "C++/Inicios C++.md",
     "Circuitos",
     "PDFS/E.Analoga.pdf",

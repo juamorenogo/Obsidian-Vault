@@ -24,6 +24,10 @@ Con k = constante de Boltzmann (1.38 x 10^-23 J/K)  ||  T = temperatura en Kelvi
 
 Si Id >> Is entonces la ecuación resultante es:
 $$\LARGE I_{D}= I_{S}(e^{\frac{V_{D}}{nV_{T}}})$$
+# Zener
+
+# Rizado en fuentes reguladas lineales de voltaje
+ 
 # PDF_referencia 
 
 ![[E.Analoga.pdf]]
