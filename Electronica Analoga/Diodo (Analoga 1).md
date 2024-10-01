@@ -22,6 +22,8 @@ Con k = constante de Boltzmann (1.38 x 10^-23 J/K)  ||  T = temperatura en Kelvi
 
 * _n (Factor de Idealidad)_ : Idealmente seria de 1, no obstante, el valor suele rondar entre 1 -2 . Define la capacidad de emisión del diodo.
 
+Si Id >> Is entonces la ecuación resultante es:
+$$\LARGE I_{D}= I_{S}(e^{\frac{V_{D}}{nV_{T}}})$$
 # PDF_referencia 
 
 ![[E.Analoga.pdf]]
