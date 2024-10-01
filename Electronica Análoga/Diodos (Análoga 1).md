@@ -23,7 +23,9 @@ Con k = constante de Boltzmann (1.38 x 10^-23 J/K)  ||  T = temperatura en Kelvi
 * _n (Factor de Idealidad)_ : Idealmente seria de 1, no obstante, el valor suele rondar entre 1 -2 . Define la capacidad de emisión del diodo.
 
 Si Id >> Is entonces la ecuación resultante es:
+
 $$\LARGE I_{D}= I_{S}(e^{\frac{V_{D}}{nV_{T}}})$$
+
 La curva característica de un Diodo, que incluye el comportamiento Zener para un tipo especifico de diodo:
 
 ![Curva Diodo|400](Imagenes/CurvaDiodo.png)
