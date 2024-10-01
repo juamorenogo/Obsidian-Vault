@@ -1,6 +1,6 @@
 2024-09-29 14:46
 
-Tags: #C
+Tags: #C #Clibreria
 # cout
 Llamada  **input/output library** hace parte default de las librerias de _C++_ , donde _cout (character output)_ muestra texto en la consola usando _Operador de insercion "<<"_. El cual puede concatenar impresiones: 
 ```C++

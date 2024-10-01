@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f981776b29872e24",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "C++/Whitespacing y formato básico.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Keywords und naming rules.md",
+                "file": "C++/Whitespacing y formato básico.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Keywords und naming rules.md",
+                "file": "C++/Whitespacing y formato básico.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Keywords und naming rules.md"
+                "file": "C++/Whitespacing y formato básico.md"
               }
             }
           },
@@ -168,17 +180,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb62788055eff8fc",
+  "active": "f981776b29872e24",
   "lastOpenFiles": [
-    "C++/Comportamiento no inicializado e indefinido.md",
     "C++/Keywords und naming rules.md",
+    "C++/Inicios C++.md",
+    "C++/Iostream (Libreria).md",
+    "C++/Whitespacing y formato básico.md",
+    "C++/Comportamiento no inicializado e indefinido.md",
     "Templates/Theme Options.md",
     "Templates/Default Note.md",
     "Electronica Análoga/Diodos (Análoga 1).md",
     "Electronica Análoga/Transistores MOSFET (Análoga 1).md",
     "Electronica Análoga/Transistores BJT (Análoga 1).md",
     "Electronica Análoga/Imagenes/CurvaDiodo.png",
-    "C++/Inicios C++.md",
     "Circuitos",
     "PDFS/E.Analoga.pdf",
     "PDFS",
@@ -188,7 +202,6 @@
     "imagenes 1.md",
     "Imagenes/E.Analoga.pdf.md",
     "Imagenes",
-    "C++/Iostream (Libreria).md",
     "C++/Imagenes/Compilador.png",
     "Electronica Análoga/Imagenes/EsquemaDiodo.png",
     "conflict-files-obsidian-git.md",
