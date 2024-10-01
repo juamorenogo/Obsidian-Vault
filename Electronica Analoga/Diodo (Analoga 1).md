@@ -21,4 +21,5 @@ Con k = constante de Boltzmann (1.38 x 10^-23 J/K)  ||  T = temperatura en Kelvi
 
 * _n (Factor de Idealidad)_ : Idealmente seria de 1, no obstante, el valor suele rondar entre 1 -2 . Define la capacidad de emisión del diodo.
 
-[PdfElectronica](\Imagenes\E.Analoga.pdf)
+
+![[E.Analoga.pdf]]

@@ -4,48 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f790065c0eeb866c",
+        "id": "e6ba64f7093a05b8",
         "type": "tabs",
         "children": [
           {
-            "id": "25d5c0a9c81c0451",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/Comportamiento no inicializado e indefinido.md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cc00430115370278",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electronica Analoga/Diodo (Analoga 1).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c6e5e98b5dc5c4f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electronica Analoga/Diodo (Analoga 1).md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ed2a8dec424646b6",
+            "id": "6d92e518757e15e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,15 +155,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed2a8dec424646b6",
+  "active": "6d92e518757e15e1",
   "lastOpenFiles": [
-    "E.Analoga.pdf",
-    "Templates/Default Note.md",
+    "PDFS/E.Analoga.pdf",
+    "PDFS",
     "Electronica Analoga/Diodo (Analoga 1).md",
-    "Electronica Analoga/Imagenes/E.Analoga.pdf",
+    "E.Analoga.pdf",
+    "imagenes.md",
+    "imagenes 2.md",
+    "C++/Comportamiento no inicializado e indefinido.md",
+    "imagenes 1.md",
+    "Imagenes/E.Analoga.pdf.md",
+    "Imagenes",
+    "Templates/Default Note.md",
     "Templates/Theme Options.md",
     "C++/Inicios C++.md",
-    "C++/Comportamiento no inicializado e indefinido.md",
     "Electronica Analoga/Transistores BJT (Analoga 1).md",
     "C++/Iostream (Libreria).md",
     "C++/Imagenes/Compilador.png",
