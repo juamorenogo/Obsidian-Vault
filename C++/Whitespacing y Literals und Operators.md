@@ -33,4 +33,7 @@ Mientras que se entiende a los _operadores_  como:
 * throw
 
 Y muchos mas. La cantidad de inputs que acepta un operador es llamado _arity_, que se dividen en:
-*
+* _Unary_  : 1 input, "-". Ej: "-5".
+* _Binary_  : 2 inputs, "+" ,">>", "<<"
+* _Ternary_  : 3 inputs, tratados en [REFERENCIA] 
+* _Nullary_  : 0 inputs, tratados en [REFERENCIA]
