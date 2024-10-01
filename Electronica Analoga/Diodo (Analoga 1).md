@@ -16,7 +16,7 @@ Donde cada parámetro corresponde a:
 * _VD (Voltaje a través del diodo)_ : Este voltaje en **polarización directa** es fijo (0.1 v - 0.8 v). En **polarización inversa** depende del circuito y es negativo (Desde Ánodo hasta Cátodo).
 * _VT (Voltaje térmico) :_ Parámetro establecido por la temperatura, dado por la siguiente ecuación:
 
-$$ V_{T} = \frac {kT}{q} $$
+$$\LARGE V_{T} = \frac {kT}{q} $$
 
 Con k = constante de Boltzmann (1.38 x 10^-23 J/K)  ||  T = temperatura en Kelvin || q = Carga del electrón (1.6 x10^-19 C). 
 
