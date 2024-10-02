@@ -13,4 +13,5 @@
 - [ ] Stremio
 - [ ] VLC
 - [ ] winrar
-- [ ] 
+- [ ] Descargar emulador snes Drive
+- [
