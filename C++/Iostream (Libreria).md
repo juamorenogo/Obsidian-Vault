@@ -15,7 +15,7 @@ Esta sentencia se almacena en el _Buffer_ , osea tiene un limite de transferenci
 
 ### Saltos de linea
 	std::endl vs \n.
-La primera opcion _std:::endl_ es menos eficiente ya que añade datos al buffer, mientras que _\n_ hace el salto directo, de la siguiente forma:
+La primera opcion _std::endl_ es menos eficiente ya que añade datos al buffer, mientras que _\n_ hace el salto directo, de la siguiente forma:
 ```c++
 #include <iostream> // for std::cout
 
