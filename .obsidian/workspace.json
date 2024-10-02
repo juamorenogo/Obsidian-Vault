@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "53264989468ace70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backup portatil.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Whitespacing y Literals und Operators.md",
+                "file": "Backup portatil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Whitespacing y Literals und Operators.md",
+                "file": "Backup portatil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Whitespacing y Literals und Operators.md"
+                "file": "Backup portatil.md"
               }
             }
           },
@@ -167,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,10 +193,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f981776b29872e24",
+  "active": "53264989468ace70",
   "lastOpenFiles": [
-    "C++/Iostream (Libreria).md",
     "C++/Whitespacing y Literals und Operators.md",
+    "Backup portatil.md",
+    "C++/Iostream (Libreria).md",
     "C++/Keywords und naming rules.md",
     "C++/Inicios C++.md",
     "C++/Comportamiento no inicializado e indefinido.md",
