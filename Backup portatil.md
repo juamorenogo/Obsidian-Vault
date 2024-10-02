@@ -21,4 +21,5 @@
 - [ ] Driver bluetooth
 - [ ] Office
 - [ ] Visual studio code
+- [ ] Git
 - [ ] 
