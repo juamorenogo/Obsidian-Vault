@@ -43,6 +43,7 @@ No todo operador retorna valores y algunos tienen _side effects_ que se define c
 Al combinar todo lo anterior se llegan a la concatenacion de operadores y posteriormente a la expresiones.
 
 	Expresion : Secuencia no vacia de literales, variables, funciones y operadores. 
+Tambien existen terminos como _Subexpression_, _Full expression_ , _Expression Statement_.
 
 ```C++
 // five() is a function that returns the value 5
