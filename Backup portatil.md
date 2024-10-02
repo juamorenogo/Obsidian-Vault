@@ -14,4 +14,11 @@
 - [ ] VLC
 - [ ] winrar
 - [ ] Descargar emulador snes Drive
-- [
+- [ ] Usb
+- [ ] Driver sonido
+- [ ] Driver wifi
+- [ ] Driver visual
+- [ ] Driver bluetooth
+- [ ] Office
+- [ ] Visual studio code
+- [ ] 
