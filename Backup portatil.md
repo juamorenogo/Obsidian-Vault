@@ -22,4 +22,5 @@
 - [ ] Office
 - [ ] Visual studio code
 - [ ] Git
+- [ ] Dejar particion de una vez para linux (30gb)
 - [ ] 
