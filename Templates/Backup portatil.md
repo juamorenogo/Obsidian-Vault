@@ -8,8 +8,8 @@
 - [ ] Adobe pirata
 - [ ] Java
 - [ ] Multisim
-- [ ] Ltspice
-- [ ] Matlab y librerias
+- [x] Ltspice ✅ 2024-10-03
+- [x] Matlab y librerias ✅ 2024-10-03
 - [ ] Stremio
 - [ ] VLC
 - [x] winrar ✅ 2024-10-03

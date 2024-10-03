@@ -21,6 +21,7 @@ Usado en aplicaciones de media / alta potencia, baja / media frecuencia.
 
 
 
+
 	SCR: silicon controller rectifier.
 
 

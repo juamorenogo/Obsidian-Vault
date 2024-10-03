@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Backup portatil.md",
+                "file": "Fluss/Fundamentales Electrónica de potencia.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Backup portatil.md",
+                "file": "Fluss/Fundamentales Electrónica de potencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Backup portatil.md",
+                "file": "Fluss/Fundamentales Electrónica de potencia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Backup portatil.md"
+                "file": "Fluss/Fundamentales Electrónica de potencia.md"
               }
             }
           },
@@ -207,11 +207,11 @@
   },
   "active": "400b995980330625",
   "lastOpenFiles": [
+    "Templates/Backup portatil.md",
     "Fluss/Fundamentales Electrónica de potencia.md",
     "C++/Inicios C++.md",
     "Fluss/Imagenes",
     "Fluss/Imagenes/bloquespotencia.jpeg",
-    "Templates/Backup portatil.md",
     "Fluss",
     "C++/Whitespacing y Literals und Operators.md",
     "C++/Iostream (Libreria).md",
