@@ -3,8 +3,8 @@
 
 - [ ] Github desktop
 - [ ] Obsidian
-- [ ] Opera
-- [ ] Steam / Fondo vinland saga
+- [x] Opera ✅ 2024-10-03
+- [x] Steam / Fondo vinland saga ✅ 2024-10-03
 - [ ] Adobe pirata
 - [ ] Java
 - [ ] Multisim
@@ -12,15 +12,15 @@
 - [ ] Matlab y librerias
 - [ ] Stremio
 - [ ] VLC
-- [ ] winrar
+- [x] winrar ✅ 2024-10-03
 - [ ] Descargar emulador snes Drive
 - [ ] Usb
 - [ ] Driver sonido
-- [ ] Driver wifi
+- [x] Driver wifi ✅ 2024-10-03
 - [ ] Driver visual
 - [ ] Driver bluetooth
 - [ ] Office
 - [ ] Visual studio code
-- [ ] Git
-- [ ] Dejar particion de una vez para linux (30gb)
+- [x] Git ✅ 2024-10-03
+- [x] Dejar particion de una vez para linux (30gb) ✅ 2024-10-03
 - [ ] 
