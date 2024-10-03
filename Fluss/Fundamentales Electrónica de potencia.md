@@ -19,6 +19,8 @@ Usado en aplicaciones de baja / media potencia y frecuencia.
 ### IGCT (Integrated gate commutated thyristor)
 Usado en aplicaciones de media / alta potencia, baja / media frecuencia.
 
+* **Convertidor de potencia -> DC**
+* **Transformador -> AC**
 
 
 
