@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fluss/Untitled.md",
+                "file": "Fluss/Fundamentales Electrónica de potencia.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fluss/Untitled.md",
+                "file": "Fluss/Fundamentales Electrónica de potencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fluss/Untitled.md",
+                "file": "Fluss/Fundamentales Electrónica de potencia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fluss/Untitled.md"
+                "file": "Fluss/Fundamentales Electrónica de potencia.md"
               }
             }
           },
@@ -205,10 +205,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "950bc8abdbcb2924",
+  "active": "400b995980330625",
   "lastOpenFiles": [
-    "Fluss/Untitled.md",
-    "Fluss/Untitled.md",
+    "Fluss/Fundamentales Electrónica de potencia.md",
+    "Fluss/Fundamentales Electrónica de potencia.md",
     "Templates/Backup portatil.md",
     "Fluss",
     "C++/Whitespacing y Literals und Operators.md",
