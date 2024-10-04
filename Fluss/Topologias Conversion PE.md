@@ -12,7 +12,7 @@ Esquema mas simple de este convertidor:
 ![ConvertidorBuck|700](Imagenes/Buck1.jpeg)
 Si se controla el switcheo en un periodo _T_ , la salida _Vo = Vin_ cuando **P-switch On** y _Vo = 0_ cuando **N-switch On** . El tiempo de prendido sera determinado por el __ciclo de trabajo(Dt)__ y __T__.  Como la onda resultante es pulsante se usa un filtrado LC a DC estable, siendo que se trabaja un el voltaje promedio de la onda:
 $$
-\LARGE V_{avg}=\frac {1}{T}​ \int_{0}^{DT} V_{i} =DV_{i}
+\LARGE V_{avg}=\frac {1}{T}​ \int_{0}^{DT} V_{i} =DtV_{i}
 $$
 Como _Dt < 1_ la salida DC siempre sera menor a la entrada. Circuito basico general de buck converter:
 
@@ -25,6 +25,9 @@ Como _Dt < 1_ la salida DC siempre sera menor a la entrada. Circuito basico gene
 ![Buck3 | 450](Imagenes/Buck3.png)
 
 El comportamiento varia de acuerdo al diodo usado.  En el caso de un diodo normal, solo se tiene el circuito buck sin regulación de voltaje. Por otro lado, el diodo zener permite tener protección contra sobre voltajes y asegura un voltaje máximo (regulación de voltaje).
+
+#### Full bridge non-isolated down (Buck)
+Esquema mas simple de este convertidor:
 
 ### DC / AC Converter (Inverter):
 Convierte un nivel _Vin_ AC de entrada a una onda cualquiera AC.
