@@ -24,6 +24,6 @@ Se asume una tensión  _0 V_ , una corriente de fuga de _0 A_ y un cambio instan
 	
 	![Triac | 500](Imagenes/Triac.jpeg) 
 
-	_DRIAC:_ Simbolo usado para un driac (Diode for Alternating Current) 
+	_DIAC:_ Simbolo usado para un driac (Diode for Alternating Current) 
 	![[DIAC.jpeg]]
 * Controlled switch: Con terminal de control y control de apagado y cerrado _(BJT , MOSFET , IGBT , GTO THYRISTOR  MCT)_

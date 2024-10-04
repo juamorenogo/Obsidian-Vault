@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fluss/Fundamentales Electrónica de potencia.md",
+                "file": "Fluss/Switches PE.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fluss/Fundamentales Electrónica de potencia.md",
+                "file": "Fluss/Switches PE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fluss/Fundamentales Electrónica de potencia.md",
+                "file": "Fluss/Switches PE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fluss/Fundamentales Electrónica de potencia.md"
+                "file": "Fluss/Switches PE.md"
               }
             }
           },
@@ -171,9 +171,9 @@
   },
   "active": "498354ccfa63ec68",
   "lastOpenFiles": [
+    "Fluss/Fundamentales Electrónica de potencia.md",
     "Fluss/Imagenes/DIAC.jpeg",
     "Fluss/Switches PE.md",
-    "Fluss/Fundamentales Electrónica de potencia.md",
     "Fluss/Imagenes/Thyristor.jpeg",
     "Fluss/Imagenes/Triac.jpeg",
     "Templates/Backup portatil.md",
