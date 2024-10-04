@@ -22,7 +22,13 @@ Usado en aplicaciones de media / alta potencia, baja / media frecuencia.
 * **Convertidor de potencia -> DC**
 * **Transformador -> AC**
 
-Un switch ideal PE 
+## Switches PE
+
+Un switch ideal PE se define como un elemento de 3 terminales; _in_ , _out_ y _control_ que tiene un consumo de 0 Watts.
+
+## Tipos de switches
+
+Se asume una tensión  
 
 	SCR: silicon controller rectifier.
 
