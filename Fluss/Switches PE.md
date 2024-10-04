@@ -3,7 +3,6 @@
 Tags: #Thyristor #Fluss #Potencia
  
 
-
 ## Switches PE
 
 Un switch ideal PE se define como un elemento de 3 terminales; _in_ , _out_ y _control_ que tiene un consumo de 0 Watts.
