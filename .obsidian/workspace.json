@@ -216,8 +216,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d4d0164d43d1f30",
+  "active": "950bc8abdbcb2924",
   "lastOpenFiles": [
+    "Fluss/Imagenes/BuckIsolatedfull.png",
     "Fluss/Topologias Conversion PE/AC_AC.md",
     "Fluss/Topologias Conversion PE/DC_DC.md",
     "Fluss/Topologias Conversion PE/AC_DC.md",
@@ -262,7 +263,6 @@
     "conflict-files-obsidian-git.md",
     "Electronica Análoga/Imagenes",
     "C++/Prueba de actualizacion.md",
-    "Remote/Inicios C++ 1.md",
-    "Templates/Untitled.md"
+    "Remote/Inicios C++ 1.md"
   ]
 }

@@ -5,9 +5,9 @@ Tags: #Fluss #Potencia #Topologia
 
 
 Un convertir de potencia electronico son en general circuitos de conmutacion semiconductora con 4 formas generales:
-### DC / DC Converter (Switching Regulator) : 
+## DC / DC Converter (Switching Regulator) : 
 Convierte el nivel de _Vin_  a un nuevo nivel _ßVout_ con _ß>0_.
-#### Non-isolated buck converter (Step-down converter) (Convencional)
+### Non-isolated buck converter (Step-down converter) (Convencional)
 Esquema mas simple de este convertidor:
 ![ConvertidorBuck|700](Imagenes/Buck1.jpeg)
 Si se controla el switcheo en un periodo _T_ , la salida _Vo = Vin_ cuando **P-switch On** y _Vo = 0_ cuando **N-switch On** . El tiempo de prendido sera determinado por el __ciclo de trabajo(Dt)__ y __T__.  Como la onda resultante es pulsante se usa un filtrado LC a DC estable, siendo que se trabaja un el voltaje promedio de la onda:
@@ -26,7 +26,7 @@ Como _Dt < 1_ la salida DC siempre sera menor a la entrada. Circuito basico gene
 
 El comportamiento varia de acuerdo al diodo usado.  En el caso de un diodo normal, solo se tiene el circuito buck sin regulación de voltaje. Por otro lado, el diodo zener permite tener protección contra sobre voltajes y asegura un voltaje máximo (regulación de voltaje).
 
-#### Full bridge non-isolated down (Buck)
+### Full bridge non-isolated down (Buck)
 Esquema mas simple de este convertidor:
 ![[Buck4.jpeg]]
 
@@ -47,7 +47,10 @@ Donde _Dt > 0.5_ se tiene un ciclo positivo y en _Dt < 0.5_ un ciclo negativo.
 | **Eficiencia**             | Moderada                           | Alta                                    |
 | **Tamaño y costo**         | Menor                              | Mayor                                   |
 
+### Full bridge Buck converter isolated 
 
+![IsolatedBuck | 450](Imagenes/BuckIsolatedfull.PNG)
 
+### Full bridge Buck converter non-isolated 
 
-
+![IsolatedBuck | 450](Imagenes/BuckIsolatedfull.PNG)
