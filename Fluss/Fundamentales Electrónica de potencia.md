@@ -22,7 +22,7 @@ Usado en aplicaciones de media / alta potencia, baja / media frecuencia.
 * **Convertidor de potencia -> DC**
 * **Transformador -> AC**
 
-Un switch ideal se define como : 
+Un switch ideal PE 
 
 	SCR: silicon controller rectifier.
 
