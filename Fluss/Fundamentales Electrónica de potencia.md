@@ -33,7 +33,7 @@ Se asume una tensión  _0 V_ , una corriente de fuga de _0 A_ y un cambio instan
 * Semi-controlled switch: Con terminal de control pero limitacion en su accionar _(SCR / Thyristor)._
 	En el caso de un _Thyristor_ por el terminal de control se puede "prender" permitiendo el paso de corriente (Funcionando como un diodo), no obstante, no se puede apagar sin un circuito adicional. 
 
-		Dispositivo PNPN
+		Dispositivo PNPN : Thyristor -> Caso especial SRC, TRIAC DIAC
 	
 	![Thyristor | 500](Imagenes/Thyristor.jpeg)
 	
