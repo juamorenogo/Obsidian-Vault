@@ -40,3 +40,6 @@ Se asume una tensión  _0 V_ , una corriente de fuga de _0 A_ y un cambio instan
 	_GTO_: Opera de manera similar a un thyristor con la diferencia en su construcción física que permite el apagado del elemento por medio de una corriente negativa en su compuerta. 
 	
 	![gto|500](Imagenes/GTO.jpeg)
+	
+	_MCT (MOS-Controlled Thyristor)_: Elemento hibrido poco usado en la industria que combina MOSFET con Thyristor. 
+	
