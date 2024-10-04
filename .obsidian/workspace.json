@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fluss/Switches PE.md",
+                "file": "Notas Varias/Theme Options.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fluss/Switches PE.md",
+                "file": "Notas Varias/Theme Options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fluss/Switches PE.md",
+                "file": "Notas Varias/Theme Options.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fluss/Switches PE.md"
+                "file": "Notas Varias/Theme Options.md"
               }
             }
           },
@@ -168,27 +168,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3835dd88d3841b00",
+  "active": "950bc8abdbcb2924",
   "lastOpenFiles": [
+    "Notas Varias",
+    "Notas Varias/Repasar.md",
+    "Fluss/Switches PE.md",
     "Fluss/Imagenes/GTO.jpeg",
     "Fluss/Imagenes/IGBT.jpeg",
     "Fluss/Fundamentales Electrónica de potencia.md",
     "Electronica Análoga/Transistores MOSFET (Análoga 1).md",
-    "Fluss/Switches PE.md",
     "Fluss/Imagenes/DIAC.jpeg",
     "Fluss/Imagenes/Thyristor.jpeg",
     "Fluss/Imagenes/Triac.jpeg",
-    "Templates/Backup portatil.md",
+    "Notas Varias/Backup portatil.md",
     "C++/Whitespacing y Literals und Operators.md",
     "C++/Keywords und naming rules.md",
     "C++/Comportamiento no inicializado e indefinido.md",
-    "Repasar.md",
     "C++/Inicios C++.md",
     "Fluss/Imagenes",
     "Fluss/Imagenes/bloquespotencia.jpeg",
     "Fluss",
     "C++/Iostream (Libreria).md",
-    "Templates/Theme Options.md",
+    "Notas Varias/Theme Options.md",
     "Templates/Default Note.md",
     "Electronica Análoga/Diodos (Análoga 1).md",
     "Electronica Análoga/Transistores BJT (Análoga 1).md",
@@ -208,10 +209,8 @@
     "Electronica Analoga/Imagenes/EsquematicoDiodo.jpeg",
     "Electronica Análoga/Imagenes",
     "C++/Imagenes",
-    "Electronica Análoga",
     "C++/Prueba de actualizacion.md",
     "Remote/Inicios C++ 1.md",
-    "C++/Imagenes/Flujo.png",
     "Templates/Untitled.md",
     "C++/C++.md"
   ]
