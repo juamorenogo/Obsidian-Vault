@@ -28,7 +28,9 @@ El comportamiento varia de acuerdo al diodo usado.  En el caso de un diodo norma
 
 ### Full bridge non-isolated down (Buck)
 Esquema mas simple de este convertidor:
+
 ![[Buck4.jpeg]]
+
 
 En vez del uso de un único transistor para controlar la corriente, se usan 4 transistores que crean 2 posibles flujos de corriente, uno positivo y uno negativo. Cuando **P_Switches ON** se tiene que _Vo =Vin_ y cuando **N-Switches ON** se tiene que _Vo=-Vin_.  Esto produce una señal cuadrada como la de la imagen, que pasa por un filtro LC (como filtro harmónico) para finalmente obtener en _Vo_ el voltaje promedio dado por la siguiente expresión:
 
