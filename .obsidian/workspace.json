@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Repasar.md",
+                "file": "Fluss/Fundamentales Electrónica de potencia.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Repasar.md",
+                "file": "Fluss/Fundamentales Electrónica de potencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Repasar.md",
+                "file": "Fluss/Fundamentales Electrónica de potencia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Repasar.md"
+                "file": "Fluss/Fundamentales Electrónica de potencia.md"
               }
             }
           },
@@ -219,8 +219,8 @@
   },
   "active": "f44fd11c21482781",
   "lastOpenFiles": [
-    "Templates/Backup portatil.md",
     "Repasar.md",
+    "Templates/Backup portatil.md",
     "Fluss/Fundamentales Electrónica de potencia.md",
     "C++/Inicios C++.md",
     "Fluss/Imagenes",
