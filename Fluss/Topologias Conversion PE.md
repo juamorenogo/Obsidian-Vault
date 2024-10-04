@@ -16,11 +16,11 @@ $$
 $$
 Como _Dt < 1_ la salida DC siempre sera menor a la entrada. Circuito basico general de buck converter:
 
-#### CON ZENER
+##### CON ZENER
 
 ![Buck2|450](Imagenes/Buck2.png)
 
-#### SIN ZENER
+##### SIN ZENER
 
 ![Buck3 | 450](Imagenes/Buck3.png)
 
