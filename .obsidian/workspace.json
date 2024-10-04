@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fluss/Fundamentales Electrónica de potencia.md",
+                "file": "Fluss/Switches PE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3a15b68dc81fba55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fluss/Topologias Conversion PE.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,8 +90,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fluss/Fundamentales Electrónica de potencia.md",
+                "file": "Fluss/Topologias Conversion PE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fluss/Fundamentales Electrónica de potencia.md",
+                "file": "Fluss/Topologias Conversion PE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fluss/Fundamentales Electrónica de potencia.md"
+                "file": "Fluss/Topologias Conversion PE.md"
               }
             }
           },
@@ -169,10 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b9f217662251f302",
+  "active": "3a15b68dc81fba55",
   "lastOpenFiles": [
-    "Fluss/Fundamentales Electrónica de potencia.md",
     "Fluss/Switches PE.md",
+    "Fluss/Topologias Conversion PE.md",
+    "Fluss/Fundamentales Electrónica de potencia.md",
     "Notas Varias/Theme Options.md",
     "Notas Varias",
     "Notas Varias/Repasar.md",
