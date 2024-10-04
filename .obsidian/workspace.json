@@ -78,7 +78,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -168,15 +169,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "498354ccfa63ec68",
+  "active": "b9f217662251f302",
   "lastOpenFiles": [
+    "Fluss/Fundamentales Electrónica de potencia.md",
     "Fluss/Switches PE.md",
     "Notas Varias/Theme Options.md",
     "Notas Varias",
     "Notas Varias/Repasar.md",
     "Fluss/Imagenes/GTO.jpeg",
     "Fluss/Imagenes/IGBT.jpeg",
-    "Fluss/Fundamentales Electrónica de potencia.md",
     "Electronica Análoga/Transistores MOSFET (Análoga 1).md",
     "Fluss/Imagenes/DIAC.jpeg",
     "Fluss/Imagenes/Thyristor.jpeg",
