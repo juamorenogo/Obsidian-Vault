@@ -2,7 +2,7 @@
 ## Lista de tareas
 
 - [ ] Github desktop
-- [ ] Obsidian
+- [x] Obsidian ✅ 2024-10-04
 - [x] Opera ✅ 2024-10-03
 - [x] Steam / Fondo vinland saga ✅ 2024-10-03
 - [ ] Adobe pirata
@@ -15,12 +15,12 @@
 - [x] winrar ✅ 2024-10-03
 - [ ] Descargar emulador snes Drive
 - [ ] Usb
-- [ ] Driver sonido
+- [x] Driver sonido ✅ 2024-10-04
 - [x] Driver wifi ✅ 2024-10-03
-- [ ] Driver visual
-- [ ] Driver bluetooth
+- [x] Driver visual ✅ 2024-10-04
+- [x] Driver bluetooth ✅ 2024-10-04
 - [ ] Office
 - [ ] Visual studio code
 - [x] Git ✅ 2024-10-03
 - [x] Dejar particion de una vez para linux (30gb) ✅ 2024-10-03
-- [ ] 
+- [ ] Configurar Obsidian
