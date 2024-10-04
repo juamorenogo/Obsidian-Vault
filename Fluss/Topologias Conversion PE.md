@@ -8,6 +8,7 @@ Un convertir de potencia electronico son en general circuitos de conmutacion sem
 ### DC / DC Converter (Switching Regulator) : 
 Convierte el nivel de _Vin_  a un nuevo nivel _ßVout_ con _ß>0_.
 
+#### Non - isolated 
 ### DC / AC Converter (Inverter):
 Convierte un nivel _Vin_ AC de entrada a una onda cualquiera AC.
 
