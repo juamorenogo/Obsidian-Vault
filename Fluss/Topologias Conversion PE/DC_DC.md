@@ -1,6 +1,6 @@
 2024-10-04 01:09
 
-Tags: #Fluss #Potencia 
+Tags: #Fluss #Potencia #Topologia
 
 
 
@@ -29,24 +29,12 @@ El comportamiento varia de acuerdo al diodo usado.  En el caso de un diodo norma
 #### Full bridge non-isolated down (Buck)
 Esquema mas simple de este convertidor:
 ![[Buck4.jpeg]]
-En vez del uso de un unico transistor
+
+En vez del uso de un único transistor para controlar la corriente, se usan 4 transistores que crean 2 posibles flujos de corriente, uno positivo y uno negativo.
 #### Diferencias: 
 Para el caso 1, el transistor opera su conmutacion con una señal PWM, mientras que en el segundo caso se tiene un arreglo de 4 transistores mas eficiente, flexible y adecuado para aplicaciones de alta potencia.
-### DC / AC Converter (Inverter):
-Convierte un nivel _Vin_ AC de entrada a una onda cualquiera AC.
 
-### AC / DC Converter (Rectifier) :
-Convierte una señal _Vins_ AC de entrada a un nivel _Vout_ DC de salida. 
-(Causa armonicos y bajo FP)
 
-### AC / AC converter (AC controllers and Cycloconverters):
-Si convierte una señal _Vins_ AC cambiando unicamente la **amplitud** -> AC controller.
 
-	(FVFF) -> Fixed Voltage Fixed Frecuency
-	a (VVFF) -> Variable Voltage Fixed Frecuency
 
-Si convierte una señal _Vins_ AC cambiando la **amplitud** y **frecuencia** -> Cycloconverter.
 
-	(FVFF) a (VVVF) -> Variable Voltage Variable Frecuency
-
-Si en la topología se usan _Controlled switches_  se le llama **Matrix Converter**.
