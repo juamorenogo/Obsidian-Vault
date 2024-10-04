@@ -28,7 +28,7 @@ El comportamiento varia de acuerdo al diodo usado.  En el caso de un diodo norma
 
 #### Full bridge non-isolated down (Buck)
 Esquema mas simple de este convertidor:
-
+![[Buck4.jpeg]]
 ### DC / AC Converter (Inverter):
 Convierte un nivel _Vin_ AC de entrada a una onda cualquiera AC.
 
