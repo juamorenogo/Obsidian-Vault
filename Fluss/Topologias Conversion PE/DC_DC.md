@@ -1,10 +1,6 @@
 2024-10-04 01:09
 
 Tags: #Fluss #Potencia #Topologia
-
-
-
-Un convertir de potencia electronico son en general circuitos de conmutacion semiconductora con 4 formas generales:
 ## DC / DC Converter (Switching Regulator) : 
 Convierte el nivel de _Vin_  a un nuevo nivel _ßVout_ con _ß>0_.
 ### Non-isolated buck converter (Step-down converter) (Convencional)
