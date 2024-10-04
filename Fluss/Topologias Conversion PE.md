@@ -15,6 +15,8 @@ $$
 \LARGE V_{avg}=\frac {1}{T}​ \int_{0}^{DT} V_{i} =DV_{i}
 $$
 Como _Dt < 1_ la salida DC siempre sera menor a la entrada.
+
+
 ### DC / AC Converter (Inverter):
 Convierte un nivel _Vin_ AC de entrada a una onda cualquiera AC.
 
