@@ -192,24 +192,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "389b6c7619a021b6",
+  "active": "950bc8abdbcb2924",
   "lastOpenFiles": [
+    "Fluss/TopologiasConversionPE/Imagenes",
     "Fluss/TopologiasConversionPE/AC_DC.md",
     "Topologias.md",
     "Fluss/TopologiasConversionPE/DC_DC.md",
     "C++/Inicios C++.md",
     "Notas Varias/Repasar _ Revisar.md",
     "Notas Varias/Backup portatil.md",
-    "Fluss/Imagenes/Bucknonfull.png",
-    "Fluss/Imagenes/BuckIsolatedfull.png",
+    "Fluss/TopologiasConversionPE/Imagenes/Bucknonfull.png",
+    "Fluss/TopologiasConversionPE/Imagenes/BuckIsolatedfull.png",
     "Fluss/TopologiasConversionPE/AC_AC.md",
     "Fluss/TopologiasConversionPE/DC_AC.md",
     "Fluss/Switches PE.md",
     "Fluss/TopologiasConversionPE",
-    "Fluss/Imagenes/Buck4.jpeg",
-    "Fluss/Imagenes/Buck3.png",
-    "Fluss/Imagenes/Buck2.png",
-    "Fluss/Imagenes/Buck1.jpeg",
+    "Fluss/TopologiasConversionPE/Imagenes/Buck4.jpeg",
+    "Fluss/TopologiasConversionPE/Imagenes/Buck3.png",
+    "Fluss/TopologiasConversionPE/Imagenes/Buck2.png",
+    "Fluss/TopologiasConversionPE/Imagenes/Buck1.jpeg",
     "Fluss/Fundamentales Electrónica de potencia.md",
     "Notas Varias/Theme Options.md",
     "Notas Varias",
@@ -238,7 +239,6 @@
     "Fluss/Imagenes",
     "conflict-files-obsidian-git.md",
     "Electronica Análoga/Imagenes",
-    "C++/Prueba de actualizacion.md",
-    "Remote/Inicios C++ 1.md"
+    "C++/Prueba de actualizacion.md"
   ]
 }
