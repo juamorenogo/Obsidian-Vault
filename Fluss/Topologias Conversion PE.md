@@ -14,7 +14,9 @@ Si se controla el switcheo en un periodo _T_ , la salida _Vo = Vin_ cuando **P-s
 $$
 \LARGE V_{avg}=\frac {1}{T}​ \int_{0}^{DT} V_{i} =DV_{i}
 $$
-Como _Dt < 1_ la salida DC siempre sera menor a la entrada.
+Como _Dt < 1_ la salida DC siempre sera menor a la entrada. Circuito basico general de buck converter:
+
+![Buck2|450](Imagenes/Buck2.png)
 
 
 ### DC / AC Converter (Inverter):
