@@ -53,4 +53,5 @@ Donde _Dt > 0.5_ se tiene un ciclo positivo y en _Dt < 0.5_ un ciclo negativo.
 
 ### Full bridge Buck converter non-isolated 
 
-![IsolatedBuck | 450](Imagenes/BuckIsolatedfull.PNG)
+![non-isolatedBuck | 450](Imagenes/Bucknonfull.PNG)
+]]
