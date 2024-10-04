@@ -22,6 +22,7 @@ Usado en aplicaciones de media / alta potencia, baja / media frecuencia.
 * **Convertidor de potencia -> DC**
 * **Transformador -> AC**
 
+![[Switches PE]]
 
 
 

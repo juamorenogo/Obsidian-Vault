@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fluss/Switches PE.md",
+                "file": "Fluss/Fundamentales Electrónica de potencia.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fluss/Switches PE.md",
+                "file": "Fluss/Fundamentales Electrónica de potencia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fluss/Switches PE.md",
+                "file": "Fluss/Fundamentales Electrónica de potencia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fluss/Switches PE.md"
+                "file": "Fluss/Fundamentales Electrónica de potencia.md"
               }
             }
           },
@@ -170,10 +170,10 @@
   },
   "active": "498354ccfa63ec68",
   "lastOpenFiles": [
+    "Fluss/Switches PE.md",
     "Notas Varias/Theme Options.md",
     "Notas Varias",
     "Notas Varias/Repasar.md",
-    "Fluss/Switches PE.md",
     "Fluss/Imagenes/GTO.jpeg",
     "Fluss/Imagenes/IGBT.jpeg",
     "Fluss/Fundamentales Electrónica de potencia.md",
