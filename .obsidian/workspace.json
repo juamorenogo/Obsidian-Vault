@@ -61,14 +61,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fluss/Fundamentales Electrónica de potencia.md",
+                "file": "Templates/Backup portatil.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f44fd11c21482781",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Repasar.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fluss/Fundamentales Electrónica de potencia.md",
+                "file": "Repasar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fluss/Fundamentales Electrónica de potencia.md",
+                "file": "Repasar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fluss/Fundamentales Electrónica de potencia.md"
+                "file": "Repasar.md"
               }
             }
           },
@@ -205,9 +217,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "400b995980330625",
+  "active": "f44fd11c21482781",
   "lastOpenFiles": [
     "Templates/Backup portatil.md",
+    "Repasar.md",
     "Fluss/Fundamentales Electrónica de potencia.md",
     "C++/Inicios C++.md",
     "Fluss/Imagenes",
