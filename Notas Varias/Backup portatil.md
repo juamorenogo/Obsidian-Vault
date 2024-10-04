@@ -24,3 +24,4 @@
 - [x] Git ✅ 2024-10-03
 - [x] Dejar particion de una vez para linux (30gb) ✅ 2024-10-03
 - [ ] Configurar Obsidian
+- [ ] Karspersky
