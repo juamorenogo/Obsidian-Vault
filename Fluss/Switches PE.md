@@ -16,11 +16,11 @@ Se asume una tensión  _0 V_ , una corriente de fuga de _0 A_ y un cambio instan
 
 		Dispositivo PNPN : Thyristor -> Caso especial SRC, TRIAC, DIAC
 	
-	_SRC:_  Simbolo usado para un SRC (silicon controller rectifier) siendo el caso mas básico de Thyristor que es unidireccional como un diodo. Se mantendra prendido mientras _iA > Holding current (iH)_ siendo  independiente de lo que ocurre en el _gate_ . 
+	_SRC:_  Simbolo usado para un SRC (silicon controller rectifier) siendo el caso mas básico de Thyristor que es unidireccional como un diodo. Se mantendra prendido mientras _iA > Holding current (iH)_ siendo independiente de lo que ocurre en el _gate_ . 
 	
 	![Thyristor | 500](Imagenes/Thyristor.jpeg)
 	
-	_Triac:_ Simbolo usado para un Triac (Triode for AC) modelado como 2 _Thyristors_  haciendo un dispositivo bidireccional de corriente para aplicaciones de baja potencia y fase unica manteniendo encendido mientras que _iA > Holding current (iH)_ . 
+	_Triac:_ Simbolo usado para un Triac (Triode for AC) modelado como 2 _Thyristors_  haciendo un dispositivo bidireccional de corriente para aplicaciones de baja potencia y fase unica manteniendo encendido mientras que _iA > Holding current (iH)_ siendo independiente de lo que ocurre en el _gate_. 
 	
 	![Triac | 500](Imagenes/Triac.jpeg) 
 
