@@ -20,9 +20,10 @@ Se asume una tensión  _0 V_ , una corriente de fuga de _0 A_ y un cambio instan
 	
 	![Thyristor | 500](Imagenes/Thyristor.jpeg)
 	
-	_Triac:_ Simbolo usado para un Triac (Triode for AC) modelado como 2 _Thyristors_  haciendo un dispositivo bidireccional de corriente para aplicaciones de baja potencia y fase unica manteniendo encendido mientras que _iA > Holding current (iH)_ siendo independiente de lo que ocurre en el _gate_. 
+	_TRIAC:_ Simbolo usado para un Triac (Triode for AC) modelado como 2 _Thyristors_  haciendo un dispositivo bidireccional de corriente para aplicaciones de baja potencia y fase unica manteniendo encendido mientras que _iA > Holding current (iH)_ siendo independiente de lo que ocurre en el _gate_. 
 	
 	![Triac | 500](Imagenes/Triac.jpeg) 
 
-	
+	_DRIAC:_ Simbolo usado para un driac (Diode for Alternating Current) 
+	![[DIAC.jpeg]]
 * Controlled switch: Con terminal de control y control de apagado y cerrado _(BJT , MOSFET , IGBT , GTO THYRISTOR  MCT)_
