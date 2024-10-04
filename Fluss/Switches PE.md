@@ -26,5 +26,5 @@ Se asume una tensión  _0 V_ , una corriente de fuga de _0 A_ y un cambio instan
 
 	_DIAC:_ Simbolo usado para un diac (Diode for Alternating Current) cumple la misma funcionalidad de un diodo normal donde al sobrepasar un _Vt (Voltaje Umbral )_.
 	
-	![Diac]()
+	![Diac](Imagenes/DIAC.jpeg)
 * Controlled switch: Con terminal de control y control de apagado y cerrado _(BJT , MOSFET , IGBT , GTO THYRISTOR  MCT)_
