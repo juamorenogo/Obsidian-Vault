@@ -155,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,7 +168,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "950bc8abdbcb2924",
+  "active": "3835dd88d3841b00",
   "lastOpenFiles": [
     "Fluss/Imagenes/GTO.jpeg",
     "Fluss/Imagenes/IGBT.jpeg",
