@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fluss/Topologias Conversion PE.md",
+                "file": "Notas Varias/Backup portatil.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fluss/Topologias Conversion PE.md",
+                "file": "Notas Varias/Backup portatil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fluss/Topologias Conversion PE.md",
+                "file": "Notas Varias/Backup portatil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fluss/Topologias Conversion PE.md"
+                "file": "Notas Varias/Backup portatil.md"
               }
             }
           },
@@ -180,11 +180,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "950bc8abdbcb2924",
+  "active": "3a15b68dc81fba55",
   "lastOpenFiles": [
+    "Fluss/Topologias Conversion PE.md",
     "Fluss/Imagenes/Buck1.jpeg",
     "Fluss/Switches PE.md",
-    "Fluss/Topologias Conversion PE.md",
     "Fluss/Fundamentales Electrónica de potencia.md",
     "Notas Varias/Theme Options.md",
     "Notas Varias",
@@ -220,7 +220,6 @@
     "C++/Imagenes/Compilador.png",
     "Electronica Análoga/Imagenes/EsquemaDiodo.png",
     "conflict-files-obsidian-git.md",
-    "Electronica Analoga/Imagenes/EsquematicoDiodo.jpeg",
     "Electronica Análoga/Imagenes",
     "C++/Imagenes",
     "C++/Prueba de actualizacion.md",
