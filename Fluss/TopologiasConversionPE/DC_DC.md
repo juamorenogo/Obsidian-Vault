@@ -18,7 +18,7 @@ Como _Dt < 1_ la salida DC siempre sera menor a la entrada. Circuito basico gene
 
 ##### CON ZENER
 
-![Buck2|450](Imagenes/Buck2.png)
+![Buck2|450](Fluss/Imagenes/Buck2.png)
 
 ##### SIN ZENER
 
