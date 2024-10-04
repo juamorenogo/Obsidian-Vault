@@ -16,8 +16,15 @@ $$
 $$
 Como _Dt < 1_ la salida DC siempre sera menor a la entrada. Circuito basico general de buck converter:
 
+#### CON ZENER
+
 ![Buck2|450](Imagenes/Buck2.png)
 
+#### SIN ZENER
+
+![Buck3 | 450](Imagenes/Buck3.png)
+
+El comportamiento varia de acuerdo al diodo usado.  En el caso de un diodo normal, solo se tiene el circuito buck sin regulación de voltaje. Por otro lado, el diodo zener permite tener protección contra sobre voltajes y asegura un voltaje máximo (regulación de voltaje).
 
 ### DC / AC Converter (Inverter):
 Convierte un nivel _Vin_ AC de entrada a una onda cualquiera AC.
