@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Varias/Backup portatil.md",
+                "file": "Fluss/Topologias Conversion PE.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas Varias/Backup portatil.md",
+                "file": "Fluss/Topologias Conversion PE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas Varias/Backup portatil.md",
+                "file": "Fluss/Topologias Conversion PE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas Varias/Backup portatil.md"
+                "file": "Fluss/Topologias Conversion PE.md"
               }
             }
           },
@@ -182,8 +182,8 @@
   },
   "active": "3a15b68dc81fba55",
   "lastOpenFiles": [
-    "Fluss/Topologias Conversion PE.md",
     "Notas Varias/Backup portatil.md",
+    "Fluss/Topologias Conversion PE.md",
     "Fluss/Imagenes/Buck1.jpeg",
     "Fluss/Switches PE.md",
     "Fluss/Fundamentales Electrónica de potencia.md",

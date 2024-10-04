@@ -10,7 +10,10 @@ Convierte el nivel de _Vin_  a un nuevo nivel _ßVout_ con _ß>0_.
 #### Non - isolated buck converter (Step-down converter)
 Esquema mas simple de este convertidor:
 ![ConvertidorBuck|700](Imagenes/Buck1.jpeg)
-Si se controla el switcheo en un periodo _T_ , la salida _Vo = Vin_ cuando **P-switch On** y _Vo = 0_ cuando **N-switch On**.
+Si se controla el switcheo en un periodo _T_ , la salida _Vo = Vin_ cuando **P-switch On** y _Vo = 0_ cuando **N-switch On** . El tiempo de prendido sera determinado por el __ciclo de trabajo(DT)__ y __T__.  Como la onda resultante es pulsante se usa un filtrado LC a DC estable, siendo que se trabaja un el voltaje promedio de la onda:
+$$
+\in  
+$$
 
 ### DC / AC Converter (Inverter):
 Convierte un nivel _Vin_ AC de entrada a una onda cualquiera AC.
