@@ -35,7 +35,7 @@ Se asume una tensión  _0 V_ , una corriente de fuga de _0 A_ y un cambio instan
 	
 	![Thyristor | 500](Imagenes/Thyristor.jpeg)
 	
-	Adicionalmente, un _Triac_ puede ser modelado como 2 _Thyristors_, haciendo que sea tenga un dispositivo bidireccional de corriente 
+	Adicionalmente, un _Triac_ puede ser modelado como 2 _Thyristors_, haciendo que sea tenga un dispositivo bidireccional de corriente para aplicaciones de baja  
 * Controlled switch: Con terminal de control y control de apagado y cerrado _(BJT , MOSFET , IGBT , GTO THYRISTOR  MCT)_
 
 	SCR: silicon controller rectifier.
