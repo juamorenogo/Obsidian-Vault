@@ -9,6 +9,7 @@ Esquema mas simple de este convertidor:
 ![ConvertidorBuck|700](Imagenes/Buck1.jpeg)
 
 Si se controla el switcheo en un periodo _T_ , la salida _Vo = Vin_ cuando **P-switch On** y _Vo = 0_ cuando **N-switch On** . El tiempo de prendido sera determinado por el __ciclo de trabajo(Dt)__ y __T__.  Como la onda resultante es pulsante se usa un filtrado LC a DC estable, siendo que se trabaja un el voltaje promedio de la onda:
+
 $$
 \LARGE V_{avg}=\frac {1}{T}​ \int_{0}^{DT} V_{i} \,\,\,dt=DtV_{i}
 $$
