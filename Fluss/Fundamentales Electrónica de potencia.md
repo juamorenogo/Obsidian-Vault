@@ -29,8 +29,8 @@ Un switch ideal PE se define como un elemento de 3 terminales; _in_ , _out_ y _c
 ## Tipos de switches
 
 Se asume una tensión  _0 V_ , una corriente de fuga de _0 A_ y un cambio instantáneo de estado. Se clasifican como:
-* Uncontrolled switch:
-* Semi-controlled switch:
+* Uncontrolled switch: Sin terminal de control. _(Diodo)_
+* Semi-controlled switch: Con terminal de control pero limitacion en su accionar 
 * Controlled switch:
 
 	SCR: silicon controller rectifier.
