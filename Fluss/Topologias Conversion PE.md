@@ -9,7 +9,7 @@ Un convertir de potencia electronico son en general circuitos de conmutacion sem
 Convierte el nivel de _Vin_  a un nuevo nivel _ßVout_ con _ß>0_.
 #### Non - isolated buck converter (Step-down converter)
 Esquema mas simple de este convertidor:
-
+![ConvertidorBuck|700](Imagenes/Buck1.jpeg)
 
 
 ### DC / AC Converter (Inverter):
