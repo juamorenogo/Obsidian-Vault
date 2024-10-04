@@ -31,7 +31,9 @@ Un switch ideal PE se define como un elemento de 3 terminales; _in_ , _out_ y _c
 Se asume una tensión  _0 V_ , una corriente de fuga de _0 A_ y un cambio instantáneo de estado. Se clasifican como:
 * Uncontrolled switch: Sin terminal de control. _(Diodo)_
 * Semi-controlled switch: Con terminal de control pero limitacion en su accionar _(SCR / Thyristor)._
-	En el caso de un _Thyristor_ por el terminal de control se puede "prender" permitiendo el paso de corriente (Funcionando como un diodo), no obstante, no se puede apagar sin un circuito adicional.
+	En el caso de un _Thyristor_ por el terminal de control se puede "prender" permitiendo el paso de corriente (Funcionando como un diodo), no obstante, no se puede apagar sin un circuito adicional. 
+
+		Dispositivo PNPN
 	
 	![Thyristor | 500](Imagenes/Thyristor.jpeg)
 	
