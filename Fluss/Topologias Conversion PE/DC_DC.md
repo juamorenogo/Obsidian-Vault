@@ -12,7 +12,7 @@ Esquema mas simple de este convertidor:
 ![ConvertidorBuck|700](Imagenes/Buck1.jpeg)
 Si se controla el switcheo en un periodo _T_ , la salida _Vo = Vin_ cuando **P-switch On** y _Vo = 0_ cuando **N-switch On** . El tiempo de prendido sera determinado por el __ciclo de trabajo(Dt)__ y __T__.  Como la onda resultante es pulsante se usa un filtrado LC a DC estable, siendo que se trabaja un el voltaje promedio de la onda:
 $$
-\LARGE V_{avg}=\frac {1}{T}​ \int_{0}^{DT} V_{i} =DtV_{i}
+\LARGE V_{avg}=\frac {1}{T}​ \int_{0}^{DT} V_{i} \,\,\,dt=DtV_{i}
 $$
 Como _Dt < 1_ la salida DC siempre sera menor a la entrada. Circuito basico general de buck converter:
 
@@ -30,9 +30,22 @@ El comportamiento varia de acuerdo al diodo usado.  En el caso de un diodo norma
 Esquema mas simple de este convertidor:
 ![[Buck4.jpeg]]
 
-En vez del uso de un único transistor para controlar la corriente, se usan 4 transistores que crean 2 posibles flujos de corriente, uno positivo y uno negativo.
+En vez del uso de un único transistor para controlar la corriente, se usan 4 transistores que crean 2 posibles flujos de corriente, uno positivo y uno negativo. Cuando **P_Switches ON** se tiene que _Vo =Vin_ y cuando **N-Switches ON** se tiene que _Vo=-Vin_.  Esto produce una señal cuadrada como la de la imagen, que pasa por un filtro LC (como filtro harmónico) para finalmente obtener en _Vo_ el voltaje promedio dado por la siguiente expresión:
+
+$$ 
+\LARGE V_{avg } = [\int_{0}^{DT} V_{i} \,\,\, dt \,\,\,+ \,\,\,\int_{DT}^{T} -V_{i}\,\,\,dt ]
+$$
+Donde _Dt > 0.5_ se tiene un ciclo positivo y en _Dt < 0.5_ un ciclo negativo. 
 #### Diferencias: 
-Para el caso 1, el transistor opera su conmutacion con una señal PWM, mientras que en el segundo caso se tiene un arreglo de 4 transistores mas eficiente, flexible y adecuado para aplicaciones de alta potencia.
+| Característica             | Non-Isolated Buck Converter        | Full-Bridge Non-Isolated Buck Converter |
+| -------------------------- | ---------------------------------- | --------------------------------------- |
+| **Número de transistores** | 1                                  | 4                                       |
+| **Configuración**          | Convencional, simple               | Puente completo (Full Bridge)           |
+| **Complejidad**            | Baja                               | Alta                                    |
+| **Control de la señal**    | Señal PWM para un solo interruptor | Señal PWM para un puente completo       |
+| **Aplicaciones**           | Baja y media potencia              | Aplicaciones de alta potencia           |
+| **Eficiencia**             | Moderada                           | Alta                                    |
+| **Tamaño y costo**         | Menor                              | Mayor                                   |
 
 
 
