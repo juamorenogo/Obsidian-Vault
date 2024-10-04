@@ -34,8 +34,8 @@ Se asume una tensión  _0 V_ , una corriente de fuga de _0 A_ y un cambio instan
 	En el caso de un _SCR_ por el terminal de control se puede "prender" permitiendo el paso de corriente (Funcionando como un diodo), no obstante, no se puede apagar sin un circuito adicional.
 	
 	![Thyristor | 500](Imagenes/Thyristor.jpeg)
-
-
+	
+	Adicionalmente, un _Triac_ puede ser modelado como 2 _Thyristors_, haciendo que sea tenga un dispositivo bidireccional de corriente 
 * Controlled switch: Con terminal de control y control de apagado y cerrado _(BJT , MOSFET , IGBT , GTO THYRISTOR  MCT)_
 
 	SCR: silicon controller rectifier.
