@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Switches PE.md",
+                "file": "Fluss/Switches PE.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Switches PE.md",
+                "file": "Fluss/Switches PE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Switches PE.md",
+                "file": "Fluss/Switches PE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Switches PE.md"
+                "file": "Fluss/Switches PE.md"
               }
             }
           },
@@ -169,12 +169,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "498354ccfa63ec68",
+  "active": "950bc8abdbcb2924",
   "lastOpenFiles": [
     "Fluss/Fundamentales Electrónica de potencia.md",
-    "Switches PE.md",
-    "Fluss/Imagenes/Triac.jpeg",
     "Fluss/Imagenes/Thyristor.jpeg",
+    "Fluss/Switches PE.md",
+    "Fluss/Imagenes/Triac.jpeg",
     "Templates/Backup portatil.md",
     "C++/Whitespacing y Literals und Operators.md",
     "C++/Keywords und naming rules.md",
