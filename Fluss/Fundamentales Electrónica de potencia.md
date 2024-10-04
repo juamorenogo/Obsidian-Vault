@@ -34,7 +34,7 @@ Se asume una tensión  _0 V_ , una corriente de fuga de _0 A_ y un cambio instan
 	En el caso de un _Thyristor_ por el terminal de control se puede "prender" permitiendo el paso de corriente (Funcionando como un diodo), no obstante, no se puede apagar sin un circuito adicional. 
 
 		Dispositivo PNPN : Thyristor -> Caso especial SRC, TRIAC, DIAC
-	_SRC:_
+	_SRC:_ Simbolo usado para un SRC siendo el caso mas basico de Thyristor
 	
 	![Thyristor | 500](Imagenes/Thyristor.jpeg)
 	
