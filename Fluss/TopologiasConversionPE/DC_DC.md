@@ -18,18 +18,18 @@ Como _Dt < 1_ la salida DC siempre sera menor a la entrada. Circuito basico gene
 
 ##### CON ZENER
 
-![Buck2|450](Buck2.png)
+![Buck2|450](Imagenes/Buck2.png)
 
 ##### SIN ZENER
 
-![Buck3 | 450](Buck3.png)
+![Buck3 | 450](Imagenes/Buck3.png)
 
 El comportamiento varia de acuerdo al diodo usado.  En el caso de un diodo normal, solo se tiene el circuito buck sin regulación de voltaje. Por otro lado, el diodo zener permite tener protección contra sobre voltajes y asegura un voltaje máximo (regulación de voltaje).
 
 ### Full bridge non-isolated down (Buck)
 Esquema mas simple de este convertidor:
 
-![[Buck4.jpeg]]
+![Buck4 | 500](Imagenes/Buck4.jpeg)
 
 
 En vez del uso de un único transistor para controlar la corriente, se usan 4 transistores que crean 2 posibles flujos de corriente, uno positivo y uno negativo. Cuando **P_Switches ON** se tiene que _Vo =Vin_ y cuando **N-Switches ON** se tiene que _Vo=-Vin_.  Esto produce una señal cuadrada como la de la imagen, que pasa por un filtro LC (como filtro harmónico) para finalmente obtener en _Vo_ el voltaje promedio dado por la siguiente expresión:
@@ -53,8 +53,8 @@ Donde _Dt > 0.5_ se tiene un ciclo positivo y en _Dt < 0.5_ un ciclo negativo.
 
 ### Full bridge Buck converter isolated 
 
-![IsolatedBuck | 450](BuckIsolatedfull.png)
+![IsolatedBuck | 450](Imagenes/BuckIsolatedfull.png)
 
 ### Full bridge Buck converter non-isolated 
 
-![non-isolatedBuck | 450](Bucknonfull.png)
+![non-isolatedBuck | 450](Imagenes/Bucknonfull.png)
