@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "498354ccfa63ec68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Switches PE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fluss/Fundamentales Electrónica de potencia.md",
+                "file": "Switches PE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fluss/Fundamentales Electrónica de potencia.md",
+                "file": "Switches PE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fluss/Fundamentales Electrónica de potencia.md"
+                "file": "Switches PE.md"
               }
             }
           },
@@ -156,15 +169,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "950bc8abdbcb2924",
+  "active": "498354ccfa63ec68",
   "lastOpenFiles": [
+    "Fluss/Fundamentales Electrónica de potencia.md",
+    "Switches PE.md",
     "Fluss/Imagenes/Triac.jpeg",
     "Fluss/Imagenes/Thyristor.jpeg",
     "Templates/Backup portatil.md",
     "C++/Whitespacing y Literals und Operators.md",
     "C++/Keywords und naming rules.md",
     "C++/Comportamiento no inicializado e indefinido.md",
-    "Fluss/Fundamentales Electrónica de potencia.md",
     "Repasar.md",
     "C++/Inicios C++.md",
     "Fluss/Imagenes",
