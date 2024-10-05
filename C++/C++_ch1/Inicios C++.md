@@ -4,14 +4,14 @@ Tags: #C
 
 El flujo usual de desarrollo de un programa / proyecto : 
 
-![Flujo](Flujo.png)
+![Flujo](Imagenes/Flujo.png)
 
 
 Del _Código_ (.cpp) pasa a compilador que crea un archivo intermedio _Object file_ (.o) para despues producir el _Output_ (.exe) usando un proceso de _Linking_ que conecta las librerias y objetos para generar una salida.
 
 Se incluye de manera predeterminada _C++ Standart Library_ donde viene _Iostream_ que contiene funcionalidades de monitor y teclado.
 
-![Compilador](Compilador.png)
+![Compilador](Imagenes/Compilador.png)
 ## IDE C++
 
 Para un IDE propiamente de C++, se tiene estas diferentes opciones para la depuracion y compilacion para casos especificos:
