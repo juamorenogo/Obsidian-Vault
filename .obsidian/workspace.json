@@ -56,6 +56,18 @@
             }
           },
           {
+            "id": "2208c9df6521116b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas Varias/To-do.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "389b6c7619a021b6",
             "type": "leaf",
             "state": {
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -144,7 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fluss/TopologiasConversionPE/DC_DC.md",
+                "file": "Notas Varias/To-do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fluss/TopologiasConversionPE/DC_DC.md",
+                "file": "Notas Varias/To-do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +196,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fluss/TopologiasConversionPE/DC_DC.md"
+                "file": "Notas Varias/To-do.md"
               }
             }
           },
@@ -201,7 +213,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -214,18 +227,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f07bc3de8d99a656",
+  "active": "2208c9df6521116b",
   "lastOpenFiles": [
+    "Notas Varias/Repasar _ Revisar.md",
+    "Notas Varias/To-do.md",
+    "Fluss/TopologiasConversionPE/DC_DC.md",
     "C++/Relleno.md",
     "C++/C++_ch1/Inicios C++.md",
     "Notas Varias/Backup portatil.md",
     "C++/C++_ch1",
-    "Fluss/TopologiasConversionPE/DC_DC.md",
     "Fluss/TopologiasConversionPE/Imagenes/Buck2.png",
     "Fluss/TopologiasConversionPE/Imagenes",
     "Fluss/TopologiasConversionPE/AC_DC.md",
     "Topologias.md",
-    "Notas Varias/Repasar _ Revisar.md",
     "Fluss/TopologiasConversionPE/Imagenes/Bucknonfull.png",
     "Fluss/TopologiasConversionPE/Imagenes/BuckIsolatedfull.png",
     "Fluss/TopologiasConversionPE/AC_AC.md",
@@ -260,7 +274,6 @@
     "imagenes 2.md",
     "imagenes 1.md",
     "Imagenes/E.Analoga.pdf.md",
-    "conflict-files-obsidian-git.md",
-    "C++/Prueba de actualizacion.md"
+    "conflict-files-obsidian-git.md"
   ]
 }
