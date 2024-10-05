@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "C++/Relleno.md",
+                "file": "Fluss/TopologiasConversionPE/DC_DC.md",
                 "mode": "source",
                 "source": false
               }
@@ -144,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "C++/Relleno.md",
+                "file": "Fluss/TopologiasConversionPE/DC_DC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "C++/Relleno.md",
+                "file": "Fluss/TopologiasConversionPE/DC_DC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -184,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "C++/Relleno.md"
+                "file": "Fluss/TopologiasConversionPE/DC_DC.md"
               }
             }
           },
@@ -214,10 +214,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "950bc8abdbcb2924",
+  "active": "f07bc3de8d99a656",
   "lastOpenFiles": [
-    "C++/C++_ch1/Inicios C++.md",
     "C++/Relleno.md",
+    "C++/C++_ch1/Inicios C++.md",
     "Notas Varias/Backup portatil.md",
     "C++/C++_ch1",
     "Fluss/TopologiasConversionPE/DC_DC.md",
