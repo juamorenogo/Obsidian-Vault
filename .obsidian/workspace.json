@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fluss/TopologiasConversionPE/DC_DC.md",
+                "file": "C++/C++_ch1/Inicios C++.md",
                 "mode": "source",
                 "source": false
               }
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fluss/TopologiasConversionPE/DC_DC.md",
+                "file": "C++/C++_ch1/Inicios C++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fluss/TopologiasConversionPE/DC_DC.md",
+                "file": "C++/C++_ch1/Inicios C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fluss/TopologiasConversionPE/DC_DC.md"
+                "file": "C++/C++_ch1/Inicios C++.md"
               }
             }
           },
@@ -204,14 +204,15 @@
   },
   "active": "3a15b68dc81fba55",
   "lastOpenFiles": [
+    "Notas Varias/Backup portatil.md",
+    "C++/C++_ch1",
     "Fluss/TopologiasConversionPE/DC_DC.md",
     "Fluss/TopologiasConversionPE/Imagenes/Buck2.png",
     "Fluss/TopologiasConversionPE/Imagenes",
     "Fluss/TopologiasConversionPE/AC_DC.md",
     "Topologias.md",
-    "C++/Inicios C++.md",
+    "C++/C++_ch1/Inicios C++.md",
     "Notas Varias/Repasar _ Revisar.md",
-    "Notas Varias/Backup portatil.md",
     "Fluss/TopologiasConversionPE/Imagenes/Bucknonfull.png",
     "Fluss/TopologiasConversionPE/Imagenes/BuckIsolatedfull.png",
     "Fluss/TopologiasConversionPE/AC_AC.md",
@@ -229,12 +230,12 @@
     "Electronica Análoga/Transistores MOSFET (Análoga 1).md",
     "Fluss/Imagenes/DIAC.jpeg",
     "Fluss/Imagenes/Thyristor.jpeg",
-    "C++/Whitespacing y Literals und Operators.md",
-    "C++/Keywords und naming rules.md",
-    "C++/Comportamiento no inicializado e indefinido.md",
+    "C++/C++_ch1/Whitespacing y Literals und Operators.md",
+    "C++/C++_ch1/Keywords und naming rules.md",
+    "C++/C++_ch1/Comportamiento no inicializado e indefinido.md",
     "Fluss/Imagenes",
     "Fluss",
-    "C++/Iostream (Libreria).md",
+    "C++/C++_ch1/Iostream (Libreria).md",
     "Templates/Default Note.md",
     "Electronica Análoga/Diodos (Análoga 1).md",
     "Electronica Análoga/Transistores BJT (Análoga 1).md",
@@ -246,7 +247,6 @@
     "imagenes 2.md",
     "imagenes 1.md",
     "Imagenes/E.Analoga.pdf.md",
-    "Fluss/Imagenes",
     "conflict-files-obsidian-git.md",
     "C++/Prueba de actualizacion.md"
   ]
