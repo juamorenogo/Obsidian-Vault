@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fluss/Cotizaciones/Cotizaciones version 1.md",
+                "file": "Fluss/Cotizaciones/CotizacionChatgpt/banco_baterias_recomendaciones.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fluss/Cotizaciones/Cotizaciones version 1.md",
+                "file": "Fluss/Cotizaciones/CotizacionChatgpt/banco_baterias_recomendaciones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fluss/Cotizaciones/Cotizaciones version 1.md",
+                "file": "Fluss/Cotizaciones/CotizacionChatgpt/banco_baterias_recomendaciones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fluss/Cotizaciones/Cotizaciones version 1.md"
+                "file": "Fluss/Cotizaciones/CotizacionChatgpt/banco_baterias_recomendaciones.md"
               }
             }
           },
@@ -168,8 +168,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a5e5afeba54390a",
+  "active": "950bc8abdbcb2924",
   "lastOpenFiles": [
+    "Fluss/Cotizaciones/CotizacionChatgpt/convertidor_buck_dc_dc.md",
     "Fluss/Cotizaciones/CotizacionChatgpt/convertidor_ac_dc_rectificador_conmutado.md",
     "Fluss/Cotizaciones/CotizacionChatgpt/banco_baterias_recomendaciones.md",
     "Fluss/Cotizaciones/Cotizaciones version 1.md",
@@ -214,7 +215,6 @@
     "Fluss/Imagenes",
     "Fluss",
     "C++/C++_ch1/Iostream (Libreria).md",
-    "Templates/Default Note.md",
     "Circuitos"
   ]
 }
