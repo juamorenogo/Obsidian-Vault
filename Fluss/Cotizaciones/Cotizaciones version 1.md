@@ -58,3 +58,9 @@
 ### Banco de Baterias
 * Batería NPD12-35 -> _4_ (Maso $1.5M)
 ![|300](Cotizaciones/Bateria.Jpg)
+
+#### Cables
+
+#### Sensores
+
+#### Controlador de carga
