@@ -23,8 +23,12 @@
             "id": "7a5e5afeba54390a",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fluss/TopologiasConversionPE/DC_DC.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fluss/TopologiasConversionPE/DC_DC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fluss/TopologiasConversionPE/DC_DC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fluss/TopologiasConversionPE/DC_DC.md"
+              }
             }
           },
           {
@@ -160,7 +168,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "950bc8abdbcb2924",
+  "active": "7a5e5afeba54390a",
   "lastOpenFiles": [
     "Untitled.md",
     "Fluss/TopologiasConversionPE/DC_AC.md",
