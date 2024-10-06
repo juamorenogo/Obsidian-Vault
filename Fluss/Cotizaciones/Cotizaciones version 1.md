@@ -55,3 +55,5 @@
 #### Sensores 
 * Voltimetros
 * Amperimetros
+### Banco de Baterias
+![[Imagen extra de 360332.000000.jpg]]
