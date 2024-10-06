@@ -170,9 +170,11 @@
   },
   "active": "7a5e5afeba54390a",
   "lastOpenFiles": [
-    "Fluss/Cotizaciones",
-    "Fluss/TopologiasConversionPE/DC_DC.md",
+    "Fluss/Cotizaciones/Buckowo.png",
+    "Cotizaciones.md",
     "Fluss/Cotizaciones/Cotizaciones version 1.md",
+    "Fluss/TopologiasConversionPE/DC_DC.md",
+    "Fluss/Cotizaciones",
     "Fluss/TopologiasConversionPE/DC_AC.md",
     "Fluss/TopologiasConversionPE/Imagenes/Halfinverter1.jpeg",
     "Fluss/TopologiasConversionPE/Imagenes/FullInverter1.jpeg",
@@ -198,7 +200,6 @@
     "Fluss/Fundamentales Electrónica de potencia.md",
     "Notas Varias",
     "Fluss/Imagenes/GTO.jpeg",
-    "Fluss/Imagenes/IGBT.jpeg",
     "Electronica Análoga/Transistores MOSFET (Análoga 1).md",
     "C++/C++_ch1/Whitespacing y Literals und Operators.md",
     "C++/C++_ch1/Keywords und naming rules.md",
@@ -212,9 +213,7 @@
     "Circuitos",
     "PDFS/E.Analoga.pdf",
     "PDFS",
-    "E.Analoga.pdf",
     "imagenes.md",
-    "imagenes 2.md",
-    "imagenes 1.md"
+    "imagenes 2.md"
   ]
 }
