@@ -80,6 +80,5 @@ Regulador conmutado tipo buck (Mosfet) de alta corriente con _eficiencia del 85%
 * Corriente salida 8 A max (5A -> Disipadores) (8 A -> Refrigeracion adicional)
 * Frecuencia de conmutacion 180 kHz
 * Incluye protecciones.
-* 
 ### Xh-m401
 Circuito pre-ensamblado que usa **XL4016E** con capacidad de ajuste de la salida desde un potenciómetro .
