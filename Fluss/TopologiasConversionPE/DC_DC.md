@@ -73,8 +73,6 @@ Regulador conmutado tipo buck (Mosfet) con _eficiencia del 80% - 90%_.
 * Salida 1.23 V - 37 V
 * Corriente salida 3 A max
 * Frecuencia de conmutación 150 kHz
-### Xh-m401
-Regulador conmutado basado en el **XL4016E** con capacidad de ajuste desde un potenciometro  
 ### XL4016E
 Regulador conmutado tipo buck (Mosfet) de alta corriente con _eficiencia del 85% - 95%_.
 * Entrada 8 V - 40 V
@@ -83,3 +81,5 @@ Regulador conmutado tipo buck (Mosfet) de alta corriente con _eficiencia del 85%
 * Frecuencia de conmutacion 180 kHz
 * Incluye protecciones.
 * 
+### Xh-m401
+Circuito pre-ensamblado que usa **XL4016E** con capacidad de ajuste de la salida desde un potenciómetro .
