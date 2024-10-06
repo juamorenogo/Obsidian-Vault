@@ -1,2 +1,0 @@
-### DC / DC BUCK:
-Inductores

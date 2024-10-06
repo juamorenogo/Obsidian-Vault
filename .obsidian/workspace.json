@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fluss/TopologiasConversionPE/DC_DC.md",
+                "file": "Fluss/Cotizaciones/Cotizaciones version 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fluss/TopologiasConversionPE/DC_DC.md",
+                "file": "Fluss/Cotizaciones/Cotizaciones version 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fluss/TopologiasConversionPE/DC_DC.md",
+                "file": "Fluss/Cotizaciones/Cotizaciones version 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fluss/TopologiasConversionPE/DC_DC.md"
+                "file": "Fluss/Cotizaciones/Cotizaciones version 1.md"
               }
             }
           },
@@ -170,12 +170,13 @@
   },
   "active": "7a5e5afeba54390a",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Fluss/Cotizaciones",
+    "Fluss/TopologiasConversionPE/DC_DC.md",
+    "Fluss/Cotizaciones/Cotizaciones version 1.md",
     "Fluss/TopologiasConversionPE/DC_AC.md",
     "Fluss/TopologiasConversionPE/Imagenes/Halfinverter1.jpeg",
     "Fluss/TopologiasConversionPE/Imagenes/FullInverter1.jpeg",
     "Fluss/TopologiasConversionPE/AC_DC.md",
-    "Fluss/TopologiasConversionPE/DC_DC.md",
     "Notas Varias/To-do fluss.md",
     "Notas Varias/Theme Options.md",
     "Notas Varias/Repasar _ Revisar.md",
@@ -214,7 +215,6 @@
     "E.Analoga.pdf",
     "imagenes.md",
     "imagenes 2.md",
-    "imagenes 1.md",
-    "Imagenes/E.Analoga.pdf.md"
+    "imagenes 1.md"
   ]
 }
