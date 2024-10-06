@@ -4,13 +4,13 @@
 * Baja potencia (Comprados) SMD
 * Alta potencia (Compra de los nucleos y alambre) _Buscar posibles provedores_
 #### Capacitores 
-* Electroliticos _4_
-* Ceramicos _8_ 
+* Electrolíticos _4_
+* Cerámicos _8_ 
 #### Integrados (Reguladores)
-* XL4016E1 
+* XL4016E1 _6_ 
 #### Diodos
-* Diodo Zener.
-* Diodo potencia negro.
+* Diodo Zener _1_.
+* Diodo potencia negro _1_.
 #### Resistencias
 
 #### Disipadores
@@ -26,18 +26,32 @@
 * Baja potencia (Comprados) SMD
 * Alta potencia (Compra de los nucleos y alambre) _Buscar posibles provedores_
 #### Capacitores 
-* Electroliticos _4_
-* Ceramicos _8_ 
+* Electrolíticos _4_
+* Cerámicos _8_ 
 #### Integrados (Reguladores)
-* XL4016E1 
+* XL4016E1 _6_ 
 #### Diodos
-* Diodo Zener.
-* Diodo potencia negro.
+* Diodo Zener _1_.
+* Diodo potencia negro _1_.
 #### Resistencias
 
 #### Disipadores
 * TO - 220  -> _2_
+#### Borneras
+* 2 contactos -> _4_
+#### OP-AM
+* 358.
 #### Transistores
-* Mosfet () ->
-* IGBT () ->
-
+* Mosfet () -> _4_
+* IGBT () -> _4_
+#### Integrados (Para hacer PWM)
+* 555 -> __
+* Integrados voltaje->frecuencia -> __
+* Opam -> __
+* ESP + Convertidor Voltaje -> __
+#### Transformadores
+* Opcionales
+### MPPT
+#### Sensores 
+* Voltimetros
+* Amperimetros
