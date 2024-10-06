@@ -18,7 +18,7 @@
 #### Borneras
 * 2 contactos -> _4_
 #### OP-AM
-* 324 / 317.
+* 358.
 
 ### DC / DC BUCK (Propio):
 
