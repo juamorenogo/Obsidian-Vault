@@ -25,4 +25,4 @@ Con n siendo impar. Si _n=1_ se tiene el primer armonico y la expresion:
 $$ \LARGE \frac {4Vi}{\pi} $$
 Amplitud de una onda seno fundamental de la onda cuadrada (La misma frecuencia de la onda cuadrada base) 
 
-Por lo que, se puede realizar un filtro LC que filtre una gran parte de los armonicos, haciendo que la amplitud fundamental de la onda sea practicamente fijo. 
+Por lo que, se puede realizar un filtro LC _Low-pass_ que filtre una gran parte de los armónicos, haciendo que la amplitud se vuelva fija y a su vez generar un suavizado en la onda, no obstante, menor a la amplitud original.
