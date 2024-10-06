@@ -66,12 +66,20 @@ Donde _Dt > 0.5_ se tiene un ciclo positivo y en _Dt < 0.5_ un ciclo negativo.
 Regulador lineal ( Disipa el exceso de energia en calor ) con _eficiencia del 30% -60%_.
 * Entrada 3 V - 40 V
 * Salida 1.25 V - 37 V
-* Corrente maxima 1.5 A max
+* Corriente salida 1.5 A max
 ### LM2596S
 Regulador conmutado tipo buck (Mosfet) con _eficiencia del 80% - 90%_.
-
 * Entrada 4.5 V - 40 V
 * Salida 1.23 V - 37 V
 * Corriente salida 3 A max
-* Frecuencia de conmutacion 150 kHz
-* Ideal para fuentes de alta eficiencia con reduccion significativa de voltaje manteniendo una corriente alta.
+* Frecuencia de conmutación 150 kHz
+### Xh-m401
+Regulador conmutado basado en el **XL4016E** con capacidad de ajuste desde un potenciometro  
+### XL4016E
+Regulador conmutado tipo buck (Mosfet) de alta corriente con _eficiencia del 85% - 95%_.
+* Entrada 8 V - 40 V
+* Salida 1.25 V - 36 V
+* Corriente salida 8 A max (5A -> Disipadores) (8 A -> Refrigeracion adicional)
+* Frecuencia de conmutacion 180 kHz
+* Incluye protecciones.
+* 
