@@ -20,4 +20,9 @@ Representacion mas simple _Half-bridge_ :
 
 $$ \Large V_{sin} = \frac {2}{T} \int_{0}^{T} Vo(t)(\sin(n\omega t)) = \frac {4Vi}{n\pi}$$
 
-Con n siendo impar. Por lo que, se puede realizar un filtro LC que filtre una gran parte de los armonicos, haciendo que la amplitud fundamental de la onda sea practicamente fijo. 
+Con n siendo impar. Si _n=1_ se tiene el primer armonico y la expresion:
+
+$$ \LARGE \frac {4Vi}{\pi} $$
+Amplitud de una onda seno fundamental de la onda cuadrada (La misma frecuencia de la onda cuadrada base) 
+
+Por lo que, se puede realizar un filtro LC que filtre una gran parte de los armonicos, haciendo que la amplitud fundamental de la onda sea practicamente fijo. 
