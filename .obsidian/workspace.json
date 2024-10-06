@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas Varias/To-do fluss.md",
+                "file": "Fluss/TopologiasConversionPE/DC_DC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas Varias/To-do fluss.md",
+                "file": "Fluss/TopologiasConversionPE/DC_DC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas Varias/To-do fluss.md",
+                "file": "Fluss/TopologiasConversionPE/DC_DC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas Varias/To-do fluss.md"
+                "file": "Fluss/TopologiasConversionPE/DC_DC.md"
               }
             }
           },
@@ -157,9 +157,10 @@
   },
   "active": "d08457f34277a696",
   "lastOpenFiles": [
+    "Fluss/TopologiasConversionPE/DC_AC.md",
+    "Notas Varias/To-do fluss.md",
     "Notas Varias/Theme Options.md",
     "Fluss/TopologiasConversionPE/DC_DC.md",
-    "Notas Varias/To-do fluss.md",
     "Notas Varias/Repasar _ Revisar.md",
     "Notas Varias/Backup portatil.md",
     "Fluss/TopologiasConversionPE/Imagenes/Buck2.png",
@@ -172,7 +173,6 @@
     "Fluss/TopologiasConversionPE/Imagenes/Bucknonfull.png",
     "Fluss/TopologiasConversionPE/Imagenes/BuckIsolatedfull.png",
     "Fluss/TopologiasConversionPE/AC_AC.md",
-    "Fluss/TopologiasConversionPE/DC_AC.md",
     "Fluss/Switches PE.md",
     "Fluss/TopologiasConversionPE",
     "Fluss/TopologiasConversionPE/Imagenes/Buck4.jpeg",

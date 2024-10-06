@@ -40,7 +40,7 @@ $$
 $$
 
 Donde _Dt > 0.5_ se tiene un ciclo positivo y en _Dt < 0.5_ un ciclo negativo. 
-#### Diferencias: 
+## Diferencias: 
 | Característica             | Non-Isolated Buck Converter        | Full-Bridge Non-Isolated Buck Converter |
 | -------------------------- | ---------------------------------- | --------------------------------------- |
 | **Número de transistores** | 1                                  | 4                                       |
