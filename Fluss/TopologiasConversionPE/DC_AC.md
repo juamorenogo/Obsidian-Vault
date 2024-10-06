@@ -13,4 +13,7 @@ Al activar unicamente los _P-Switches_ se tiene un ciclo positivo de la onda, po
 
 Representacion mas simple _Half-bridge_ :
 
+![Half-inverter simplest form](Imagenes/Halfinverter1.jpeg)
 
+
+Únicamente depende de que _switch_ este operando y cual no. Ambos casos dependen de la conmutación para poner generar una _onda AC cuadrada_ sin offset. La onda obtenida tiene un _AC Fundamental Frecuency_ . Por Serie de Fourier se sabe que 

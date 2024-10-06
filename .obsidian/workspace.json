@@ -155,8 +155,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "950bc8abdbcb2924",
+  "active": "d08457f34277a696",
   "lastOpenFiles": [
+    "Fluss/TopologiasConversionPE/Imagenes/Halfinverter1.jpeg",
     "Fluss/TopologiasConversionPE/Imagenes/FullInverter1.jpeg",
     "Fluss/TopologiasConversionPE/AC_DC.md",
     "Fluss/TopologiasConversionPE/DC_AC.md",
@@ -185,7 +186,6 @@
     "Fluss/Imagenes/IGBT.jpeg",
     "Electronica Análoga/Transistores MOSFET (Análoga 1).md",
     "Fluss/Imagenes/DIAC.jpeg",
-    "Fluss/Imagenes/Thyristor.jpeg",
     "C++/C++_ch1/Whitespacing y Literals und Operators.md",
     "C++/C++_ch1/Keywords und naming rules.md",
     "C++/C++_ch1/Comportamiento no inicializado e indefinido.md",
