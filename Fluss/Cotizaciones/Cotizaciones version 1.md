@@ -56,4 +56,5 @@
 * Voltimetros
 * Amperimetros
 ### Banco de Baterias
-![[Imagen extra de 360332.000000.jpg]]
+* Batería NPD12-35 -> _4_ (Maso $1.5M)
+![|300](Cotizaciones/Bateria.Jpg)
