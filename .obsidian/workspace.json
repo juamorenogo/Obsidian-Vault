@@ -18,8 +18,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7a5e5afeba54390a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fluss/TopologiasConversionPE/DC_AC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fluss/TopologiasConversionPE/DC_AC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Fluss/TopologiasConversionPE/DC_AC.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,12 +160,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d08457f34277a696",
+  "active": "950bc8abdbcb2924",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Fluss/TopologiasConversionPE/DC_AC.md",
     "Fluss/TopologiasConversionPE/Imagenes/Halfinverter1.jpeg",
     "Fluss/TopologiasConversionPE/Imagenes/FullInverter1.jpeg",
     "Fluss/TopologiasConversionPE/AC_DC.md",
-    "Fluss/TopologiasConversionPE/DC_AC.md",
     "Fluss/TopologiasConversionPE/DC_DC.md",
     "Notas Varias/To-do fluss.md",
     "Notas Varias/Theme Options.md",
@@ -185,7 +191,6 @@
     "Fluss/Imagenes/GTO.jpeg",
     "Fluss/Imagenes/IGBT.jpeg",
     "Electronica Análoga/Transistores MOSFET (Análoga 1).md",
-    "Fluss/Imagenes/DIAC.jpeg",
     "C++/C++_ch1/Whitespacing y Literals und Operators.md",
     "C++/C++_ch1/Keywords und naming rules.md",
     "C++/C++_ch1/Comportamiento no inicializado e indefinido.md",
