@@ -58,3 +58,22 @@ Donde _Dt > 0.5_ se tiene un ciclo positivo y en _Dt < 0.5_ un ciclo negativo.
 ### Full bridge Buck converter non-isolated 
 
 ![non-isolatedBuck | 450](Imagenes/Bucknonfull.png)
+
+
+## Reguladores de voltaje
+
+### LM317T
+Regulador lineal ( Disipa el exceso de energia en calor ) con _eficiencia del 30% -60%_.
+* Entrada 3 V - 40 V
+* Salida 1.25 V - 37 V
+* Corrente maxima 1.5 A max
+* 
+### LM2596S
+Regulador conmutado tipo buck (Mosfet) con _eficiencia del 80% - 90%_.
+
+* Entrada 4.5 V - 40 V
+* Salida 1.23 V - 37 V
+* Corriente salida 3 A max
+* Frecuencia de conmutacion 150 kHz
+* Ideal para fuentes de alta eficiencia con reduccion significativa de voltaje manteniendo una corriente alta.
+* 
