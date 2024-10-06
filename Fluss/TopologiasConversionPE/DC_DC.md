@@ -67,7 +67,6 @@ Regulador lineal ( Disipa el exceso de energia en calor ) con _eficiencia del 30
 * Entrada 3 V - 40 V
 * Salida 1.25 V - 37 V
 * Corrente maxima 1.5 A max
-* 
 ### LM2596S
 Regulador conmutado tipo buck (Mosfet) con _eficiencia del 80% - 90%_.
 
@@ -76,4 +75,3 @@ Regulador conmutado tipo buck (Mosfet) con _eficiencia del 80% - 90%_.
 * Corriente salida 3 A max
 * Frecuencia de conmutacion 150 kHz
 * Ideal para fuentes de alta eficiencia con reduccion significativa de voltaje manteniendo una corriente alta.
-* 
