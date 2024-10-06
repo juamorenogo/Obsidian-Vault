@@ -16,4 +16,8 @@ Representacion mas simple _Half-bridge_ :
 ![Half-inverter simplest form](Imagenes/Halfinverter1.jpeg)
 
 
-Únicamente depende de que _switch_ este operando y cual no. Ambos casos dependen de la conmutación para poner generar una _onda AC cuadrada_ sin offset. La onda obtenida tiene un _AC Fundamental Frecuency_ . Por Serie de Fourier se sabe que 
+Únicamente depende de que _switch_ este operando y cual no. Ambos casos dependen de la conmutación para poner generar una _onda AC cuadrada_ sin offset. La onda obtenida tiene un _AC Fundamental Frecuency_ . Por Serie de Fourier se sabe que la amplitud de un **n - sin V** se puede obtener desde la onda cuadrada _Vo_:
+
+$$ \Large V_{sin} = \frac {2}{T} \int_{0}^{T} Vo(t)(\sin(n\omega t)) = \frac {4Vi}{n\pi}$$
+
+Con n siendo impar. Por lo que, se puede realizar un filtro LC que filtre una gran parte de los armonicos, haciendo que la amplitud fundamental de la onda sea practicamente fijo. 
