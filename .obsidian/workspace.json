@@ -168,11 +168,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "950bc8abdbcb2924",
+  "active": "7a5e5afeba54390a",
   "lastOpenFiles": [
-    "Fluss/Cotizaciones/CotizacionChatgpt/mppt_casero.md",
-    "Fluss/Cotizaciones/CotizacionChatgpt/convertidor_buck_dc_dc.md",
     "Fluss/Cotizaciones/CotizacionChatgpt/convertidor_ac_dc_rectificador_conmutado.md",
+    "Fluss/Cotizaciones/CotizacionChatgpt/convertidor_buck_dc_dc.md",
+    "Fluss/Cotizaciones/CotizacionChatgpt/inversor_con_switcheo_banco_baterias.md",
+    "Fluss/Cotizaciones/CotizacionChatgpt/mppt_casero.md",
     "Fluss/Cotizaciones/CotizacionChatgpt/banco_baterias_recomendaciones.md",
     "Fluss/Cotizaciones/Cotizaciones version 1.md",
     "Fluss/Cotizaciones/convertidor_ac_dc_rectificador_conmutado.md",
@@ -212,7 +213,6 @@
     "Electronica Análoga/Transistores MOSFET (Análoga 1).md",
     "C++/C++_ch1/Whitespacing y Literals und Operators.md",
     "C++/C++_ch1/Keywords und naming rules.md",
-    "C++/C++_ch1/Comportamiento no inicializado e indefinido.md",
     "Fluss/Imagenes",
     "Fluss",
     "Circuitos"
