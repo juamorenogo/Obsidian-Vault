@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fluss/Cotizaciones/convertidor_ac_dc_rectificador_conmutado.md",
+                "file": "Fluss/Cotizaciones/Cotizaciones version 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fluss/Cotizaciones/convertidor_ac_dc_rectificador_conmutado.md",
+                "file": "Fluss/Cotizaciones/Cotizaciones version 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fluss/Cotizaciones/convertidor_ac_dc_rectificador_conmutado.md",
+                "file": "Fluss/Cotizaciones/Cotizaciones version 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fluss/Cotizaciones/convertidor_ac_dc_rectificador_conmutado.md"
+                "file": "Fluss/Cotizaciones/Cotizaciones version 1.md"
               }
             }
           },
@@ -170,8 +170,12 @@
   },
   "active": "7a5e5afeba54390a",
   "lastOpenFiles": [
+    "Fluss/Cotizaciones/CotizacionChatgpt/convertidor_ac_dc_rectificador_conmutado.md",
+    "Fluss/Cotizaciones/CotizacionChatgpt/banco_baterias_recomendaciones.md",
     "Fluss/Cotizaciones/Cotizaciones version 1.md",
     "Fluss/Cotizaciones/convertidor_ac_dc_rectificador_conmutado.md",
+    "Fluss/Cotizaciones/CotizacionChatgpt",
+    "Fluss/Cotizaciones/Nueva carpeta",
     "banco_baterias.md",
     "Fluss/Cotizaciones/banco_baterias_recomendaciones.md",
     "Fluss/Cotizaciones/Bateria.jpg",
@@ -211,10 +215,6 @@
     "Fluss",
     "C++/C++_ch1/Iostream (Libreria).md",
     "Templates/Default Note.md",
-    "Electronica Análoga/Diodos (Análoga 1).md",
-    "Electronica Análoga/Transistores BJT (Análoga 1).md",
-    "Circuitos",
-    "PDFS/E.Analoga.pdf",
-    "PDFS"
+    "Circuitos"
   ]
 }
