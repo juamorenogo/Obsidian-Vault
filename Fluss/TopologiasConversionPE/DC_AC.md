@@ -3,5 +3,6 @@
 Tags: 
 
 ### DC / AC Converter (Inverter):
-Convierte un nivel _Vin_ AC de entrada a una onda cualquiera AC.
+Convierte un nivel _Vin_ DC de entrada a una onda cualquiera AC. Existe tanto para una fase como polifasico y _half bridge Converters_ / _Full Bridge Converters_.
+
 
