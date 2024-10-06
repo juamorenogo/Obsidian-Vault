@@ -6,9 +6,8 @@
 - [ ] Certificado Bancario
 - [ ] Fotocopia Cedula
 - [ ] Fotocopia Carné UN
-- [ ] Recibos de Pago 2024-01
+- [x] Recibos de Pago 2024-01 ✅ 2024-10-05
 - [ ] Hoja de vida C.V (Formato estatal)
-- [ ] 
 
 
 

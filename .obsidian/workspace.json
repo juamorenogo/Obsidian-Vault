@@ -4,93 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "9dde3131ab82b30d",
+        "id": "ed208620cfbd6e81",
         "type": "tabs",
         "children": [
           {
-            "id": "f44fd11c21482781",
+            "id": "d08457f34277a696",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fluss/Fundamentales Electrónica de potencia.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "498354ccfa63ec68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fluss/Switches PE.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3a15b68dc81fba55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "C++/C++_ch1/Inicios C++.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f07bc3de8d99a656",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fluss/TopologiasConversionPE/DC_DC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2208c9df6521116b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notas Varias/To-do.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "389b6c7619a021b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fluss/TopologiasConversionPE/DC_DC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b5a3971505c9efb8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Fluss/TopologiasConversionPE/Imagenes/Buck2.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -156,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notas Varias/To-do.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notas Varias/To-do.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Notas Varias/To-do.md"
-              }
+              "state": {}
             }
           },
           {
@@ -227,16 +148,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2208c9df6521116b",
+  "active": "d08457f34277a696",
   "lastOpenFiles": [
-    "Notas Varias/Repasar _ Revisar.md",
-    "Notas Varias/To-do.md",
+    "Fluss/TopologiasConversionPE/Imagenes/Buck2.png",
     "Fluss/TopologiasConversionPE/DC_DC.md",
+    "Notas Varias/To-do.md",
+    "Notas Varias/Repasar _ Revisar.md",
     "C++/Relleno.md",
     "C++/C++_ch1/Inicios C++.md",
     "Notas Varias/Backup portatil.md",
     "C++/C++_ch1",
-    "Fluss/TopologiasConversionPE/Imagenes/Buck2.png",
     "Fluss/TopologiasConversionPE/Imagenes",
     "Fluss/TopologiasConversionPE/AC_DC.md",
     "Topologias.md",
@@ -273,7 +194,6 @@
     "imagenes.md",
     "imagenes 2.md",
     "imagenes 1.md",
-    "Imagenes/E.Analoga.pdf.md",
-    "conflict-files-obsidian-git.md"
+    "Imagenes/E.Analoga.pdf.md"
   ]
 }
