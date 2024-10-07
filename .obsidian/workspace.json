@@ -23,12 +23,8 @@
             "id": "7a5e5afeba54390a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fluss/Cotizaciones/CotizacionChatgpt/mppt_casero.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fluss/Cotizaciones/CotizacionChatgpt/mppt_casero.md",
+                "file": "Fluss/TopologiasConversionPE/DC_AC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fluss/Cotizaciones/CotizacionChatgpt/mppt_casero.md",
+                "file": "Fluss/TopologiasConversionPE/DC_AC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fluss/Cotizaciones/CotizacionChatgpt/mppt_casero.md"
+                "file": "Fluss/TopologiasConversionPE/DC_AC.md"
               }
             }
           },
@@ -170,12 +166,12 @@
   },
   "active": "7a5e5afeba54390a",
   "lastOpenFiles": [
+    "Fluss/Cotizaciones/CotizacionChatgpt/mppt_casero.md",
     "Fluss/Cotizaciones/CotizacionChatgpt/inversor_con_switcheo_banco_baterias.md",
     "Fluss/Cotizaciones/CotizacionChatgpt/convertidor_buck_dc_dc.md",
     "Fluss/Cotizaciones/CotizacionChatgpt/convertidor_buck_300w.md",
     "Fluss/Cotizaciones/CotizacionChatgpt/banco_baterias_recomendaciones.md",
     "Fluss/Cotizaciones/CotizacionChatgpt/convertidor_ac_dc_rectificador_conmutado.md",
-    "Fluss/Cotizaciones/CotizacionChatgpt/mppt_casero.md",
     "Fluss/Cotizaciones/Cotizaciones version 1.md",
     "Fluss/Cotizaciones/convertidor_ac_dc_rectificador_conmutado.md",
     "Fluss/Cotizaciones/CotizacionChatgpt",
