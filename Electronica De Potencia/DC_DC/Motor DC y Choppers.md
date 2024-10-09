@@ -13,7 +13,7 @@ El voltaje de armadura es positivo pero la corriente es negativa y se frena el m
 El voltaje de armadura y corriente son negativos dando giro contrario a la direccion _"Normal"_ (Reverse starting en el cuadrante _3_) **-V , -A**.
 
 ### Reverse Braking:
-El voltaje de armadura es negativo y la corriente es positiva dando giro contrario a la direccion _"Normal"_ (Reverse regenerating Operation en el cuadrante _4_) **-V , -A**.
+El voltaje de armadura es negativo y la corriente es positiva dando giro contrario a la direccion _"Normal"_ (Reverse regenerating Operation en el cuadrante _4_) **-V , +A**.
 
 ![Motor |500](Imagenes/MotorDc_1.jpeg )
 
