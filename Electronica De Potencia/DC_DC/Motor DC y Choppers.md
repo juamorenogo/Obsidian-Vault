@@ -17,4 +17,6 @@ El voltaje de armadura es negativo y la corriente es positiva dando giro contrar
 
 ![Motor |500](Imagenes/MotorDc_1.jpeg )
 
+## Choppers 
 
+Convierten un nivel fijo DC en varios niveles DC. 
