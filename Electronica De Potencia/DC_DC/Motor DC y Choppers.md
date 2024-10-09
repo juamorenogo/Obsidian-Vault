@@ -22,4 +22,4 @@ El voltaje de armadura es negativo y la corriente es positiva dando giro contrar
 Interruptor electronico (generalmente transitor de potencia) que regula el flujo de una _fuente de corriente DC_ hacia una carga como un **motor DC** o una **batería** mediente conmutacion rapida.
 
 ### Contexto de Buck DC
-El chopper seria el  
+El chopper seria un interruptor  
