@@ -15,4 +15,4 @@ El voltaje de armadura y corriente son negativos dando giro contrario a la direc
 ### Reverse Braking:
 El voltaje de armadura es negativo y la corriente es positiva dando giro contrario a la direccion _"Normal"_ (Reverse regenerating Operation en el cuadrante _4_) **-V , -A**.
 
-![](Imagenes/Motor )
+![](Imagenes/MotorDc_1.jpeg )
