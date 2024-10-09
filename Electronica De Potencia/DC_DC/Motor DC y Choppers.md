@@ -21,4 +21,4 @@ El voltaje de armadura es negativo y la corriente es positiva dando giro contrar
 
 Como Interruptor electrónico (Mosfet o IGBT) que regula el flujo de una _fuente de corriente DC_ hacia una carga por medio de su conmutación variando el _Ducy Cycle DT_ y _frecuencia_ (varia la energía que pasa a la carga). 
 
-El resultado en realidad es una onda cuadrada de _Vin_ a _0_ cuyo voltaje promedio es un nivel _DC_ menor a la entrada, no obstante, se usa un filtrado _LC_ que suaviza finalmente la onda (El inductor suaviza la corriente y el capacitor el voltaje). Si la carga es un _Motor DC_ entonces varia la velocidad del motor. 
+El resultado en realidad es una onda cuadrada de _Vin_ a _0_ cuyo voltaje promedio es un nivel _DC_ menor a la entrada, no obstante, se usa un filtrado _LC_ que suaviza finalmente la onda (El inductor suaviza la corriente y el capacitor el voltaje). Si la carga es un _Motor DC_ entonces varia la velocidad del motor ***(Modulación por ancho de pulso PWM)***.
