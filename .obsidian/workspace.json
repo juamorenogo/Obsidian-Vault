@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronica De Potencia/Switches PE/Operación de switches PE.md",
+                "file": "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Motor DC y Choppers.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronica De Potencia/Switches PE/Operación de switches PE.md",
+                "file": "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Motor DC y Choppers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronica De Potencia/Switches PE/Operación de switches PE.md",
+                "file": "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Motor DC y Choppers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronica De Potencia/Switches PE/Operación de switches PE.md"
+                "file": "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Motor DC y Choppers.md"
               }
             }
           },
@@ -182,8 +182,8 @@
   },
   "active": "87b0ca40d69f5903",
   "lastOpenFiles": [
-    "Electronica De Potencia/Switches PE/Switches PE.md",
     "Electronica De Potencia/Switches PE/Operación de switches PE.md",
+    "Electronica De Potencia/Switches PE/Switches PE.md",
     "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Motor DC y Choppers.md",
     "Electronica De Potencia/Switches PE/Fundamentales Electrónica de potencia.md",
     "Electronica De Potencia/Switches PE/Imagenes/bloquespotencia.jpeg",

@@ -32,4 +32,6 @@ Esquema del circuito con formas de ondas:
 
 #### Second Quadrant 2 type B
 
+Esquema del circuito con formas de onda:
 
+#### Third Quadrant 3 type 
