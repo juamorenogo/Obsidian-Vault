@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronica De Potencia/DC_DC/Motor DC.md",
+                "file": "Electronica De Potencia/DC_DC/Motor DC y Choppers.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronica De Potencia/DC_DC/Motor DC.md",
+                "file": "Electronica De Potencia/DC_DC/Motor DC y Choppers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronica De Potencia/DC_DC/Motor DC.md",
+                "file": "Electronica De Potencia/DC_DC/Motor DC y Choppers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronica De Potencia/DC_DC/Motor DC.md"
+                "file": "Electronica De Potencia/DC_DC/Motor DC y Choppers.md"
               }
             }
           },
@@ -173,7 +173,7 @@
     "Electronica De Potencia/DC_DC/Imagenes",
     "Electronica De Potencia/DC_DC/Imagenes/MotorDc_1.jpeg",
     "Templates/Default Note.md",
-    "Electronica De Potencia/DC_DC/Motor DC.md",
+    "Electronica De Potencia/DC_DC/Motor DC y Choppers.md",
     "Electronica De Potencia/DC_DC/DC_DC_1.md",
     "Electronica De Potencia/DC_DC",
     "Fluss/Cotizaciones/CotizacionChatgpt/convertidor_buck_dc_dc.md",
