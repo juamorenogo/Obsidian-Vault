@@ -19,4 +19,4 @@ El voltaje de armadura es negativo y la corriente es positiva dando giro contrar
 
 ## Choppers 
 
-Interruptor electronico (generalmente transitor de potencia) que regula el flujo de una _fuente de corriente DC_ hacia una carga. El chopper seria un interruptor electronico (Mosfet o IGBT) que por medio de su conmutacion varia el _Ducy Cycle DT_ (varia la energia que pasa a la carga) 
+Como Interruptor electronico (Mosfet o IGBT) que regula el flujo de una _fuente de corriente DC_ hacia una carga por medio de su conmutacion variando el _Ducy Cycle DT_ (varia la energía que pasa a la carga) 
