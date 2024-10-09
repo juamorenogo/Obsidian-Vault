@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "7a5e5afeba54390a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fluss/Cotizaciones/CotizacionChatgpt/convertidor_buck_dc_dc.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Fluss/Cotizaciones/CotizacionChatgpt/convertidor_buck_dc_dc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Fluss/Cotizaciones/CotizacionChatgpt/convertidor_buck_dc_dc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,8 +153,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a5e5afeba54390a",
+  "active": "950bc8abdbcb2924",
   "lastOpenFiles": [
+    "Electronica De Potencia",
     "Fluss/Cotizaciones/CotizacionChatgpt/convertidor_buck_300w.md",
     "Fluss/Cotizaciones/CotizacionChatgpt/inversor_con_switcheo_banco_baterias.md",
     "Fluss/Cotizaciones/CotizacionChatgpt/banco_baterias_recomendaciones.md",
@@ -212,7 +198,6 @@
     "Fluss/Fundamentales Electrónica de potencia.md",
     "Notas Varias",
     "Electronica Análoga/Transistores MOSFET (Análoga 1).md",
-    "C++/C++_ch1/Whitespacing y Literals und Operators.md",
     "Fluss/Imagenes",
     "Fluss",
     "Circuitos"
