@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fluss/TopologiasConversionPE/DC_AC.md",
+                "file": "Electronica De Potencia/ConversionPE_GENERAL/DC_AC.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fluss/Cotizaciones/CotizacionChatgpt/convertidor_buck_dc_dc.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -155,13 +155,15 @@
   },
   "active": "950bc8abdbcb2924",
   "lastOpenFiles": [
+    "Electronica De Potencia/DC_DC",
+    "Fluss/Cotizaciones/CotizacionChatgpt/convertidor_buck_dc_dc.md",
+    "Untitled.md",
     "Electronica De Potencia",
     "Fluss/Cotizaciones/CotizacionChatgpt/convertidor_buck_300w.md",
     "Fluss/Cotizaciones/CotizacionChatgpt/inversor_con_switcheo_banco_baterias.md",
     "Fluss/Cotizaciones/CotizacionChatgpt/banco_baterias_recomendaciones.md",
     "Fluss/Cotizaciones/CotizacionChatgpt/mppt_casero.md",
-    "Fluss/Cotizaciones/CotizacionChatgpt/convertidor_buck_dc_dc.md",
-    "Fluss/TopologiasConversionPE/DC_DC.md",
+    "Electronica De Potencia/ConversionPE_GENERAL/DC_DC.md",
     "Fluss/Cotizaciones/CotizacionChatgpt/convertidor_ac_dc_rectificador_conmutado.md",
     "Fluss/Cotizaciones/Cotizaciones version 1.md",
     "Fluss/Cotizaciones/convertidor_ac_dc_rectificador_conmutado.md",
@@ -173,33 +175,31 @@
     "Fluss/Cotizaciones/Buckowo.png",
     "Cotizaciones.md",
     "Fluss/Cotizaciones",
-    "Fluss/TopologiasConversionPE/DC_AC.md",
-    "Fluss/TopologiasConversionPE/Imagenes/Halfinverter1.jpeg",
-    "Fluss/TopologiasConversionPE/Imagenes/FullInverter1.jpeg",
-    "Fluss/TopologiasConversionPE/AC_DC.md",
+    "Electronica De Potencia/ConversionPE_GENERAL/DC_AC.md",
+    "Electronica De Potencia/ConversionPE_GENERAL/Imagenes/Halfinverter1.jpeg",
+    "Electronica De Potencia/ConversionPE_GENERAL/Imagenes/FullInverter1.jpeg",
+    "Electronica De Potencia/ConversionPE_GENERAL/AC_DC.md",
     "Notas Varias/To-do fluss.md",
     "Notas Varias/Theme Options.md",
     "Notas Varias/Repasar _ Revisar.md",
     "Notas Varias/Backup portatil.md",
-    "Fluss/TopologiasConversionPE/Imagenes/Buck2.png",
+    "Electronica De Potencia/ConversionPE_GENERAL/Imagenes/Buck2.png",
     "C++/Relleno.md",
     "C++/C++_ch1/Inicios C++.md",
     "C++/C++_ch1",
-    "Fluss/TopologiasConversionPE/Imagenes",
+    "Electronica De Potencia/ConversionPE_GENERAL/Imagenes",
     "Topologias.md",
-    "Fluss/TopologiasConversionPE/Imagenes/Bucknonfull.png",
-    "Fluss/TopologiasConversionPE/Imagenes/BuckIsolatedfull.png",
-    "Fluss/TopologiasConversionPE/AC_AC.md",
+    "Electronica De Potencia/ConversionPE_GENERAL/Imagenes/Bucknonfull.png",
+    "Electronica De Potencia/ConversionPE_GENERAL/Imagenes/BuckIsolatedfull.png",
+    "Electronica De Potencia/ConversionPE_GENERAL/AC_AC.md",
     "Fluss/Switches PE.md",
-    "Fluss/TopologiasConversionPE",
-    "Fluss/TopologiasConversionPE/Imagenes/Buck4.jpeg",
-    "Fluss/TopologiasConversionPE/Imagenes/Buck3.png",
-    "Fluss/TopologiasConversionPE/Imagenes/Buck1.jpeg",
+    "Electronica De Potencia/ConversionPE_GENERAL",
+    "Electronica De Potencia/ConversionPE_GENERAL/Imagenes/Buck4.jpeg",
+    "Electronica De Potencia/ConversionPE_GENERAL/Imagenes/Buck3.png",
+    "Electronica De Potencia/ConversionPE_GENERAL/Imagenes/Buck1.jpeg",
     "Fluss/Fundamentales Electrónica de potencia.md",
     "Notas Varias",
-    "Electronica Análoga/Transistores MOSFET (Análoga 1).md",
     "Fluss/Imagenes",
-    "Fluss",
-    "Circuitos"
+    "Fluss"
   ]
 }
