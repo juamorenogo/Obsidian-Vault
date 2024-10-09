@@ -24,10 +24,12 @@ Como Interruptor electrónico (Mosfet o IGBT) que regula el flujo de una _fuente
 El resultado en realidad es una onda cuadrada de _Vin_ a _0_ cuyo voltaje promedio es un nivel _DC_ menor a la entrada, no obstante, se usa un filtrado _LC_ que suaviza finalmente la onda (El inductor suaviza la corriente y el capacitor el voltaje). Si la carga es un _Motor DC_ entonces varia la velocidad del motor ***(Modulación por ancho de pulso PWM)***.
 
 ### Tipos de Choppers:
-Dependiendo del cuadrante donde trabaje se le asigna un nombre. 
+Dependiendo del cuadrante donde trabaje se le asigna un nombre. Para cada caso, el switch _S_ se refiere a cualquier elemento de interruptor electrónico.
 #### First Quadrant 1 type A
 Esquema del circuito con formas de ondas:
 
 ![Q1| 400](Imagenes/Q1.jpeg)
 
 #### Second Quadrant 2 type B
+
+
