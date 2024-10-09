@@ -9,6 +9,5 @@ El voltaje de armadura y corriente son positivas dando giro en la direccion _"No
 ### Foward Bracking:
 El voltaje de armadura es positivo pero la corriente es negativa y se frena el motor en su dirección _"Normal"_ (Foward regenerating operation en el cuadrante **2**) **+V , +A**.
 
-
 ### Reverse Starting:
-
+El voltaje de armadura y corriente son negativos
