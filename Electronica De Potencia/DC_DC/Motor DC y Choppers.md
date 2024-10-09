@@ -26,3 +26,6 @@ El resultado en realidad es una onda cuadrada de _Vin_ a _0_ cuyo voltaje promed
 ### Tipos de Choppers:
 Dependiendo del cuadrante donde trabaje se le asigna un nombre. 
 #### First Quadrant 1 type A
+Esquema del circuito con formas de ondas:
+
+
