@@ -19,7 +19,4 @@ El voltaje de armadura es negativo y la corriente es positiva dando giro contrar
 
 ## Choppers 
 
-Interruptor electronico (generalmente transitor de potencia) que regula el flujo de una _fuente de corriente DC_ hacia una carga como un **motor DC** o una **batería** mediente conmutacion rapida.
-
-### Contexto de Buck DC
-El chopper seria un interruptor  
+Interruptor electronico (generalmente transitor de potencia) que regula el flujo de una _fuente de corriente DC_ hacia una carga. El chopper seria un interruptor electronico (Mosfet o IGBT) que por medio de su conmutacion varia el _Ducy Cycle DT_ (varia la energia que pasa a la carga) 
