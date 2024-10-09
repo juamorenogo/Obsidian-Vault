@@ -33,14 +33,15 @@ Esquema del circuito con formas de ondas:
 #### Second Quadrant 2 type B
 Esquema del circuito con formas de onda:
 
-
+![Q1| 400](Imagenes/Q2.jpeg)
 #### Third Quadrant 3 
 Esquema del circuito con formas de onda:
 
-
+![Q1| 400](Imagenes/Q3.jpeg)
 #### Fourth Quadrant 4
 Esquema del circuito con formas de onda:
 
+![Q1| 400](Imagenes/Q4.jpeg)
 #### Combinaciones
 Adicionalmente, se suelen generar combinaciones entre tipos de choppers. 
 

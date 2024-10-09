@@ -53,11 +53,11 @@
       "color": "ftwdXE67uluLvBO05Bbon"
     },
     {
-      "path": "PDFS",
+      "path": "Utilidades/PDFS",
       "color": "N_eawT8t6jgOjbznVrKoc"
     },
     {
-      "path": "Templates",
+      "path": "Utilidades/Templates",
       "color": "N_eawT8t6jgOjbznVrKoc"
     },
     {
@@ -69,12 +69,16 @@
       "color": "aZv2q5uYXPSfjvwourOn_"
     },
     {
-      "path": "Notas Varias",
+      "path": "Utilidades/Notas Varias",
       "color": "N_eawT8t6jgOjbznVrKoc"
     },
     {
       "path": "Electronica De Potencia",
       "color": "3GifdezRL8wBiec9vR4Bp"
+    },
+    {
+      "path": "Utilidades",
+      "color": "N_eawT8t6jgOjbznVrKoc"
     }
   ]
 }

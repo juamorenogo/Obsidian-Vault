@@ -34,11 +34,12 @@
     "debugMode": false
   },
   "C++": "LiArrowDownNarrowWide",
-  "PDFS": "LiAlignJustify",
-  "Templates": "LiAlignJustify",
   "Circuitos": "LiBaggageClaim",
   "Electronica Análoga": "LiActivitySquare",
   "Fluss": "LiAnchor",
-  "Notas Varias": "LiAlignJustify",
-  "Electronica De Potencia": "LiActivity"
+  "Electronica De Potencia": "LiActivity",
+  "Utilidades": "LiAlignJustify",
+  "Utilidades/PDFS": "LiAlignJustify",
+  "Utilidades/Notas Varias": "LiAlignJustify",
+  "Utilidades/Templates": "LiAlignJustify"
 }
