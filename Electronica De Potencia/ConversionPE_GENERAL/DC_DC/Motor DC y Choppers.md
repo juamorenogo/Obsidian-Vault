@@ -15,7 +15,7 @@ El voltaje de armadura y corriente son negativos dando giro contrario a la direc
 ### Reverse Braking:
 El voltaje de armadura es negativo y la corriente es positiva dando giro contrario a la direccion _"Normal"_ (Reverse regenerating Operation en el cuadrante _4_) **-V , +A**.
 
-![Motor |500](Imagenes/MotorDc_1.jpeg )
+![Motor |500](MotorDc_1.jpeg )
 
 ## Choppers 
 
@@ -28,6 +28,6 @@ Dependiendo del cuadrante donde trabaje se le asigna un nombre.
 #### First Quadrant 1 type A
 Esquema del circuito con formas de ondas:
 
-![Q1| 400](Imagenes/Q1.jpeg)
+![Q1| 400](Q1.jpeg)
 
 #### Second Quadrant 2 type B

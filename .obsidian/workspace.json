@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronica De Potencia/DC_DC/DC_DC_1.md",
+                "file": "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/DC_DC_1.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronica De Potencia/DC_DC/Motor DC y Choppers.md",
+                "file": "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/DC_DC_1.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronica De Potencia/DC_DC/Motor DC y Choppers.md",
+                "file": "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/DC_DC_1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronica De Potencia/DC_DC/Motor DC y Choppers.md",
+                "file": "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/DC_DC_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronica De Potencia/DC_DC/Motor DC y Choppers.md"
+                "file": "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/DC_DC_1.md"
               }
             }
           },
@@ -170,13 +170,25 @@
   },
   "active": "950bc8abdbcb2924",
   "lastOpenFiles": [
-    "Electronica De Potencia/DC_DC/Imagenes/Q1.jpeg",
-    "Electronica De Potencia/DC_DC/Imagenes",
-    "Electronica De Potencia/DC_DC/Imagenes/MotorDc_1.jpeg",
+    "Electronica De Potencia/ConversionPE_GENERAL/DC_AC/DC_AC.md",
+    "Electronica De Potencia/ConversionPE_GENERAL/DC_AC/Imagenes",
+    "Electronica De Potencia/ConversionPE_GENERAL/AC_DC/AC_DC.md",
+    "Electronica De Potencia/ConversionPE_GENERAL/AC_AC/AC_AC.md",
+    "Electronica De Potencia/ConversionPE_GENERAL/AC_AC/Imagenes",
+    "banco_baterias.md",
+    "Electronica De Potencia/ConversionPE_GENERAL/AC_DC/Imagenes",
+    "Untitled.md",
+    "Fluss/Switches PE.md",
+    "Electronica De Potencia/ConversionPE_GENERAL/DC_AC",
+    "Electronica De Potencia/ConversionPE_GENERAL/AC_DC",
+    "Electronica De Potencia/ConversionPE_GENERAL/AC_AC",
+    "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Motor DC y Choppers.md",
+    "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Imagenes/Q1.jpeg",
+    "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Imagenes",
+    "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Imagenes/MotorDc_1.jpeg",
     "Templates/Default Note.md",
-    "Electronica De Potencia/DC_DC/Motor DC y Choppers.md",
-    "Electronica De Potencia/DC_DC/DC_DC_1.md",
-    "Electronica De Potencia/DC_DC",
+    "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/DC_DC_1.md",
+    "Electronica De Potencia/ConversionPE_GENERAL/DC_DC",
     "Fluss/Cotizaciones/CotizacionChatgpt/convertidor_buck_dc_dc.md",
     "Electronica De Potencia",
     "Fluss/Cotizaciones/CotizacionChatgpt/convertidor_buck_300w.md",
@@ -187,34 +199,21 @@
     "Fluss/Cotizaciones/Cotizaciones version 1.md",
     "Fluss/Cotizaciones/convertidor_ac_dc_rectificador_conmutado.md",
     "Fluss/Cotizaciones/CotizacionChatgpt",
-    "Fluss/Cotizaciones/Nueva carpeta",
-    "banco_baterias.md",
     "Fluss/Cotizaciones/banco_baterias_recomendaciones.md",
     "Fluss/Cotizaciones/Bateria.jpg",
     "Fluss/Cotizaciones/Buckowo.png",
     "Cotizaciones.md",
-    "Fluss/Cotizaciones",
-    "Electronica De Potencia/ConversionPE_GENERAL/DC_AC.md",
-    "Electronica De Potencia/ConversionPE_GENERAL/Imagenes/Halfinverter1.jpeg",
-    "Electronica De Potencia/ConversionPE_GENERAL/Imagenes/FullInverter1.jpeg",
-    "Electronica De Potencia/ConversionPE_GENERAL/AC_DC.md",
+    "Electronica De Potencia/ConversionPE_GENERAL/DC_AC/Imagenes/Halfinverter1.jpeg",
+    "Electronica De Potencia/ConversionPE_GENERAL/DC_AC/Imagenes/FullInverter1.jpeg",
     "Notas Varias/To-do fluss.md",
     "Notas Varias/Theme Options.md",
     "Notas Varias/Repasar _ Revisar.md",
     "Notas Varias/Backup portatil.md",
-    "Electronica De Potencia/ConversionPE_GENERAL/Imagenes/Buck2.png",
+    "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Imagenes/Buck2.png",
     "C++/Relleno.md",
     "C++/C++_ch1/Inicios C++.md",
-    "C++/C++_ch1",
-    "Electronica De Potencia/ConversionPE_GENERAL/Imagenes",
-    "Topologias.md",
-    "Electronica De Potencia/ConversionPE_GENERAL/Imagenes/Bucknonfull.png",
-    "Electronica De Potencia/ConversionPE_GENERAL/Imagenes/BuckIsolatedfull.png",
-    "Electronica De Potencia/ConversionPE_GENERAL/AC_AC.md",
-    "Fluss/Switches PE.md",
-    "Electronica De Potencia/ConversionPE_GENERAL",
-    "Electronica De Potencia/ConversionPE_GENERAL/Imagenes/Buck4.jpeg",
-    "Electronica De Potencia/ConversionPE_GENERAL/Imagenes/Buck3.png",
-    "Notas Varias"
+    "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Imagenes/Bucknonfull.png",
+    "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Imagenes/BuckIsolatedfull.png",
+    "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Imagenes/Buck4.jpeg"
   ]
 }
