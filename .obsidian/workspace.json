@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Motor DC y Choppers.md",
+                "file": "Electronica De Potencia/Switches PE/Switches PE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "87b0ca40d69f5903",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electronica De Potencia/Switches PE/Operacion de switches PE.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Motor DC y Choppers.md",
+                "file": "Electronica De Potencia/Switches PE/Operacion de switches PE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Motor DC y Choppers.md",
+                "file": "Electronica De Potencia/Switches PE/Operacion de switches PE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Motor DC y Choppers.md"
+                "file": "Electronica De Potencia/Switches PE/Operacion de switches PE.md"
               }
             }
           },
@@ -168,12 +180,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bcce9166b5321a67",
+  "active": "87b0ca40d69f5903",
   "lastOpenFiles": [
     "Electronica De Potencia/Switches PE/Switches PE.md",
+    "Electronica De Potencia/Switches PE/Operacion de switches PE.md",
+    "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Motor DC y Choppers.md",
     "Electronica De Potencia/Switches PE/Fundamentales Electrónica de potencia.md",
     "Electronica De Potencia/Switches PE/Imagenes/bloquespotencia.jpeg",
-    "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Motor DC y Choppers.md",
     "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/DC_DC_1.md",
     "Electronica De Potencia/ConversionPE_GENERAL/DC_AC/DC_AC.md",
     "Electronica De Potencia/ConversionPE_GENERAL/AC_DC/AC_DC.md",
@@ -183,7 +196,6 @@
     "Electronica De Potencia/ConversionPE_GENERAL/AC_AC/Imagenes",
     "banco_baterias.md",
     "Electronica De Potencia/ConversionPE_GENERAL/AC_DC/Imagenes",
-    "Untitled.md",
     "Electronica De Potencia/ConversionPE_GENERAL/DC_AC",
     "Electronica De Potencia/ConversionPE_GENERAL/AC_DC",
     "Electronica De Potencia/ConversionPE_GENERAL/AC_AC",
