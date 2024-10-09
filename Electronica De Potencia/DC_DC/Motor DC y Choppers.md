@@ -28,4 +28,6 @@ Dependiendo del cuadrante donde trabaje se le asigna un nombre.
 #### First Quadrant 1 type A
 Esquema del circuito con formas de ondas:
 
+![Q1| 400](Imagenes/Q1.jpeg)
 
+#### Second Quadrant 2 type B
