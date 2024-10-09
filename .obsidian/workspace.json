@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronica De Potencia/ConversionPE_GENERAL/DC_AC.md",
+                "file": "Electronica De Potencia/DC_DC/DC_DC_1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bcce9166b5321a67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electronica De Potencia/DC_DC/Motor DC.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electronica De Potencia/DC_DC/Motor DC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electronica De Potencia/DC_DC/Motor DC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Electronica De Potencia/DC_DC/Motor DC.md"
               }
             }
           },
@@ -153,17 +168,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "950bc8abdbcb2924",
+  "active": "bcce9166b5321a67",
   "lastOpenFiles": [
+    "Templates/Default Note.md",
+    "Electronica De Potencia/DC_DC/Motor DC.md",
+    "Electronica De Potencia/DC_DC/DC_DC_1.md",
     "Electronica De Potencia/DC_DC",
     "Fluss/Cotizaciones/CotizacionChatgpt/convertidor_buck_dc_dc.md",
-    "Untitled.md",
     "Electronica De Potencia",
     "Fluss/Cotizaciones/CotizacionChatgpt/convertidor_buck_300w.md",
     "Fluss/Cotizaciones/CotizacionChatgpt/inversor_con_switcheo_banco_baterias.md",
     "Fluss/Cotizaciones/CotizacionChatgpt/banco_baterias_recomendaciones.md",
     "Fluss/Cotizaciones/CotizacionChatgpt/mppt_casero.md",
-    "Electronica De Potencia/ConversionPE_GENERAL/DC_DC.md",
     "Fluss/Cotizaciones/CotizacionChatgpt/convertidor_ac_dc_rectificador_conmutado.md",
     "Fluss/Cotizaciones/Cotizaciones version 1.md",
     "Fluss/Cotizaciones/convertidor_ac_dc_rectificador_conmutado.md",
@@ -199,7 +215,6 @@
     "Electronica De Potencia/ConversionPE_GENERAL/Imagenes/Buck1.jpeg",
     "Fluss/Fundamentales Electrónica de potencia.md",
     "Notas Varias",
-    "Fluss/Imagenes",
-    "Fluss"
+    "Fluss/Imagenes"
   ]
 }
