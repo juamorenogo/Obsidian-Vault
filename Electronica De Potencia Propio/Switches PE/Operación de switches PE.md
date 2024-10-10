@@ -25,6 +25,9 @@ Posee las siguientes _desventajas_:
 * Operación ruidosa (Aplica considerable ruido a la señal de salida) que involucra _EMC_ .
 * Respuesta dinámica lenta a cambios de carga (trasient response time).
 
+### Diferenciación y entendimiento.
+
+Si se supone a cada regulador como una _blackbox_, ambos casos actúan igual, no obstante, un _regulador lineal_ maneja un **flujo continuo de corriente** de la entrada a la carga para mantener una voltaje constante en la salida. Por otro lado, un _regulador conmutado_ 
 
 
 
