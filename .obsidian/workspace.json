@@ -59,12 +59,28 @@
             "id": "128e2160e7cf8c2c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Electronica De Potencia Propio/Switches PE/4_Switching Mode Regulator.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34ae58b13955cd53",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electronica De Potencia Propio/Switches PE/4_Switching Mode Regulator.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electronica De Potencia Propio/Switches PE/4_Switching Mode Regulator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electronica De Potencia Propio/Switches PE/4_Switching Mode Regulator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -167,7 +185,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Electronica De Potencia Propio/Switches PE/4_Switching Mode Regulator.md"
+              }
             }
           },
           {
@@ -196,8 +216,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "128e2160e7cf8c2c",
+  "active": "34ae58b13955cd53",
   "lastOpenFiles": [
+    "Electronica De Potencia Propio/Switches PE/5_Pump Circuits.md",
     "Electronica De Potencia Propio/Switches PE/4_Switching Mode Regulator.md",
     "Electronica De Potencia Propio/Switches PE/3_Operación de switches PE.md",
     "Electronica De Potencia Propio/Switches PE/2_Switches PE.md",
@@ -242,7 +263,6 @@
     "Fluss/Cotizaciones/convertidor_ac_dc_rectificador_conmutado.md",
     "Fluss/Cotizaciones/banco_baterias_recomendaciones.md",
     "Fluss/Cotizaciones/Bateria.jpg",
-    "Cotizaciones.md",
-    "Utilidades/Notas Varias/To-do fluss.md"
+    "Cotizaciones.md"
   ]
 }
