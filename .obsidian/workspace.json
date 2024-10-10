@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/DC_DC_1.md",
+                "file": "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/1_DC_DC_1.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronica De Potencia Propio/Switches PE/Switches PE.md",
+                "file": "Electronica De Potencia Propio/Switches PE/2_Switches PE.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/Motor DC y Choppers.md",
+                "file": "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/2_Motor DC y Choppers.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,14 +49,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronica De Potencia Propio/Switches PE/Operación de switches PE.md",
+                "file": "Electronica De Potencia Propio/Switches PE/3_Operación de switches PE.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "128e2160e7cf8c2c",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +130,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronica De Potencia Propio/Switches PE/Operación de switches PE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronica De Potencia Propio/Switches PE/Operación de switches PE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +167,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Electronica De Potencia Propio/Switches PE/Operación de switches PE.md"
-              }
+              "state": {}
             }
           },
           {
@@ -192,16 +196,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b1230ea60ed80869",
+  "active": "128e2160e7cf8c2c",
   "lastOpenFiles": [
-    "Electronica De Potencia Propio/Switches PE/Switches PE.md",
-    "Electronica De Potencia Propio/Switches PE/Operación de switches PE.md",
+    "Electronica De Potencia Propio/Switches PE/4_Switching Mode Regulator.md",
+    "Electronica De Potencia Propio/Switches PE/3_Operación de switches PE.md",
+    "Electronica De Potencia Propio/Switches PE/2_Switches PE.md",
+    "Electronica De Potencia Propio/Switches PE/1_Fundamentales Electrónica de potencia.md",
     "Electronica Análoga/Transistores MOSFET (Análoga 1).md",
     "Electronica Análoga/Diodos (Análoga 1).md",
     "Electronica Análoga/Transistores BJT (Análoga 1).md",
-    "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/Motor DC y Choppers.md",
-    "Electronica De Potencia Propio/Switches PE/Fundamentales Electrónica de potencia.md",
-    "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/DC_DC_1.md",
+    "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/2_Motor DC y Choppers.md",
+    "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/1_DC_DC_1.md",
     "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_AC/DC_AC.md",
     "C++/C++_ch1/Comportamiento no inicializado e indefinido.md",
     "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/Imagenes/Q1.jpeg",
@@ -212,7 +217,6 @@
     "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/Imagenes/Q3.jpeg",
     "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/Imagenes/Q2.jpeg",
     "Utilidades",
-    "Untitled.md",
     "Electronica De Potencia Propio/Switches PE/Imagenes/bloquespotencia.jpeg",
     "Electronica De Potencia Propio/ConversionPE_GENERAL/AC_DC/AC_DC.md",
     "Electronica De Potencia Propio/ConversionPE_GENERAL/AC_AC/AC_AC.md",
