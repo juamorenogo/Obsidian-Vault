@@ -47,12 +47,8 @@
             "id": "b1230ea60ed80869",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electronica De Potencia Propio/Switches PE/Switches PE.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -122,7 +118,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronica De Potencia Propio/Switches PE/Switches PE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +134,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronica De Potencia Propio/Switches PE/Switches PE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,9 +155,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Electronica De Potencia Propio/Switches PE/Switches PE.md"
-              }
+              "state": {}
             }
           },
           {
@@ -194,6 +186,7 @@
   },
   "active": "b1230ea60ed80869",
   "lastOpenFiles": [
+    "C++/C++_ch1/Comportamiento no inicializado e indefinido.md",
     "Electronica De Potencia Propio/Switches PE/Operación de switches PE.md",
     "Electronica De Potencia Propio/Switches PE/Switches PE.md",
     "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/Motor DC y Choppers.md",
