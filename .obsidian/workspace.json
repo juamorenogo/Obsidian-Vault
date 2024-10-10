@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d51005cd0d02c9fb",
+        "id": "10a7763cf379f76c",
         "type": "tabs",
         "children": [
           {
-            "id": "0a86cfed2c024db8",
+            "id": "186f75201b8f0c36",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electronica De Potencia Propio/Switches PE/3_Operación de switches PE.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronica De Potencia Propio/Switches PE/3_Operación de switches PE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronica De Potencia Propio/Switches PE/3_Operación de switches PE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +119,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronica De Potencia Propio/Switches PE/3_Operación de switches PE.md"
+                "file": "Electronica.md"
               }
             }
           },
@@ -155,14 +149,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a86cfed2c024db8",
+  "active": "950bc8abdbcb2924",
   "lastOpenFiles": [
-    "Electronica De Potencia Propio/Switches PE/4_Switching Mode Regulator.md",
+    "Electronica.md",
     "Electronica De Potencia Propio/Switches PE/3_Operación de switches PE.md",
+    "Electronica De Potencia Propio/Switches PE/2_Switches PE.md",
+    "Electronica De Potencia Propio/Switches PE/4_Switching Mode Regulator.md",
     "Electronica De Potencia Propio/Switches PE/5_Pump Circuits.md",
     "Electronica De Potencia Propio/Regulacion",
     "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/2_Motor DC y Choppers.md",
-    "Electronica De Potencia Propio/Switches PE/2_Switches PE.md",
     "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/1_DC_DC_1.md",
     "Untitled.md",
     "Electronica De Potencia Propio/Regulacion/Conversores Resonantes",

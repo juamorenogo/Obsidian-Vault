@@ -48,6 +48,6 @@ Por otro lado, en un _regulador conmutado_ el flujo de corriente _no es constant
 * Foward - mode regulators.
 * Flyback - mode regulators.
 
-
+![](Electronica De Potencia Propio/Regulacion)
 
 
