@@ -3,7 +3,7 @@
 Tags: #Potencia #Transistores 
 
  A priori, se divide en 2 grandes categorías de operación (Recomendaciones de diseño en _Motorola Series in solid state electronics_):
-## Linear Mode Regulator
+### Linear Mode Regulator
 Posee las siguientes **ventajas**:
 * Modelo simple.
 * Operación silenciosa ( Ruido generalmente despreciable a la salida).
@@ -14,7 +14,7 @@ Posee las siguientes _desventajas_:
 * Solo puede ser usado como _Buck_ o _Step Down_.
 * Solo es capaz de regular una entrada a la vez.
 * Poca eficiencia en potencia (_30% - 60% de eficiencia_).
-## Switching Mode Regulator
+### Switching Mode Regulator
 Posee las siguientes **ventajas**:
 * Alta eficiencia en potencia (_68% - 90% de eficiencia_) (Los transistores de potencia trabajan en sus puntos óptimos, _Saturación_ y _Corte_).
 * Mayor independencia entre _Vin_ y _Vo_, lo que significa que sirve como _Buck_ o _Boost_.
@@ -24,7 +24,6 @@ Posee las siguientes _desventajas_:
 * Modelo mucho mas complicado.
 * Operación ruidosa (Aplica considerable ruido a la señal de salida) que involucra _EMC_ .
 * Respuesta dinámica lenta a cambios de carga (trasient response time).
-
 ### Diferenciación y entendimiento.
 
 #### Diferencias clave:
@@ -42,8 +41,12 @@ Posee las siguientes _desventajas_:
         - **Cuando el interruptor está apagado**, la energía almacenada en el inductor continúa fluyendo hacia la carga, manteniendo un flujo de corriente casi constante.
     - Este proceso de almacenamiento y liberación de energía permite que un regulador conmutado entregue corriente continua a la carga, aunque la corriente de entrada varíe debido a la conmutación.
 
-Si se supone a cada regulador como una _blackbox_, ambos casos actúan igual, no obstante, un _regulador lineal_ maneja un **flujo continuo de corriente** de la entrada a la carga para mantener una voltaje constante en la salida. Por otro lado, un _regulador conmutado_ 
+Si se supone a cada regulador como una _blackbox con 2 terminales_, ambos casos actúan igual, no obstante, un _regulador lineal_ maneja un **flujo continuo de corriente** de la entrada a la carga para mantener una voltaje constante en la salida. 
 
+Por otro lado, en un _regulador conmutado_ el flujo de corriente _no es constante en el interruptor_ pero si en su _salida_ (se crean pulsos de corriente que el inductor suaviza junto al _DT_). Si la carga exige mas corriente, se modifica el porcentaje de _on time_.  
+#### Tipos básicos de regulador conmutado Pulsewidth modulated (PWM)
+* Foward - mode regulators.
+* flyback - mode regulators.
 
 
 
