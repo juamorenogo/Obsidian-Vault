@@ -23,12 +23,8 @@
             "id": "bcdc8617ee598ce8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Electronica De Potencia Propio/Regulacion/Charge Pump/Pump Circuits.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -98,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronica De Potencia Propio/Regulacion/Charge Pump/Pump Circuits.md",
+                "file": "Utilidades/Notas Varias/To-do fluss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronica De Potencia Propio/Regulacion/Charge Pump/Pump Circuits.md",
+                "file": "Utilidades/Notas Varias/To-do fluss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronica De Potencia Propio/Regulacion/Charge Pump/Pump Circuits.md"
+                "file": "Utilidades/Notas Varias/To-do fluss.md"
               }
             }
           },
@@ -170,14 +166,16 @@
   },
   "active": "bcdc8617ee598ce8",
   "lastOpenFiles": [
-    "Utilidades/Notas Varias/To-do fluss.md",
+    "Electronica De Potencia Propio/Switches PE/3_Operación de switches PE.md",
+    "Electronica De Potencia Propio/Switches PE/2_Switches PE.md",
+    "C++/C++_ch1/Iostream (Libreria).md",
+    "C++/C++_ch1/Inicios C++.md",
     "Electronica De Potencia Propio/Regulacion/Charge Pump/Pump Circuits.md",
+    "Utilidades/Notas Varias/To-do fluss.md",
     "Utilidades/Notas Varias/Theme Options.md",
     "Utilidades/Notas Varias/Repasar _ Revisar.md",
     "Utilidades/Notas Varias/Backup portatil.md",
     "Electronica.md",
-    "Electronica De Potencia Propio/Switches PE/3_Operación de switches PE.md",
-    "Electronica De Potencia Propio/Switches PE/2_Switches PE.md",
     "Electronica De Potencia Propio/Switches PE/4_Switching Mode Regulator.md",
     "Electronica De Potencia Propio/Switches PE/5_Pump Circuits.md",
     "Electronica De Potencia Propio/Regulacion",
@@ -213,8 +211,6 @@
     "Utilidades/Templates/Default Note.md",
     "Fluss/Cotizaciones/CotizacionChatgpt/convertidor_buck_dc_dc.md",
     "Fluss/Cotizaciones/CotizacionChatgpt/convertidor_buck_300w.md",
-    "Fluss/Cotizaciones/CotizacionChatgpt/inversor_con_switcheo_banco_baterias.md",
-    "Fluss/Cotizaciones/CotizacionChatgpt/banco_baterias_recomendaciones.md",
     "Fluss/Cotizaciones/Bateria.jpg"
   ]
 }
