@@ -37,9 +37,9 @@
   "Circuitos": "LiBaggageClaim",
   "Electronica Análoga": "LiActivitySquare",
   "Fluss": "LiAnchor",
-  "Electronica De Potencia": "LiActivity",
   "Utilidades": "LiAlignJustify",
   "Utilidades/PDFS": "LiAlignJustify",
   "Utilidades/Notas Varias": "LiAlignJustify",
-  "Utilidades/Templates": "LiAlignJustify"
+  "Utilidades/Templates": "LiAlignJustify",
+  "Electronica De Potencia Propio": "LiActivity"
 }
