@@ -1,6 +1,6 @@
 2024-10-04 01:09
 
-Tags: #Fluss #Potencia #Topologia
+Tags:  #Potencia #Topologia
 ## DC / DC Converter (Switching Regulator) : 
 Convierte el nivel de _Vin_  a un nuevo nivel _ßVout_ con _ß>0_.
 ### Non-isolated buck converter (Step-down converter) (Convencional)

@@ -1,6 +1,6 @@
 2024-10-03 22:16
 
-Tags: #Thyristor #Fluss #Potencia #Transistores #PESwitch
+Tags: #Thyristor #Potencia #Transistores #PESwitch
  
 
 ## Switches PE

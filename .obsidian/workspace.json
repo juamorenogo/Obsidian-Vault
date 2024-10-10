@@ -47,8 +47,12 @@
             "id": "b1230ea60ed80869",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Electronica De Potencia Propio/Switches PE/Operación de switches PE.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -81,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#MOSFET",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electronica De Potencia Propio/Switches PE/Operación de switches PE.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,6 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electronica De Potencia Propio/Switches PE/Operación de switches PE.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +161,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Electronica De Potencia Propio/Switches PE/Operación de switches PE.md"
+              }
             }
           },
           {
@@ -186,10 +194,16 @@
   },
   "active": "b1230ea60ed80869",
   "lastOpenFiles": [
-    "C++/C++_ch1/Comportamiento no inicializado e indefinido.md",
-    "Electronica De Potencia Propio/Switches PE/Operación de switches PE.md",
     "Electronica De Potencia Propio/Switches PE/Switches PE.md",
+    "Electronica De Potencia Propio/Switches PE/Operación de switches PE.md",
+    "Electronica Análoga/Transistores MOSFET (Análoga 1).md",
+    "Electronica Análoga/Diodos (Análoga 1).md",
+    "Electronica Análoga/Transistores BJT (Análoga 1).md",
     "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/Motor DC y Choppers.md",
+    "Electronica De Potencia Propio/Switches PE/Fundamentales Electrónica de potencia.md",
+    "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/DC_DC_1.md",
+    "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_AC/DC_AC.md",
+    "C++/C++_ch1/Comportamiento no inicializado e indefinido.md",
     "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/Imagenes/Q1.jpeg",
     "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/Imagenes/Q1Q2.jpeg",
     "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/Imagenes/Q444.jpeg",
@@ -199,10 +213,7 @@
     "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/Imagenes/Q2.jpeg",
     "Utilidades",
     "Untitled.md",
-    "Electronica De Potencia Propio/Switches PE/Fundamentales Electrónica de potencia.md",
     "Electronica De Potencia Propio/Switches PE/Imagenes/bloquespotencia.jpeg",
-    "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/DC_DC_1.md",
-    "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_AC/DC_AC.md",
     "Electronica De Potencia Propio/ConversionPE_GENERAL/AC_DC/AC_DC.md",
     "Electronica De Potencia Propio/ConversionPE_GENERAL/AC_AC/AC_AC.md",
     "Electronica De Potencia Propio/Switches PE",
@@ -228,9 +239,6 @@
     "Fluss/Cotizaciones/banco_baterias_recomendaciones.md",
     "Fluss/Cotizaciones/Bateria.jpg",
     "Cotizaciones.md",
-    "Utilidades/Notas Varias/To-do fluss.md",
-    "Utilidades/Notas Varias/Theme Options.md",
-    "Utilidades/Notas Varias/Repasar _ Revisar.md",
-    "Utilidades/Notas Varias/Backup portatil.md"
+    "Utilidades/Notas Varias/To-do fluss.md"
   ]
 }

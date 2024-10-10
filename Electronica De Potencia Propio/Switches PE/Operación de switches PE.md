@@ -1,6 +1,6 @@
 2024-10-09 16:35
 
-Tags: #Potencia #Transistores #PESwitch
+Tags: #Potencia #Transistores #PESwitch #Thyristor
 
  A priori, se divide en 2 grandes categorías de operación (Recomendaciones de diseño en _Motorola Series in solid state electronics_):
 ### Linear Mode Regulator
