@@ -65,4 +65,4 @@ El esquemático correspondiente es :
 
 ![Q1| 600](Imagenes/Q444.jpeg)
 
-
+Permite decidir totalmente la polaridad del voltaje _V2_ y su corriente respectiva para una carga cualquiera. Cabe resaltar que _V2_ representa los terminales de carga y se usa el modelo de f
