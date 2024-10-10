@@ -46,6 +46,9 @@
 [artisticat1/obsidian-tikzjax: Render LaTeX and TikZ diagrams in your notes (github.com)](https://github.com/artisticat1/obsidian-tikzjax)
 
 $$ I_{D}= I_{S}(e^{\frac{V_{D}}{nV_{T}}}-1)$$
+
+
+
 ```tikz
 \usepackage{circuitikz}
 \begin{document}
@@ -63,6 +66,8 @@ to[R=$R_2$, i>_=$i_2$]
 \end{document}
 ```
 [HoLaTeX](https://holatex.app/)
+
+
 $$\LARGE I_{D}= I_{S}(e^{\frac{V_{D}}{nV_{T}}}-1)$$
 Alt+96 = "``"
 Alt + 94 = "^"

@@ -23,8 +23,12 @@
             "id": "bcdc8617ee598ce8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Utilidades/Notas Varias/Theme Options.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -94,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilidades/Notas Varias/To-do fluss.md",
+                "file": "Utilidades/Notas Varias/Theme Options.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilidades/Notas Varias/To-do fluss.md",
+                "file": "Utilidades/Notas Varias/Theme Options.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilidades/Notas Varias/To-do fluss.md"
+                "file": "Utilidades/Notas Varias/Theme Options.md"
               }
             }
           },
