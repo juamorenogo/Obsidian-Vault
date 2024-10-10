@@ -24,7 +24,8 @@ Posee las siguientes _desventajas_:
 * Modelo mucho mas complicado.
 * Operación ruidosa (Aplica considerable ruido a la señal de salida) que involucra _EMC_ .
 * Respuesta dinámica lenta a cambios de carga (trasient response time).
-* 
+
+
 
 
 
