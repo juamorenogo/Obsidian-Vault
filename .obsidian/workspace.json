@@ -192,14 +192,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "950bc8abdbcb2924",
+  "active": "b1230ea60ed80869",
   "lastOpenFiles": [
+    "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Imagenes/Q1.jpeg",
+    "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Imagenes/Q1Q2.jpeg",
+    "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Motor DC y Choppers.md",
+    "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Imagenes/Q444.jpeg",
+    "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Imagenes/Q1Q2Q3Q4.jpeg",
     "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Imagenes/Q4.jpeg",
     "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Imagenes/Q3.jpeg",
     "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Imagenes/Q2.jpeg",
     "Utilidades",
     "Untitled.md",
-    "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Motor DC y Choppers.md",
     "Electronica De Potencia/Switches PE/Operación de switches PE.md",
     "Electronica De Potencia/Switches PE/Switches PE.md",
     "Electronica De Potencia/Switches PE/Fundamentales Electrónica de potencia.md",
@@ -216,7 +220,6 @@
     "Electronica De Potencia/ConversionPE_GENERAL/DC_AC",
     "Electronica De Potencia/ConversionPE_GENERAL/AC_DC",
     "Electronica De Potencia/ConversionPE_GENERAL/AC_AC",
-    "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Imagenes/Q1.jpeg",
     "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Imagenes",
     "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Imagenes/MotorDc_1.jpeg",
     "Utilidades/Templates/Default Note.md",
@@ -231,14 +234,10 @@
     "Fluss/Cotizaciones/convertidor_ac_dc_rectificador_conmutado.md",
     "Fluss/Cotizaciones/banco_baterias_recomendaciones.md",
     "Fluss/Cotizaciones/Bateria.jpg",
-    "Fluss/Cotizaciones/Buckowo.png",
     "Cotizaciones.md",
-    "Electronica De Potencia/ConversionPE_GENERAL/DC_AC/Imagenes/Halfinverter1.jpeg",
-    "Electronica De Potencia/ConversionPE_GENERAL/DC_AC/Imagenes/FullInverter1.jpeg",
     "Utilidades/Notas Varias/To-do fluss.md",
     "Utilidades/Notas Varias/Theme Options.md",
     "Utilidades/Notas Varias/Repasar _ Revisar.md",
-    "Utilidades/Notas Varias/Backup portatil.md",
-    "Electronica De Potencia/ConversionPE_GENERAL/DC_DC/Imagenes/Buck2.png"
+    "Utilidades/Notas Varias/Backup portatil.md"
   ]
 }

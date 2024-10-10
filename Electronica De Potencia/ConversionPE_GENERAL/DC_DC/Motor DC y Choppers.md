@@ -45,11 +45,24 @@ Esquema del circuito con formas de onda:
 #### Combinaciones
 Adicionalmente, se suelen generar combinaciones entre tipos de choppers. 
 ##### First and Second Quadrant:
-Usualmente para sistemas con 2 voltajes _V1_ ,_V2_ donde se asume que _V1 > V2_ , entonces se genera una función a partes en términos de _V2_  para la operacion de cada cuadrante.
-
-
+Usualmente para sistemas con 2 voltajes _V1_ ,_V2_ donde se asume que _V1 > V2_ , entonces se genera una función a partes en términos de _V2_  para la operación de cada cuadrante.
 ##### Third and Fourth Quadrant:
+Usualmente para sistemas con 2 voltajes _V1_ ,_V2_ donde se asume que _|V1| > |V2|_ , entonces se genera una función a partes en términos de _V2_  para la operación de cada cuadrante.
 
+![Q1| 400](Imagenes/Q1Q2Q3Q4.jpeg)
 
+##### Four Quatrants :
+En este caso la salida de voltaje puede ser tanto positiva como negativa (_+Vo | -Vo_). Se genera una función a partes en términos de _Ve_ para cada cuadrante de la forma (Suponiendo que todos los elementos son ideales): 
+
+$$ V_{2} = 
+\left\{ \begin{array}{lcc} kV_{1} & si & Q_{1}
+\\ (1-k)V_{1} & si & Q_{2}
+\\ -kV_{1} & si & Q_{3}
+\\- (1-k)V_{1} & si & Q_{4} \end{array} \right.
+$$
+
+El esquemático correspondiente es :
+
+![Q1| 600](Imagenes/Q444.jpeg)
 
 
