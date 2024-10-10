@@ -27,6 +27,21 @@ Posee las siguientes _desventajas_:
 
 ### Diferenciación y entendimiento.
 
+#### Diferencias clave:
+
+1. **Regulador Lineal**:
+    
+    - En un regulador lineal, el dispositivo de control (generalmente un transistor en modo lineal) **actúa como una resistencia variable**, disipando el exceso de energía para reducir el voltaje de entrada a un nivel de salida más bajo.
+    - La corriente que fluye a través de la carga es la misma que la que fluye a través del transistor, lo que significa que para mantener un voltaje constante, también debe mantenerse un flujo **constante de corriente**.
+    - La eficiencia es baja, ya que la diferencia entre el voltaje de entrada y el de salida se disipa como calor.
+2. **Regulador Conmutado**:
+    
+    - En un regulador conmutado (conmutador), el **principio básico** es que el interruptor (por ejemplo, un MOSFET) se enciende y apaga rápidamente. En lugar de disipar el exceso de energía como calor, se **almacena y libera** energía en componentes como un **inductor** o un **capacitor**.
+    - Durante el ciclo de conmutación:
+        - **Cuando el interruptor está encendido**, la corriente fluye desde la fuente de entrada a través de un inductor (en un convertidor buck, por ejemplo) hacia la carga. El inductor almacena energía en su campo magnético.
+        - **Cuando el interruptor está apagado**, la energía almacenada en el inductor continúa fluyendo hacia la carga, manteniendo un flujo de corriente casi constante.
+    - Este proceso de almacenamiento y liberación de energía permite que un regulador conmutado entregue corriente continua a la carga, aunque la corriente de entrada varíe debido a la conmutación.
+
 Si se supone a cada regulador como una _blackbox_, ambos casos actúan igual, no obstante, un _regulador lineal_ maneja un **flujo continuo de corriente** de la entrada a la carga para mantener una voltaje constante en la salida. Por otro lado, un _regulador conmutado_ 
 
 
