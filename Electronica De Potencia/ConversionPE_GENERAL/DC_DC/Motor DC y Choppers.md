@@ -44,6 +44,8 @@ Esquema del circuito con formas de onda:
 ![Q1| 400](Imagenes/Q4.jpeg)
 #### Combinaciones
 Adicionalmente, se suelen generar combinaciones entre tipos de choppers. 
+
+	Cabe resaltar que V2 representa los terminales de carga a lazo abierto o se usa el modelo de fuente de tension para representar la Fuerza Electromotriz generada por un Motor DC .
 ##### First and Second Quadrant:
 Usualmente para sistemas con 2 voltajes _V1_ ,_V2_ donde se asume que _V1 > V2_ , entonces se genera una función a partes en términos de _V2_  para la operación de cada cuadrante.
 ##### Third and Fourth Quadrant:
@@ -65,4 +67,4 @@ El esquemático correspondiente es :
 
 ![Q1| 600](Imagenes/Q444.jpeg)
 
-Permite decidir totalmente la polaridad del voltaje _V2_ y su corriente respectiva para una carga cualquiera. Cabe resaltar que _V2_ representa los terminales de carga y se usa el modelo de f
+Permite decidir totalmente la polaridad del voltaje _V2_ y su corriente respectiva para una carga cualquiera. 
