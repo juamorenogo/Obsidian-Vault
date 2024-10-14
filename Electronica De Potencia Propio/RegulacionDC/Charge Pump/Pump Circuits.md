@@ -9,10 +9,15 @@ Estos circuitos se pueden dividir en 4 grupos:
 * super lift pumps
 
 ### Fundamental Pumps
-Todos poseen en comun el uso de un interruptor electronico, un diodo y un inductor.
+Todos poseen en comun el uso de un interruptor electrónico, un diodo y un inductor.
 * Buck pump
 * Boost pump
 * Buck-boost pump
+### Developed Pumps
+Todos poseen en comun el uso de un interruptor electrónico, un diodo, un capacitor y un inductor.
+* Positive luo pump
+* Negative luo pump
+* Cuk pump
 
 
 
