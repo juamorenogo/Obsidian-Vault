@@ -42,17 +42,16 @@ Todos poseen en común el uso de un interruptor electrónico, un diodo, un capac
 * Foward Pump
 S1 y el D1 sincronizados y D2 con sincronización contraria. Modo de operación discontinuo.
 
-
+![|400](Imagenes/Pump7.jpeg)
 
 * Fly-back pump
 S y D alternativamente sincronizados, trabajando en modo discontinuo.
 
-
+![|400](Imagenes/Pump8.jpeg)
 
 * Zeta Pump
 S y D alternativamente sincronizados, trabajando en modo discontinuo.
 
-
-
+![|400](Imagenes/Pump9.jpeg)
 
 
