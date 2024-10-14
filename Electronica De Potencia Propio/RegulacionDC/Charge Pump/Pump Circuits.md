@@ -70,3 +70,13 @@ Consiste de 2 interruptores, sin inductor. Usados en multiple-lift conversores c
 ![Fly-back Pump |400](Imagenes/Pump8.jpeg)
 
 ![Zeta Pump |400](Imagenes/Pump9.jpeg)
+
+![Pump10 |400](Imagenes/Pump10.jpeg) 
+
+![Pump11 |400](Imagenes/Pump11.jpeg) 
+
+![Pump12 |400](Imagenes/Pump12.jpeg) 
+
+![Pump14 |400](Imagenes/Pump14.jpeg)
+
+![Pump14 |400](Imagenes/Pump15.jpeg)
