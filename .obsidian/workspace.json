@@ -168,8 +168,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bcdc8617ee598ce8",
+  "active": "950bc8abdbcb2924",
   "lastOpenFiles": [
+    "Electronica De Potencia Propio/RegulacionDC/Charge Pump/Imagenes/Pump.jpeg",
+    "Electronica De Potencia Propio/RegulacionDC/Charge Pump/Imagenes",
     "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/2_Motor DC y Choppers.md",
     "Electronica De Potencia Propio/RegulacionDC/Charge Pump/Pump Circuits.md",
     "Utilidades/Notas Varias/Theme Options.md",
@@ -209,12 +211,10 @@
     "Electronica De Potencia Propio/ConversionPE_GENERAL/AC_AC/AC_AC.md",
     "Electronica De Potencia Propio/Switches PE",
     "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_AC/Imagenes",
-    "Electronica De Potencia Propio/ConversionPE_GENERAL/AC_AC/Imagenes",
     "banco_baterias.md",
     "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/Imagenes/MotorDc_1.jpeg",
     "Utilidades/Templates/Default Note.md",
     "Fluss/Cotizaciones/CotizacionChatgpt/convertidor_buck_dc_dc.md",
-    "Fluss/Cotizaciones/CotizacionChatgpt/convertidor_buck_300w.md",
     "Fluss/Cotizaciones/Bateria.jpg"
   ]
 }

@@ -11,6 +11,7 @@ Estos circuitos se pueden dividir en 4 grupos:
 ### Fundamental Pumps
 Todos poseen en comun el uso de un interruptor electrónico, un diodo y un inductor.
 * Buck pump
+
 * Boost pump
 * Buck-boost pump
 ### Developed Pumps
