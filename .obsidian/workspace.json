@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d6c2165607fe134b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "First Generation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronica De Potencia Propio/RegulacionDC/Charge Pump/Pump Circuits.md",
+                "file": "First Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronica De Potencia Propio/RegulacionDC/Charge Pump/Pump Circuits.md",
+                "file": "First Generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronica De Potencia Propio/RegulacionDC/Charge Pump/Pump Circuits.md"
+                "file": "First Generation.md"
               }
             }
           },
@@ -168,8 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "950bc8abdbcb2924",
+  "active": "d6c2165607fe134b",
   "lastOpenFiles": [
+    "Electronica De Potencia Propio/RegulacionDC/Charge Pump/Pump Circuits.md",
+    "First Generation.md",
     "Electronica De Potencia Propio/RegulacionDC/Charge Pump/Imagenes/Pump14.jpeg",
     "Electronica De Potencia Propio/RegulacionDC/Charge Pump/Imagenes/Pump13.jpeg",
     "Electronica De Potencia Propio/RegulacionDC/Charge Pump/Imagenes/Pump12.jpeg",
@@ -180,8 +194,6 @@
     "Electronica De Potencia Propio/RegulacionDC/Charge Pump/Imagenes/Pump8.jpeg",
     "Electronica De Potencia Propio/RegulacionDC/Charge Pump/Imagenes/Pump7.jpeg",
     "Electronica De Potencia Propio/RegulacionDC/Charge Pump/Imagenes/Pump6.jpeg",
-    "Electronica De Potencia Propio/RegulacionDC/Charge Pump/Imagenes/Pump5.jpeg",
-    "Electronica De Potencia Propio/RegulacionDC/Charge Pump/Pump Circuits.md",
     "Electronica De Potencia Propio/RegulacionDC/Charge Pump/Imagenes",
     "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/2_Motor DC y Choppers.md",
     "Utilidades/Notas Varias/Theme Options.md",
