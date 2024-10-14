@@ -37,10 +37,13 @@ S y D alternativamente sincronizados, trabajando en modo discontinuo.
 Todos poseen interruptores electronicos, diodos, capacitores y uno que otro inductor.
 
 * Positive super luo pump
-
+S y D1 sincronizados y D2 alternante. Opera en _CCM Continuous  Conduction Mode_. Corriente del inductor es continuo.
 
 * Negative super lou pump
+S y D1 sincronizados y D2 alternante. Opera en _CCM Continuous  Conduction Mode_. Corriente de entrada es discontinua.
+
 * Positive push pull pump
+
 * Negtive push pull pump
 * Double / Enhanced circuit (DEC)
 
