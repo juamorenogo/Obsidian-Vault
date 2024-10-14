@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Utilidades/Notas Varias/Theme Options.md",
+                "file": "Electronica De Potencia Propio/RegulacionDC/Charge Pump/Pump Circuits.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilidades/Notas Varias/Theme Options.md",
+                "file": "Electronica De Potencia Propio/RegulacionDC/Charge Pump/Pump Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilidades/Notas Varias/Theme Options.md",
+                "file": "Electronica De Potencia Propio/RegulacionDC/Charge Pump/Pump Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilidades/Notas Varias/Theme Options.md"
+                "file": "Electronica De Potencia Propio/RegulacionDC/Charge Pump/Pump Circuits.md"
               }
             }
           },
@@ -168,15 +168,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "950bc8abdbcb2924",
+  "active": "bcdc8617ee598ce8",
   "lastOpenFiles": [
+    "Utilidades/Notas Varias/Theme Options.md",
     "Electronica De Potencia Propio/Switches PE/3_Operación de switches PE.md",
     "Electronica De Potencia Propio/Switches PE/2_Switches PE.md",
     "C++/C++_ch1/Iostream (Libreria).md",
     "C++/C++_ch1/Inicios C++.md",
     "Electronica De Potencia Propio/RegulacionDC/Charge Pump/Pump Circuits.md",
     "Utilidades/Notas Varias/To-do fluss.md",
-    "Utilidades/Notas Varias/Theme Options.md",
     "Utilidades/Notas Varias/Repasar _ Revisar.md",
     "Utilidades/Notas Varias/Backup portatil.md",
     "Electronica.md",
