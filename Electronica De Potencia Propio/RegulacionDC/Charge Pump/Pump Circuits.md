@@ -5,8 +5,8 @@ Tags: #Potencia #Topologia
 Estos circuitos se pueden dividir en 4 grupos:
 * Fundamental pumps
 * Developed pumps
-* transformer type pumps
-* super lift pumps
+* Transformer type pumps
+* Super lift pumps
 ### Fundamental Pumps
 Todos poseen en comun el uso de un interruptor electrónico, un diodo y un inductor.
 * Buck pump
@@ -25,15 +25,20 @@ Todos poseen en comun el uso de un interruptor electrónico, un diodo, un capaci
 * Positive luo pump
 Trabaja en operacion continua, la corriente _Iout , Vout > 0_.
 
+![|400](Imagenes/Pump4.jpeg)
 
 * Negative luo pump
 Trabaja en operacion continua, la corriente _Iout , Vout < 0_.
 
+![|400](Imagenes/Pump5.jpeg)
 
 * Cuk pump
 Trabaja en operacion continua, la corriente _Iout , Vout < 0_.
 
+![|400](Imagenes/Pump6.jpeg)
 
+
+### Transformer Type pumps
 
 
 
