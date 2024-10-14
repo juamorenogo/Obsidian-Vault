@@ -43,8 +43,10 @@ S y D1 sincronizados y D2 alternante. Opera en _CCM Continuous  Conduction Mode_
 S y D1 sincronizados y D2 alternante. Opera en _CCM Continuous  Conduction Mode_. Corriente de entrada es discontinua.
 
 * Positive push pull pump
+Consiste de 2 interruptores, sin inductor. Usados en multiple-lift conversores capacitivos.  S y D1 sincronizados  y D2 alternante. Opera en _Push-pull state continuos mode_.
 
-* Negtive push pull pump
+* Negative push pull pump
+
 * Double / Enhanced circuit (DEC)
 
 ---
