@@ -23,9 +23,15 @@ Todos poseen en comun el uso de un interruptor electrónico, un diodo y un induc
 ### Developed Pumps
 Todos poseen en comun el uso de un interruptor electrónico, un diodo, un capacitor y un inductor.
 * Positive luo pump
-Trabaja en operacion continua, la corriente _IL > 0_   
+Trabaja en operacion continua, la corriente _Iout , Vout > 0_.
+
+
 * Negative luo pump
+Trabaja en operacion continua, la corriente _Iout , Vout < 0_.
+
+
 * Cuk pump
+Trabaja en operacion continua, la corriente _Iout , Vout < 0_.
 
 
 
