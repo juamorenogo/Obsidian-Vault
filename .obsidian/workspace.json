@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "First Generation.md",
+                "file": "Electronica De Potencia Propio/RegulacionDC/Charge Pump/First Generation.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "First Generation.md",
+                "file": "Electronica De Potencia Propio/RegulacionDC/Charge Pump/First Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "First Generation.md",
+                "file": "Electronica De Potencia Propio/RegulacionDC/Charge Pump/First Generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "First Generation.md"
+                "file": "Electronica De Potencia Propio/RegulacionDC/Charge Pump/First Generation.md"
               }
             }
           },
@@ -180,10 +180,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6c2165607fe134b",
+  "active": "950bc8abdbcb2924",
   "lastOpenFiles": [
     "Electronica De Potencia Propio/RegulacionDC/Charge Pump/Pump Circuits.md",
-    "First Generation.md",
+    "Electronica De Potencia Propio/RegulacionDC/Charge Pump/First Generation.md",
     "Electronica De Potencia Propio/RegulacionDC/Charge Pump/Imagenes/Pump14.jpeg",
     "Electronica De Potencia Propio/RegulacionDC/Charge Pump/Imagenes/Pump13.jpeg",
     "Electronica De Potencia Propio/RegulacionDC/Charge Pump/Imagenes/Pump12.jpeg",
