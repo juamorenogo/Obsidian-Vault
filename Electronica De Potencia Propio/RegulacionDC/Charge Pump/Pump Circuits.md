@@ -57,27 +57,39 @@ Aplicado en lift o super-lift o push-pull circuitos, usado para amplificacion de
 
 ![Buck Pump |400](Imagenes/Pump1.jpeg)
 
+
 ![Boost Pump |400](Imagenes/Pump2.jpeg)
+
 
 ![Buck-Boost Pump |400](Imagenes/Pump3.jpeg)
 
+
 ![Positive Luo Pump |400](Imagenes/Pump4.jpeg)
+
 
 ![Negative Luo Pump |400](Imagenes/Pump5.jpeg)
 
+
 ![Cuk Pump |400](Imagenes/Pump6.jpeg)
+
 
 ![Forward Pump |400](Imagenes/Pump7.jpeg)
 
+
 ![Fly-back Pump |400](Imagenes/Pump8.jpeg)
+
 
 ![Zeta Pump |400](Imagenes/Pump9.jpeg)
 
+
 ![Pump10 |400](Imagenes/Pump10.jpeg) 
+
 
 ![Pump11 |400](Imagenes/Pump11.jpeg) 
 
+
 ![Pump12 |400](Imagenes/Pump12.jpeg) 
+
 
 ![Pump14 |400](Imagenes/Pump14.jpeg)
 
