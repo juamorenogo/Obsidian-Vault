@@ -81,4 +81,4 @@ Aplicado en lift o super-lift o push-pull circuitos, usado para amplificacion de
 
 ![Pump14 |400](Imagenes/Pump14.jpeg)
 
-![Pump14 |400](Imagenes/Pump15.jpeg)
+
