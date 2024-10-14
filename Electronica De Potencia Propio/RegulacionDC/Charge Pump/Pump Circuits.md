@@ -2,56 +2,66 @@
 
 Tags: #Potencia #Topologia 
 
-Estos circuitos se pueden dividir en 4 grupos:
-* Fundamental pumps
-* Developed pumps
-* Transformer type pumps
-* Super lift pumps
 ### Fundamental Pumps
-Todos poseen en comun el uso de un interruptor electrónico, un diodo y un inductor.
+Todos poseen en común el uso de un interruptor electrónico, un diodo y un inductor.
+
 * Buck pump
-
-![|400](Imagenes/Pump1.jpeg)
-
 * Boost pump
-
-![|400](Imagenes/Pump2.jpeg)
 * Buck-boost pump
 
-![|400](Imagenes/Pump3.jpeg)
-
 ### Developed Pumps
-Todos poseen en comun el uso de un interruptor electrónico, un diodo, un capacitor y un inductor.
-* Positive luo pump
-Trabaja en operacion continua, la corriente _Iout , Vout > 0_.
+Todos poseen en común el uso de un interruptor electrónico, un diodo, un capacitor y un inductor.
 
-![|400](Imagenes/Pump4.jpeg)
+* Positive luo pump
+Trabaja en operación continua, la corriente _Iout , Vout > 0_.
 
 * Negative luo pump
-Trabaja en operacion continua, la corriente _Iout , Vout < 0_.
-
-![|400](Imagenes/Pump5.jpeg)
+Trabaja en operación continua, la corriente _Iout , Vout < 0_.
 
 * Cuk pump
-Trabaja en operacion continua, la corriente _Iout , Vout < 0_.
+Trabaja en operación continua, la corriente _Iout , Vout < 0_.
 
-![|400](Imagenes/Pump6.jpeg)
-
-### Transformer Type pumps
+### Transformer Type Pumps
 Todos poseen en común el uso de un interruptor electrónico, un diodo, un capacitor y un transformador.
-* Foward Pump
-S1 y el D1 sincronizados y D2 con sincronización contraria. Modo de operación discontinuo.
 
-![|400](Imagenes/Pump7.jpeg)
+* Forward Pump
+S1 y el D1 sincronizados y D2 con sincronización contraria. Modo de operación discontinuo.
 
 * Fly-back pump
 S y D alternativamente sincronizados, trabajando en modo discontinuo.
 
-![|400](Imagenes/Pump8.jpeg)
-
 * Zeta Pump
 S y D alternativamente sincronizados, trabajando en modo discontinuo.
 
-![|400](Imagenes/Pump9.jpeg)
+### Super lift pumps
+Todos poseen interruptores electronicos, diodos, capacitores y uno que otro inductor.
+
+* Positive super luo pump
 
 
+* Negative super lou pump
+* Positive push pull pump
+* Negtive push pull pump
+* Double / Enhanced circuit (DEC)
+
+---
+
+### Imágenes de los circuitos:
+
+![Buck Pump |400](Imagenes/Pump1.jpeg)
+
+![Boost Pump |400](Imagenes/Pump2.jpeg)
+
+![Buck-Boost Pump |400](Imagenes/Pump3.jpeg)
+
+![Positive Luo Pump |400](Imagenes/Pump4.jpeg)
+
+![Negative Luo Pump |400](Imagenes/Pump5.jpeg)
+
+![Cuk Pump |400](Imagenes/Pump6.jpeg)
+
+![Forward Pump |400](Imagenes/Pump7.jpeg)
+
+![Fly-back Pump |400](Imagenes/Pump8.jpeg)
+
+![Zeta Pump |400](Imagenes/Pump9.jpeg)
