@@ -40,13 +40,17 @@ Trabaja en operacion continua, la corriente _Iout , Vout < 0_.
 ### Transformer Type pumps
 Todos poseen en común el uso de un interruptor electrónico, un diodo, un capacitor y un transformador.
 * Foward Pump
-S1 y el D1 sincronizados y D2 con sincronizacion contraria. Modo de operacion discontinuo.
+S1 y el D1 sincronizados y D2 con sincronización contraria. Modo de operación discontinuo.
+
 
 
 * Fly-back pump
+S y D alternativamente sincronizados, trabajando en modo discontinuo.
+
 
 
 * Zeta Pump
+
 
 
 
