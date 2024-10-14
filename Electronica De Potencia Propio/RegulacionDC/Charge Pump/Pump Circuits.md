@@ -50,7 +50,7 @@ S y D alternativamente sincronizados, trabajando en modo discontinuo.
 
 
 * Zeta Pump
-
+S y D alternativamente sincronizados, trabajando en modo discontinuo.
 
 
 
