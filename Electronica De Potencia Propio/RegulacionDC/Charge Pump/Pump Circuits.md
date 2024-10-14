@@ -38,6 +38,10 @@ Trabaja en operacion continua, la corriente _Iout , Vout < 0_.
 ![|400](Imagenes/Pump6.jpeg)
 
 ### Transformer Type pumps
+Todos poseen en común el uso de un interruptor electrónico, un diodo, un capacitor y un transformador.
+* Foward Pump
+* Fly-back pump
+* Zeta Pump
 
 
 
