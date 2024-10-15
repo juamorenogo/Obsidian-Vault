@@ -65,3 +65,4 @@ Desarrollar voltaje proporcional a la corriente de salida de la carga. En caso d
 ---
 ### Elementos Voltage Feedback
 
+Usualmente un divisor de tension que reduce el _voltaje de salida_ a un voltaje de referencia entre la entrada y un _amplificador de error de voltaje_
