@@ -20,7 +20,9 @@ Por otro lado, el _Bulk filter Capacitor_ se refiere a un elemento con la funcio
 * Capacitor electrolitico para componentes harmonicos de la corriente de _supply's switching frequency_.
 
 * Capacitor ceramico para los harmónicos de la _frecuencia de conmutacion_.
+
 En general:
 * Brinda estabilidad al sistema.
-* Se carga a bajas frecuencias 
+* Filtra el rizado y componentes armonicos. 
+* Mejor eficiencia.
 
