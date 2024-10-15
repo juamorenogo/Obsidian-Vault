@@ -15,6 +15,9 @@ Todos poseen en común el uso de un interruptor electrónico, un diodo, un capac
 Se suele añadir un embobinado adicional para aumentar la capacidad magnetica del transformador:
 
 ![](Imagenes/Foward1.jpeg)
+* Push - Pull Converter
+Para evitar la saturacion magnetica del nucleo ferromagnetico de un transformador.  Como se generan basicamente 2 salidas de la conversion magnetica, la topologia se usa usualmente para _Boost_.
+
 * Fly-back pump
 
 
