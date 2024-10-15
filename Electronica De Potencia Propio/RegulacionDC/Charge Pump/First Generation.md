@@ -2,7 +2,8 @@
 
 Tags: #Topologia #Potencia 
 
-Trabaje en el primer cuadrante y baja potencia. Incluye todos los modelos dichos como Pump Circuits.
+Trabaje en el primer cuadrante y baja potencia. Incluye todos los modelos dichos como Pump Circuits con el problema de que el voltaje de salida depende del de entrada y genera un alto rizado.
+
 
 
 
