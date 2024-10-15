@@ -12,7 +12,11 @@ Para aumentar la ganancia de voltaje se usan conversores con transformadores.
 Todos poseen en común el uso de un interruptor electrónico, un diodo, un capacitor y un transformador. Todos tienen mejor ganancia de voltaje ya que depende del embobinado.
 
 * Fly-back pump
-Basado en el _Demagnetizing Effect_. 
+Basado en el _Demagnetizing Effect_. Garantiza que:
+* Mas de una posible salida desde un unica entrada
+* Voltajes positivos o negativos
+* Independencia de los voltajes
+* Aislamiento y proteccion
 
 ![](Imagenes/Flyback1.jpeg)
 
