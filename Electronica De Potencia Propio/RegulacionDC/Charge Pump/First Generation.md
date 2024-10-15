@@ -33,6 +33,7 @@ Se busca tener un unico embobinado primario.
 
 * Full bridge converter
 
+![](Imagenes/Full1.jpeg)
 
 
 
