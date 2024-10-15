@@ -30,7 +30,7 @@ Basado en el _Demagnetizing Effect_. Garantiza que:
 --- 
 
 #### Push - Pull Converter regulator
-Para evitar la saturacion magnetica del nucleo ferromagnetico de un transformador con tap central en primario y secundario.
+Para evitar la saturacion magnetica del nucleo ferromagnetico de un transformador con tap central en primario y secundario. _Especial cuidado con los tiempos de conmutacion para evitar cortos._
 
 General Features:
 
@@ -40,6 +40,7 @@ General Features:
 * Mayor ganancia
 * Maneja potencias mayores
 * 
+![|400](Imagenes/Pushpull2.jpeg)
 
 ![](Imagenes/Pushpull1.jpeg)
 
