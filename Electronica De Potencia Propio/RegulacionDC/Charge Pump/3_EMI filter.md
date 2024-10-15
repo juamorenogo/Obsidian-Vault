@@ -26,3 +26,29 @@ En general:
 * Filtra el rizado y componentes armonicos. 
 * Mejor eficiencia.
 
+### Shunt Capacitor
+
+- **Función**: Se conecta en paralelo (shunt) para:
+  - Mejorar el **factor de potencia** compensando cargas inductivas.
+  - **Reducir pérdidas** de energía.
+  - Mantener el **voltaje estable**.
+  - **Filtrar armónicos** en algunos casos.
+
+- **Aplicaciones**:
+  - Líneas de transmisión y sistemas industriales.
+  - Estabilización de voltaje en sistemas de distribución.
+### Series Inductor
+
+- **Función**: Se conecta en serie para:
+  - **Almacenar energía** en forma de campo magnético.
+  - Actuar como **filtro de corriente**, bloqueando señales de alta frecuencia.
+  - **Limitar corrientes** de arranque.
+  - Compensar **reactancia capacitiva** en líneas de transmisión.
+
+- **Aplicaciones**:
+  - Filtrado de señales en fuentes de alimentación.
+  - Suavizado de corriente en fuentes conmutadas.
+  - Corrección del factor de potencia capacitivo.
+
+Todo esto usado para los filtros LC.
+
