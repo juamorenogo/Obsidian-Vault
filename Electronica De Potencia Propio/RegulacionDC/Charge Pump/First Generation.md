@@ -24,11 +24,12 @@ Para evitar la saturacion magnetica del nucleo ferromagnetico de un transformado
 * Fly-back pump
 Basado en el _Demagnetizing Effect_.
 
+![](Imagenes/Flyback1.jpeg)
 
 * Half bridge converter
 Se busca tener un unico embobinado primario.
 
-
+![](Imagenes/Half1.jpeg)
 
 * Full bridge converter
 
