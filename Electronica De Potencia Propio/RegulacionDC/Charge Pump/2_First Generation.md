@@ -35,7 +35,9 @@ Se busca tener un unico embobinado primario.
 
 ![](Imagenes/Full1.jpeg)
 
+* Foward Converter con multiples salidas
 
+![](Imagenes/MoutFoward.jpeg)
 
 
 
