@@ -18,6 +18,8 @@ Basado en el _Demagnetizing Effect_. Garantiza que:
 * Independencia de los voltajes
 * Aislamiento y proteccion
 
+![|500](Imagenes/Flyback2.jpeg)
+
 ![](Imagenes/Flyback1.jpeg)
 
 
