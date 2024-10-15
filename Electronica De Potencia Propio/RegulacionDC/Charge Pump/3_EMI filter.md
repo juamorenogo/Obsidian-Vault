@@ -12,5 +12,5 @@ Por otro lado, el _Bulk filter Capacitor_ se refiere a un elemento con la funcio
 
 * Capacitor ceramico para los harmónicos de la _frecuencia de conmutacion_.
 
-
+![|400](Imagenes/Generalswitcheo.jpeg)
 
