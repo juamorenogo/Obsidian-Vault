@@ -98,3 +98,57 @@ Tambien se busca incluir un _circuito de inico suave_ , circuito _dead time limi
 - Convertidores DC-DC e inversores que utilizan transistores para controlar el flujo de corriente.
 
 ---
+### Single-Ended Supply
+
+Un **single-ended supply** es un tipo de fuente de alimentación que proporciona solo un voltaje positivo o negativo respecto a tierra (**ground**), en lugar de ambos (como en una fuente de alimentación simétrica).
+#### Características:
+- **Un solo voltaje**: Solo se suministra un voltaje (positivo o negativo) respecto a tierra.
+- **Conexión a tierra**: Uno de los terminales está conectado directamente a tierra, y el otro lleva el voltaje de salida.
+- **Común en circuitos sencillos**: Usado en amplificadores y circuitos de bajo consumo que no requieren fuentes simétricas.
+
+#### Ejemplos:
+- **Fuentes de alimentación de 5V, 12V o 24V**.
+- **Uso en amplificadores operacionales** que funcionan con voltaje positivo respecto a tierra.
+
+---
+### Double-Ended Switch
+
+Un **double-ended switch** es un dispositivo de conmutación que utiliza dos transistores o interruptores electrónicos, generalmente en configuraciones de puente completo o media puente, donde ambos extremos de la carga están conectados a interruptores. Esto permite el control del flujo de corriente en ambas direcciones a través de la carga.
+
+#### Características:
+- **Control bidireccional**: Permite que la corriente fluya en ambas direcciones a través de la carga.
+- **Uso de dos interruptores**: Conformado por dos transistores o MOSFETs en la configuración de conmutación.
+- **Alta eficiencia**: Optimiza el uso de energía en circuitos de potencia.
+
+#### Aplicaciones:
+- **Convertidores de potencia** como inversores y convertidores DC-DC.
+- **Motor drivers**: Control de motores en aplicaciones que requieren inversión de la dirección del flujo de corriente.
+
+#### Ventajas:
+- **Mejor control** sobre la dirección de la corriente.
+- **Mayor flexibilidad** en aplicaciones de potencia.
+
+#### Desventajas:
+- **Mayor complejidad**: Requiere más componentes y un diseño más sofisticado en comparación con un solo interruptor.
+
+---
+### Flip-Flop
+
+Un **flip-flop** es un tipo de circuito secuencial que tiene dos estados estables y puede almacenar un bit de información (0 o 1). Se utiliza en sistemas digitales para el **almacenamiento de datos** y el **control de secuencias**.
+
+#### Características:
+- **Biestable**: Tiene dos estados posibles (alto o bajo, 1 o 0).
+- **Almacena un bit**: Puede recordar su estado hasta que se actualice con una señal externa.
+- **Controlado por señales de reloj**: Normalmente sincronizado con un pulso de reloj que controla cuándo cambia de estado.
+
+#### Tipos de Flip-Flop:
+- **SR Flip-Flop**: Controlado por entradas "Set" (S) y "Reset" (R).
+- **D Flip-Flop**: Almacena el valor presente en la entrada de datos (D) en el flanco del reloj.
+- **JK Flip-Flop**: Similar al SR, pero sin el estado inválido.
+- **T Flip-Flop**: Cambia de estado (toggle) con cada pulso de reloj.
+
+#### Aplicaciones:
+- **Memoria digital**: Almacenamiento temporal en registros y contadores.
+- **Sistemas de control**: Sincronización y control de secuencias en circuitos digitales.
+- **Divisores de frecuencia**: Usado para reducir la frecuencia de una señal.
+
