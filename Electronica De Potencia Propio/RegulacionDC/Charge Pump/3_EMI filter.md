@@ -65,4 +65,36 @@ Desarrollar voltaje proporcional a la corriente de salida de la carga. En caso d
 ---
 ### Elementos Voltage Feedback
 
-Usualmente un divisor de tension que reduce el _voltaje de salida_ a un voltaje de referencia entre la entrada y un _amplificador de error de voltaje_
+Usualmente un divisor de tension que reduce el _voltaje de salida_ a un voltaje de referencia.
+Se compara la salida del divisor de tension despues de su ajuste con el voltaje de referencia, si _Vout > Vref o Vout < Vref_ se genera una señal de error para ajustar la salida siendo que _Error  = Diferencia entre la salida y la referencia_. 
+
+### Etapa de Control general
+
+Se busca cumplir los siguientes criterios:
+
+* Voltaje -> PWM conversion
+* Voltaje de referencia estable
+* Oscilador
+* Deteccion de sobre-corrientes
+* Control de la conversion de la fuente en general
+
+Tambien se busca incluir un _circuito de inico suave_ , circuito _dead time limiting_ y circuito _apagado remoto_. 
+ 
+---
+### Dead Time Timing
+
+**Dead time** es un breve periodo en el que **ambos transistores en un circuito conmutado están apagados** para evitar que conduzcan simultáneamente, lo que podría causar un **cortocircuito**.
+
+#### Función principal:
+- **Evitar cortocircuitos** (shoot-through) al garantizar que un transistor esté completamente apagado antes de encender el otro.
+- **Protección** de los componentes contra sobrecorrientes.
+- **Mejora de eficiencia** al prevenir cortocircuitos que generarían pérdidas de energía.
+
+#### Ajuste del Dead Time:
+- **Demasiado corto**: Puede provocar cortocircuitos si ambos transistores conducen al mismo tiempo.
+- **Demasiado largo**: Introduce ineficiencia y pérdida de potencia al aumentar el tiempo en que ambos transistores están apagados.
+
+#### Aplicaciones:
+- Convertidores DC-DC e inversores que utilizan transistores para controlar el flujo de corriente.
+
+---
