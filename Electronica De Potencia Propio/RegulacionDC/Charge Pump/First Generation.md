@@ -9,7 +9,7 @@ Circuitos que trabajan a baja potencia incluyendo _Pump Circuits_.
 * Baja ganancia de Voltaje.
 Para aumentar la ganancia de voltaje se usan conversores con transformadores.
 ### Transformer Type Pumps
-Todos poseen en común el uso de un interruptor electrónico, un diodo, un capacitor y un transformador. Todos tienen mejor ganancia de voltaje
+Todos poseen en común el uso de un interruptor electrónico, un diodo, un capacitor y un transformador. Todos tienen mejor ganancia de voltaje ya que depende del embobinado.
 
 * Forward Pump
 
