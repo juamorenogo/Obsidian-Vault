@@ -17,6 +17,7 @@ Basado en el _Demagnetizing Effect_. Garantiza que:
 * Voltajes positivos o negativos
 * Independencia de los voltajes
 * Aislamiento y proteccion
+* Trabajo en modo continuo y discontinuo
 
 ![|500](Imagenes/Flyback2.jpeg)
 
