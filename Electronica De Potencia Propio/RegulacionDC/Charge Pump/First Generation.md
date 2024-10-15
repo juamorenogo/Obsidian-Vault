@@ -22,11 +22,13 @@ Para evitar la saturacion magnetica del nucleo ferromagnetico de un transformado
 ![](Imagenes/Pushpull1.jpeg)
 
 * Fly-back pump
-Basado en el _Demagnetizing Effect_ 
+Basado en el _Demagnetizing Effect_.
 
-* Zeta Pump
 
 * Half bridge converter
+Se busca tener un unico embobinado primario.
+
+
 
 * Full bridge converter
 
