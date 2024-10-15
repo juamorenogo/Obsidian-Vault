@@ -47,11 +47,6 @@ General Features:
 
 ---
 
-#### Forward Pump
-Se suele añadir un embobinado adicional para aumentar la capacidad magnetica del transformador:
-
-![](Imagenes/Foward1.jpeg)
-
 #### Half bridge converter
 Se busca tener un unico embobinado primario.
 
@@ -60,6 +55,14 @@ Se busca tener un unico embobinado primario.
 #### Full bridge converter
 
 ![](Imagenes/Full1.jpeg)
+
+
+---
+
+#### Forward Pump
+Se suele añadir un embobinado adicional para aumentar la capacidad magnetica del transformador:
+
+![](Imagenes/Foward1.jpeg)
 
 #### Foward Converter con multiples salidas
 
