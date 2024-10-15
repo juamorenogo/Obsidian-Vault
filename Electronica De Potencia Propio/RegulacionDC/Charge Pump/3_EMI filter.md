@@ -52,3 +52,16 @@ En general:
 
 Todo esto usado para los filtros LC.
 
+### Elementos Current Sense
+
+Desarrollar voltaje proporcional a la corriente de salida de la carga. En caso de que se genere una _sobrecorriente_ por un voltaje muy alto, el sistema fuerza la reduccion del voltaje.
+
+* _Voltage mode regulatos_ : Se activa al detectar una sobre corriente. (Current foldback limiting)
+* _Current mode regulators_ : Se mide la corriente del primerio del transformador y se usa para la limitacion de la corriente. 
+---
+
+	Current Foldback limiting : Tecnica de proteccion usado en fuentes que limita la corriente de salida.
+
+---
+### Elementos Voltage Feedback
+
