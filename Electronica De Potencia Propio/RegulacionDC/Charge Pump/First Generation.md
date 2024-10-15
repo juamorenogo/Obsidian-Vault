@@ -14,7 +14,7 @@ Todos poseen en común el uso de un interruptor electrónico, un diodo, un capac
 * Forward Pump
 Se suele añadir un embobinado adicional para aumentar la capacidad magnetica del transformador:
 
-
+![](Imagenes/Foward1.jpeg)
 * Fly-back pump
 
 
