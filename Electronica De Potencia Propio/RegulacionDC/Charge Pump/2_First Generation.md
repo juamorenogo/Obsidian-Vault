@@ -44,6 +44,6 @@ Se busca tener un unico embobinado primario.
 ![](Imagenes/MoutFoward.jpeg)
 
 
-
+![](Imagenes/MultiOut.jpeg)
 
 
