@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronica De Potencia Propio/RegulacionDC/Charge Pump/EMI filter.md",
+                "file": "Electronica De Potencia Propio/RegulacionDC/Charge Pump/3_EMI filter.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronica De Potencia Propio/RegulacionDC/Charge Pump/EMI filter.md",
+                "file": "Electronica De Potencia Propio/RegulacionDC/Charge Pump/3_EMI filter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronica De Potencia Propio/RegulacionDC/Charge Pump/EMI filter.md",
+                "file": "Electronica De Potencia Propio/RegulacionDC/Charge Pump/3_EMI filter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronica De Potencia Propio/RegulacionDC/Charge Pump/EMI filter.md"
+                "file": "Electronica De Potencia Propio/RegulacionDC/Charge Pump/3_EMI filter.md"
               }
             }
           },
@@ -204,10 +204,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f253ec37cae7896",
+  "active": "950bc8abdbcb2924",
   "lastOpenFiles": [
     "Electronica De Potencia Propio/RegulacionDC/Charge Pump/2_First Generation.md",
-    "Electronica De Potencia Propio/RegulacionDC/Charge Pump/EMI filter.md",
+    "Electronica De Potencia Propio/RegulacionDC/Charge Pump/3_EMI filter.md",
     "Pasted image 20241015144019.jpg",
     "Electronica De Potencia Propio/RegulacionDC/Charge Pump/First Generation",
     "Electronica De Potencia Propio/Switches PE/3_Operación de switches PE.md",
