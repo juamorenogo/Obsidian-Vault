@@ -12,6 +12,7 @@ Para aumentar la ganancia de voltaje se usan conversores con transformadores.
 Todos poseen en común el uso de un interruptor electrónico, un diodo, un capacitor y un transformador. Todos tienen mejor ganancia de voltaje ya que depende del embobinado.
 
 * Forward Pump
+Se suele añadir un embobinado adicional para aumentar la capacidad magnetica del transformador:
 
 
 * Fly-back pump
