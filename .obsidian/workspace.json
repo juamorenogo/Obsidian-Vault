@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Utilidades/Notas Varias/To-do fluss.md",
+                "file": "Electronica De Potencia Propio/RegulacionDC/Charge Pump/First Generation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Utilidades/Notas Varias/To-do fluss.md",
+                "file": "Electronica De Potencia Propio/RegulacionDC/Charge Pump/First Generation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Utilidades/Notas Varias/To-do fluss.md"
+                "file": "Electronica De Potencia Propio/RegulacionDC/Charge Pump/First Generation.md"
               }
             }
           },
@@ -180,8 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "950bc8abdbcb2924",
+  "active": "d6c2165607fe134b",
   "lastOpenFiles": [
+    "Utilidades/Notas Varias/To-do fluss.md",
     "Electronica De Potencia Propio/RegulacionDC/Charge Pump/Pump Circuits.md",
     "Electronica De Potencia Propio/RegulacionDC/Charge Pump/First Generation.md",
     "Electronica De Potencia Propio/RegulacionDC/Charge Pump/Imagenes/Pump14.jpeg",
@@ -201,7 +202,6 @@
     "Electronica De Potencia Propio/Switches PE/2_Switches PE.md",
     "C++/C++_ch1/Iostream (Libreria).md",
     "C++/C++_ch1/Inicios C++.md",
-    "Utilidades/Notas Varias/To-do fluss.md",
     "Utilidades/Notas Varias/Repasar _ Revisar.md",
     "Utilidades/Notas Varias/Backup portatil.md",
     "Electronica.md",
