@@ -19,6 +19,7 @@ Basado en el _Demagnetizing Effect_. Garantiza que:
 * Independencia de los voltajes
 * Aislamiento y proteccion
 * Trabajo en modo continuo y discontinuo
+* Almacena energia
 
 ![|500](Imagenes/Flyback2.jpeg)
 
@@ -29,7 +30,16 @@ Basado en el _Demagnetizing Effect_. Garantiza que:
 --- 
 
 #### Push - Pull Converter regulator
-Para evitar la saturacion magnetica del nucleo ferromagnetico de un transformador.  Como se generan basicamente 2 salidas de la conversion magnetica, la topologia se usa usualmente para _Boost_.
+Para evitar la saturacion magnetica del nucleo ferromagnetico de un transformador con tap central en primario y secundario.
+
+General Features:
+
+* No almacena energia
+* Aislamiento y proteccion
+* Mas eficiente en el uso del nucleo magnetico -> Transformador mas pequeño.
+* Mayor ganancia
+* Maneja potencias mayores
+* 
 
 ![](Imagenes/Pushpull1.jpeg)
 
