@@ -11,6 +11,14 @@ Para aumentar la ganancia de voltaje se usan conversores con transformadores.
 ### Transformer Type Pumps
 Todos poseen en común el uso de un interruptor electrónico, un diodo, un capacitor y un transformador. Todos tienen mejor ganancia de voltaje ya que depende del embobinado.
 
+* Fly-back pump
+Basado en el _Demagnetizing Effect_. 
+
+![](Imagenes/Flyback1.jpeg)
+
+
+
+--- 
 * Forward Pump
 Se suele añadir un embobinado adicional para aumentar la capacidad magnetica del transformador:
 
@@ -21,10 +29,6 @@ Para evitar la saturacion magnetica del nucleo ferromagnetico de un transformado
 
 ![](Imagenes/Pushpull1.jpeg)
 
-* Fly-back pump
-Basado en el _Demagnetizing Effect_.
-
-![](Imagenes/Flyback1.jpeg)
 
 * Half bridge converter
 Se busca tener un unico embobinado primario.

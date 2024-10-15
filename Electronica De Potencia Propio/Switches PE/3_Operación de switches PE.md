@@ -2,7 +2,7 @@
 
 Tags: #Potencia #Transistores #PESwitch #Thyristor
 
- A priori, se divide en 2 grandes categorías de operación (Recomendaciones de diseño en _Motorola Series in solid state electronics_):
+ A priori, se divide en 2 grandes categorías de operación (Recomendaciones de diseño en _Motorola Series in solid state electronics_). En general, la regulacion lineal consta de un flujo continuo de corriente para mantener un voltaje constante. Por otro lado, la regulacion conmutada varia el ciclo de trabajo y la rapidez de conmutacion para variar la salida.
 ### Linear Mode Regulator
 Posee las siguientes **ventajas**:
 * Modelo simple.
