@@ -8,6 +8,10 @@ Convertidor convencional en una sola dirección, transfiriendo desde la entrada 
 
 Convertidor que almacena energía en componentes pasivos. Tiene la capacidad de transferencia bidireccional y se bombea según el ciclo.
 
+## _Generaciones de Conversores DC/DC_
+* 1st ) Unico cuadrante 
+* 2st ) Multi - cuadrante
+* 3st )
 ---
 
 Cualquier topologia _Pump_ 
