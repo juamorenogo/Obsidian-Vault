@@ -2,7 +2,9 @@
 
 Tags:  
 
-Un convertidor en general
+## _Topologia Estandar_
+
+Convertidor convecional 
 
 ---
 
