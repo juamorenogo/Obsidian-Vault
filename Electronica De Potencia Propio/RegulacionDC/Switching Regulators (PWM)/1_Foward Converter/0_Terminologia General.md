@@ -4,11 +4,11 @@ Tags:
 
 ## _Topologia Estandar_
 
-Convertidor convencional en una sola dirección, transfiriendo desde la entrada hasta la salida regulando el voltaje y corriente.
+Convertidor convencional en una sola dirección, transfiriendo desde la entrada hasta la salida regulando el voltaje y corriente. No necesariamente almacena energia.  
 
 ## _Topologia "Pump"_ 
 
-
+Convertidor que almacena energia en componentes pasivos. Tiene la capacidad de transferencia bidireccional y se bombea segun el ciclo.
 
 ---
 
