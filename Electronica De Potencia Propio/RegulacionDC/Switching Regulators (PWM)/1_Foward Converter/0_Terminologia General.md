@@ -4,9 +4,10 @@ Tags:
 
 ## _Topologia Estandar_
 
-Convertidor convencional en una sola direccion, transfiriendo desde la entrada hasta la salida regulando el voltaje y corriente.
+Convertidor convencional en una sola dirección, transfiriendo desde la entrada hasta la salida regulando el voltaje y corriente.
 
 ## _Topologia "Pump"_ 
+
 
 
 ---
