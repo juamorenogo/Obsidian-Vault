@@ -50,11 +50,12 @@ General Features:
 #### Half bridge converter
 Se busca tener un unico embobinado primario.
 * Mejor balanceo en el nucleo del transformador.
-* 
+* Menor potencia que el push - pull
 
 ![](Imagenes/Half1.jpeg)
 
 #### Full bridge converter
+
 
 ![](Imagenes/Full1.jpeg)
 
