@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronica De Potencia Propio/RegulacionDC/Foward Converter/1_Pump Circuits.md",
+                "file": "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/Foward Converter/1_Pump Circuits.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronica De Potencia Propio/RegulacionDC/Foward Converter/2_Topologias generales1.md",
+                "file": "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/Foward Converter/2_Topologias generales1.md",
                 "mode": "source",
                 "source": false
               }
@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronica De Potencia Propio/RegulacionDC/Foward Converter/2_Topologias generales1.md",
+                "file": "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/Foward Converter/2_Topologias generales1.md",
                 "mode": "source",
                 "source": false
               }
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronica De Potencia Propio/RegulacionDC/Foward Converter/1_Pump Circuits.md",
+                "file": "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/Foward Converter/1_Pump Circuits.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronica De Potencia Propio/RegulacionDC/Foward Converter/1_Pump Circuits.md",
+                "file": "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/Foward Converter/1_Pump Circuits.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronica De Potencia Propio/RegulacionDC/Foward Converter/1_Pump Circuits.md",
+                "file": "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/Foward Converter/1_Pump Circuits.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronica De Potencia Propio/RegulacionDC/Foward Converter/1_Pump Circuits.md"
+                "file": "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/Foward Converter/1_Pump Circuits.md"
               }
             }
           },
@@ -206,23 +206,23 @@
   },
   "active": "950bc8abdbcb2924",
   "lastOpenFiles": [
-    "Electronica De Potencia Propio/RegulacionDC/Foward Converter/2_Topologias generales1.md",
-    "Electronica De Potencia Propio/RegulacionDC/Foward Converter/Imagenes/Full3.jpeg",
-    "Electronica De Potencia Propio/RegulacionDC/Foward Converter/3_EMI filter.md",
-    "Electronica De Potencia Propio/RegulacionDC/Foward Converter/Imagenes/Half2.jpeg",
-    "Electronica De Potencia Propio/RegulacionDC/Foward Converter/Imagenes/Pushpull2.jpeg",
-    "Electronica De Potencia Propio/RegulacionDC/Foward Converter/1_Pump Circuits.md",
-    "Electronica De Potencia Propio/RegulacionDC/Foward Converter/Imagenes/Flyback2.jpeg",
-    "Electronica De Potencia Propio/RegulacionDC/Foward Converter/Imagenes/OndasGeneralSwitch.jpeg",
-    "Electronica De Potencia Propio/RegulacionDC/Foward Converter/Imagenes/MultiOut.jpeg",
+    "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/Foward Converter/2_Topologias generales1.md",
+    "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/Foward Converter/Imagenes/Full3.jpeg",
+    "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/Foward Converter/3_EMI filter.md",
+    "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/Foward Converter/Imagenes/Half2.jpeg",
+    "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/Foward Converter/Imagenes/Pushpull2.jpeg",
+    "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/Foward Converter/1_Pump Circuits.md",
+    "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/Foward Converter/Imagenes/Flyback2.jpeg",
+    "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/Foward Converter/Imagenes/OndasGeneralSwitch.jpeg",
+    "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/Foward Converter/Imagenes/MultiOut.jpeg",
     "Pasted image 20241015144019.jpg",
-    "Electronica De Potencia Propio/RegulacionDC/Foward Converter/Imagenes/GeneralSwitcheo.jpeg",
+    "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/Foward Converter/Imagenes/GeneralSwitcheo.jpeg",
     "Electronica De Potencia Propio/RegulacionDC/Charge Pump/First Generation",
     "Electronica De Potencia Propio/Switches PE/3_Operación de switches PE.md",
-    "Electronica De Potencia Propio/RegulacionDC/Foward Converter/Imagenes/MoutFoward.jpeg",
-    "Electronica De Potencia Propio/RegulacionDC/Foward Converter/Imagenes/Full1.jpeg",
+    "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/Foward Converter/Imagenes/MoutFoward.jpeg",
+    "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/Foward Converter/Imagenes/Full1.jpeg",
     "Utilidades/Notas Varias/To-do fluss.md",
-    "Electronica De Potencia Propio/RegulacionDC/Foward Converter/Imagenes",
+    "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/Foward Converter/Imagenes",
     "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/2_Motor DC y Choppers.md",
     "Utilidades/Notas Varias/Theme Options.md",
     "Electronica De Potencia Propio/Switches PE/2_Switches PE.md",
@@ -235,9 +235,9 @@
     "Electronica De Potencia Propio/Switches PE/5_Pump Circuits.md",
     "Electronica De Potencia Propio/RegulacionDC",
     "Electronica De Potencia Propio/ConversionPE_GENERAL/DC_DC/1_DC_DC_1.md",
-    "Electronica De Potencia Propio/RegulacionDC/Conversores Resonantes",
-    "Electronica De Potencia Propio/RegulacionDC/Conversores de Frecuencia",
-    "Electronica De Potencia Propio/RegulacionDC/Foward Converter",
+    "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/Conversores Resonantes",
+    "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/Conversores de Frecuencia",
+    "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/Foward Converter",
     "Electronica De Potencia Propio/RegulacionDC/Linear Regulators",
     "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)",
     "Electronica De Potencia Propio/Switches PE/1_Fundamentales Electrónica de potencia.md",
