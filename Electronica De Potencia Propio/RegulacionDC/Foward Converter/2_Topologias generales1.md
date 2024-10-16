@@ -21,9 +21,9 @@ Basado en el _Demagnetizing Effect_. Garantiza que:
 * Trabajo en modo continuo y discontinuo
 * Almacena energia
 
-![|500](Imagenes/Flyback2.jpeg)
+![|500](Flyback2.jpeg)
 
-![](Imagenes/Flyback1.jpeg)
+![](Flyback1.jpeg)
 
 
 
@@ -40,9 +40,9 @@ General Features:
 * Mayor ganancia
 * Maneja potencias mayores
 * 
-![|400](Imagenes/Pushpull2.jpeg)
+![|400](Pushpull2.jpeg)
 
-![](Imagenes/Pushpull1.jpeg)
+![](Pushpull1.jpeg)
 
 
 ---
@@ -53,16 +53,16 @@ Se busca tener un unico embobinado primario.
 * Menor potencia que el push - pull
 
 
-![|400](Imagenes/Half2.jpeg)
+![|400](Half2.jpeg)
 
-![](Imagenes/Half1.jpeg)
+![](Half1.jpeg)
 
 #### Full bridge converter
 
-![|400](Imagenes/Full3.jpeg)
+![|400](Full3.jpeg)
 
 
-![](Imagenes/Full1.jpeg)
+![](Full1.jpeg)
 
 
 ---
@@ -70,13 +70,13 @@ Se busca tener un unico embobinado primario.
 #### Forward Pump
 Se suele añadir un embobinado adicional para aumentar la capacidad magnetica del transformador:
 
-![](Imagenes/Foward1.jpeg)
+![](Foward1.jpeg)
 
 #### Foward Converter con multiples salidas
 
-![](Imagenes/MoutFoward.jpeg)
+![](MoutFoward.jpeg)
 
 
-![](Imagenes/MultiOut.jpeg)
+![](MultiOut.jpeg)
 
 

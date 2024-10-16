@@ -55,42 +55,42 @@ Aplicado en lift o super-lift o push-pull circuitos, usado para amplificacion de
 
 ### Imágenes de los circuitos:
 
-![Buck Pump |400](Imagenes/Pump1.jpeg)
+![Buck Pump |400](Pump1.jpeg)
 
 
-![Boost Pump |400](Imagenes/Pump2.jpeg)
+![Boost Pump |400](Pump2.jpeg)
 
 
-![Buck-Boost Pump |400](Imagenes/Pump3.jpeg)
+![Buck-Boost Pump |400](Pump3.jpeg)
 
 
-![Positive Luo Pump |400](Imagenes/Pump4.jpeg)
+![Positive Luo Pump |400](Pump4.jpeg)
 
 
-![Negative Luo Pump |400](Imagenes/Pump5.jpeg)
+![Negative Luo Pump |400](Pump5.jpeg)
 
 
-![Cuk Pump |400](Imagenes/Pump6.jpeg)
+![Cuk Pump |400](Pump6.jpeg)
 
 
-![Forward Pump |400](Imagenes/Pump7.jpeg)
+![Forward Pump |400](Pump7.jpeg)
 
 
-![Fly-back Pump |400](Imagenes/Pump8.jpeg)
+![Fly-back Pump |400](Pump8.jpeg)
 
 
-![Zeta Pump |400](Imagenes/Pump9.jpeg)
+![Zeta Pump |400](Pump9.jpeg)
 
 
-![Pump10 |400](Imagenes/Pump10.jpeg) 
+![Pump10 |400](Pump10.jpeg) 
 
 
-![Pump11 |400](Imagenes/Pump11.jpeg) 
+![Pump11 |400](Pump11.jpeg) 
 
 
-![Pump12 |400](Imagenes/Pump12.jpeg) 
+![Pump12 |400](Pump12.jpeg) 
 
 
-![Pump14 |400](Imagenes/Pump14.jpeg)
+![Pump14 |400](Pump14.jpeg)
 
 
