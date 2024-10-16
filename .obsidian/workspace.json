@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/2_Almacenamiento de Energia/1_Pump Circuits 1.md",
+                "file": "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/1_Foward Converter/2_Topologias generales1.md",
                 "mode": "source",
                 "source": false
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/2_Almacenamiento de Energia/1_Pump Circuits 1.md",
+                "file": "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/1_Foward Converter/2_Topologias generales1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +175,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/2_Almacenamiento de Energia/1_Pump Circuits 1.md",
+                "file": "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/1_Foward Converter/2_Topologias generales1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,7 +198,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/2_Almacenamiento de Energia/1_Pump Circuits 1.md"
+                "file": "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/1_Foward Converter/2_Topologias generales1.md"
               }
             }
           },
@@ -228,11 +228,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "950bc8abdbcb2924",
+  "active": "765397c40b451558",
   "lastOpenFiles": [
     "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/1_Foward Converter/1_Pump Circuits.md",
-    "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/2_Almacenamiento de Energia/1_Pump Circuits 1.md",
     "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/1_Foward Converter/0_Foward Converter intro.md",
+    "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/2_Almacenamiento de Energia/1_Pump Circuits 1.md",
     "Electronica De Potencia Propio/RegulacionDC/Linear Regulators/Regulacion Lineal.md",
     "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/5_Convertidor Multinivel",
     "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/4_Convertidores Con Aislamiento",
