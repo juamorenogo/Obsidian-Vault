@@ -2,6 +2,7 @@
 
 Tags:  
 
+Cualquier topologia _Pump_ 
 ### Shunt Capacitor
 
 - **Función**: Se conecta en paralelo (shunt) para:
