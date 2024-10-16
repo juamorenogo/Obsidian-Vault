@@ -8,7 +8,6 @@ Convertidor convencional en una sola dirección, transfiriendo desde la entrada 
 
 Convertidor que almacena energía en componentes pasivos. Tiene la capacidad de transferencia bidireccional y se bombea según el ciclo.
 
-
 ---
 
 Cualquier topologia _Pump_ 
