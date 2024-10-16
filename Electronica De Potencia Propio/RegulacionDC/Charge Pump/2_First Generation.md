@@ -49,6 +49,8 @@ General Features:
 
 #### Half bridge converter
 Se busca tener un unico embobinado primario.
+* Mejor balanceo en el nucleo del transformador.
+* 
 
 ![](Imagenes/Half1.jpeg)
 
