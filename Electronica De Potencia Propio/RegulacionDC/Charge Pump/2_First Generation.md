@@ -52,6 +52,9 @@ Se busca tener un unico embobinado primario.
 * Mejor balanceo en el nucleo del transformador.
 * Menor potencia que el push - pull
 
+
+![|400](Imagenes/Half2.jpeg)
+
 ![](Imagenes/Half1.jpeg)
 
 #### Full bridge converter
