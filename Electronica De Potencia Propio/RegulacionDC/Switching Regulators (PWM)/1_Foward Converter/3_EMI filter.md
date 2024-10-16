@@ -9,9 +9,9 @@ La **frecuencia de filtro** no debera ser 2 - 3 veces mas que la frecuencia de l
 ---
 ### Diagrama general switcheo
 
-![|400](GeneralSwitcheo.jpeg)
+![|400](Imagenes/GeneralSwitcheo.jpeg)
 
-![|400](OndasGeneralSwitch.jpeg)
+![|400](Imagenes/OndasGeneralSwitch.jpeg)
 
 
 ---
