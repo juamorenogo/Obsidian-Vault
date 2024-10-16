@@ -2,6 +2,10 @@
 
 Tags:  
 
+Un convertidor en general
+
+---
+
 Cualquier topologia _Pump_ 
 ### Shunt Capacitor
 
