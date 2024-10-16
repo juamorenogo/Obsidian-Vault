@@ -152,3 +152,24 @@ Un **flip-flop** es un tipo de circuito secuencial que tiene dos estados estable
 - **Sistemas de control**: Sincronización y control de secuencias en circuitos digitales.
 - **Divisores de frecuencia**: Usado para reducir la frecuencia de una señal.
 
+--- 
+### Bipolar Flux Mode of Operation
+
+El **bipolar flux mode of operation** es un modo de funcionamiento común en transformadores y convertidores de potencia que involucran el flujo magnético en dos direcciones opuestas durante el ciclo de operación. En este modo, el núcleo magnético del transformador o inductor alterna entre dos niveles de saturación, generando flujo en ambas polaridades (positiva y negativa).
+
+#### Características:
+- **Flujo magnético bidireccional**: El flujo magnético cambia de dirección dentro del núcleo, alternando entre polaridades positiva y negativa.
+- **Uso eficiente del núcleo**: Este modo aprovecha al máximo el núcleo magnético al permitir que funcione en ambas direcciones.
+- **Aplicación en conmutación**: Se utiliza en convertidores de potencia conmutada y en transformadores que operan en circuitos AC.
+
+#### Ventajas:
+- **Mayor utilización del núcleo magnético**: Se utiliza todo el ciclo de histéresis del núcleo, aumentando la eficiencia.
+- **Reducción de tamaño**: Se puede usar un núcleo más pequeño al aprovechar ambos extremos de la curva de saturación.
+  
+#### Aplicaciones:
+- **Convertidores DC-DC**: En configuraciones como push-pull o puente completo.
+- **Transformadores**: Para transformar energía en sistemas de corriente alterna.
+
+#### Desventajas:
+- **Requiere conmutación precisa** para evitar la saturación excesiva del núcleo.
+- **Mayor complejidad** en el control comparado con modos unipolares.
