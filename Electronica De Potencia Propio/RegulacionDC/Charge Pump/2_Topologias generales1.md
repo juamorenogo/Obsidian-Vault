@@ -59,6 +59,8 @@ Se busca tener un unico embobinado primario.
 
 #### Full bridge converter
 
+![|400](Imagenes/Full3.jpeg)
+
 
 ![](Imagenes/Full1.jpeg)
 
