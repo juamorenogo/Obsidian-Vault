@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "17456633a3d950ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Electronica De Potencia Propio/RegulacionDC/Linear Regulators/Regulacion Lineal.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,6 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Electronica De Potencia Propio/RegulacionDC/Linear Regulators/Regulacion Lineal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,6 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Electronica De Potencia Propio/RegulacionDC/Linear Regulators/Regulacion Lineal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Electronica De Potencia Propio/RegulacionDC/Linear Regulators/Regulacion Lineal.md"
               }
             }
           },
@@ -202,10 +216,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "950bc8abdbcb2924",
+  "active": "17456633a3d950ff",
   "lastOpenFiles": [
     "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/1_Foward Converter/1_Pump Circuits.md",
-    "Untitled.md",
+    "Electronica De Potencia Propio/RegulacionDC/Linear Regulators/Regulacion Lineal.md",
     "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/5_Convertidor Multinivel",
     "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/4_Convertidores Con Aislamiento",
     "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/2_Almacenamiento de Energia",
