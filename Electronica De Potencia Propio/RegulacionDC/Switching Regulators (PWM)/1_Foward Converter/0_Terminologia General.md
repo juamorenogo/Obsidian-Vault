@@ -1,7 +1,6 @@
 2024-10-15 20:05
 
 Tags:  
-
 ## _Topologia Estandar_
 
 Convertidor convencional en una sola dirección, transfiriendo desde la entrada hasta la salida regulando el voltaje y corriente. No necesariamente almacena energía.  
