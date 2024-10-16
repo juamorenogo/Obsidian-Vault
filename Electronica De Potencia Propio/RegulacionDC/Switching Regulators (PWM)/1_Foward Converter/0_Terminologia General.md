@@ -4,7 +4,7 @@ Tags:
 
 ## _Topologia Estandar_
 
-Convertidor convecional 
+Convertidor convecional en una sola direccion 
 
 ---
 
