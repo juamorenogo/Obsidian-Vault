@@ -2,6 +2,7 @@
 
 - [ ] Teorema del valor inicial y final para funciones de transferencia
 - [ ] Non isolated  / Isolated buck
+- [ ] Continuos Mode und Discontinuos mode
 - [ ] 
 
 

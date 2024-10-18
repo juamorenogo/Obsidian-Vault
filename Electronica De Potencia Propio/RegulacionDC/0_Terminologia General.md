@@ -164,3 +164,39 @@ El **bipolar flux mode of operation** es un modo de funcionamiento común en tra
 - **Mayor complejidad** en el control comparado con modos unipolares.
 
 
+---
+
+# Interference Capacitor en Fuentes de Alimentación
+
+Un **interference capacitor**, también conocido como **capacitor de interferencia** o **capacitor de supresión de interferencias**, es un componente utilizado en fuentes de alimentación y otros circuitos electrónicos para **reducir el ruido eléctrico** o interferencias electromagnéticas (EMI) generadas por la rápida conmutación de transistores, diodos y otros elementos activos en el circuito.
+
+## Función principal
+
+La función principal del **interference capacitor** es **filtrar o suprimir** las señales de alta frecuencia no deseadas, previniendo que interfieran con el funcionamiento del dispositivo o de otros dispositivos cercanos. Estas interferencias suelen ser generadas en **fuentes de alimentación conmutadas (SMPS)**.
+
+## Ubicaciones clave
+
+Los **capacitores de interferencia** se suelen colocar en las siguientes ubicaciones dentro de una fuente de alimentación:
+
+1. **Entre la línea de entrada y tierra**: Para reducir el ruido que podría transmitirse a la red eléctrica o hacia otros dispositivos.
+2. **Entre la línea de entrada y el neutro**: Para bloquear las señales de alta frecuencia que intentan pasar por el circuito de alimentación.
+3. **En paralelo con otros componentes**: Para absorber señales de ruido no deseadas generadas por componentes como transistores de conmutación.
+
+## Tipos de Interference Capacitors
+
+Existen dos tipos principales de capacitores de interferencia:
+
+- **Capacitores Clase X**: Usados entre las líneas de fase y neutro. Están diseñados para soportar sobretensiones transitorias.
+- **Capacitores Clase Y**: Usados entre fase y tierra o entre neutro y tierra. Se encargan de evitar que el ruido se propague hacia la tierra.
+
+## Importancia en Fuentes de Alimentación
+
+En una **fuente de alimentación conmutada (SMPS)**, los **interference capacitors** ayudan a:
+
+- **Proteger contra interferencias electromagnéticas (EMI)** generadas por los transistores de conmutación de alta frecuencia.
+- **Mejorar el rendimiento** de la fuente de alimentación.
+- **Cumplir con los estándares de compatibilidad electromagnética (EMC)**, que limitan la cantidad de interferencia electromagnética que los dispositivos pueden generar.
+
+## Resumen
+
+Un **interference capacitor** en fuentes de alimentación es clave para **filtrar las interferencias eléctricas de alta frecuencia**, garantizando un funcionamiento limpio y seguro del sistema y evitando que el ruido afecte a otros dispositivos o la red eléctrica.
