@@ -20,4 +20,10 @@ Generando un limitador de corriente simple, aun asi tiene desventajas como:
 
  Se puede disponer de un _Power Factor Correction circuit_ antes del capacitor de filtrado, para mejorar la eficiencia energetica del circuito, reducir armonicos en la corriente y reducir la corriente de entrada alineando las fases de voltaje y corriente.
 
+De aca se divide en 2 caminos: 
+* Fase de manejo de potencia.
+* Control de fase de manejo de potencia.
 
+---
+
+Opto

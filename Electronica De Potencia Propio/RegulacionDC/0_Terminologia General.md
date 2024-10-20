@@ -265,3 +265,67 @@ En los convertidores de tipo **buck** (reductor) o **boost** (elevador), el indu
 ## Resumen
 
 Los **inductores (choke)** son componentes clave en los **convertidores DC/DC** como buck, boost y buck-boost. Permiten almacenar y transferir energía de manera eficiente, regulando el flujo de corriente y reduciendo el ripple. Los inductores son esenciales para la operación eficiente y estable de los convertidores de voltaje.
+
+---
+
+# Optoacoplador (Opto-coupler)
+
+## ¿Qué es un optoacoplador?
+
+Un **optoacoplador** o **opto-isolador** es un componente electrónico que permite la transmisión de señales eléctricas entre dos partes de un circuito mientras mantiene un **aislamiento eléctrico** entre ellas. Este aislamiento es posible mediante el uso de luz para transferir la señal, en lugar de un contacto eléctrico directo.
+
+El optoacoplador generalmente está compuesto por un **emisor de luz** (típicamente un **LED**) y un **fotodetector** (como un **fototransistor**, fotodiodo o fototriac) dentro de un paquete sellado.
+
+## Funcionamiento básico
+
+1. **Emisión de luz**:
+   - Cuando una señal eléctrica se aplica al lado de entrada del optoacoplador, el **LED** emite luz en función de la magnitud de la corriente que pasa a través de él.
+
+2. **Detección de luz**:
+   - El **fotodetector** (como un fototransistor) en el lado de salida detecta esta luz y convierte la señal óptica de nuevo en una señal eléctrica. Este proceso permite que la señal eléctrica se transmita entre las dos partes del circuito sin una conexión directa.
+
+3. **Aislamiento galvánico**:
+   - El **aislamiento galvánico** proporcionado por el optoacoplador es clave para evitar que los voltajes elevados en un lado del circuito afecten al otro lado, protegiendo así componentes sensibles o circuitos de bajo voltaje.
+
+## Aplicaciones del optoacoplador
+
+Los optoacopladores se utilizan comúnmente en aplicaciones donde es necesario:
+- **Aislar eléctricamente** dos partes de un circuito.
+- **Proteger circuitos de bajo voltaje** de picos de alto voltaje o interferencias.
+- **Transmitir señales** entre diferentes sistemas con potenciales de tierra distintos.
+- **Interfaz entre circuitos de potencia y microcontroladores**, evitando que los circuitos de control sufran daños por picos de voltaje.
+
+### Ejemplos de aplicaciones:
+- **Fuentes de alimentación conmutadas**: Los optoacopladores se usan para retroalimentar la información de regulación de voltaje desde el lado de salida aislado hacia el controlador en el lado de entrada.
+- **Control de motores**: Permiten controlar motores de alto voltaje desde circuitos de control de bajo voltaje.
+- **Sistemas de protección**: Se utilizan para aislar circuitos de protección, como fusibles electrónicos o sistemas de monitoreo, del circuito de potencia principal.
+
+## Tipos de optoacopladores
+
+1. **Optoacoplador con fototransistor**:
+   - Es el tipo más común. El fototransistor en la salida actúa como un interruptor controlado por la luz emitida por el LED. Ideal para señales de conmutación o de baja potencia.
+
+2. **Optoacoplador con fotodiodo**:
+   - Proporciona una respuesta más rápida que el fototransistor, lo que lo hace adecuado para aplicaciones de alta velocidad.
+
+3. **Optoacoplador con fototriac**:
+   - Utilizado para controlar cargas de corriente alterna (AC). El fototriac en la salida puede conmutar señales AC, comúnmente usado para control de cargas como motores o iluminación.
+
+4. **Optoacoplador con lógica digital**:
+   - Diseñado para aplicaciones digitales, permite transmitir señales de alta velocidad y bajo ruido entre circuitos con diferentes niveles de voltaje.
+
+## Ventajas del uso de optoacopladores
+
+- **Aislamiento eléctrico**: Protege los circuitos de control sensibles de corrientes peligrosas o picos de voltaje.
+- **Reducción de interferencias**: Al no haber conexión directa, se reducen las interferencias electromagnéticas y los bucles de tierra.
+- **Compatibilidad**: Pueden funcionar en una variedad de sistemas de potencia y lógica digital, y son compatibles con microcontroladores y otros dispositivos de bajo voltaje.
+
+## Limitaciones de los optoacopladores
+
+- **Velocidad limitada**: Los optoacopladores con fototransistores tienen una velocidad de respuesta limitada, lo que los hace inadecuados para aplicaciones de alta frecuencia o señales rápidas.
+- **Degradación con el tiempo**: Los LEDs dentro de los optoacopladores pueden degradarse con el tiempo, afectando la eficiencia y la fiabilidad a largo plazo.
+- **Corriente limitada**: No pueden manejar altas corrientes directamente, por lo que generalmente se utilizan para conmutar señales o controlar dispositivos de mayor potencia con la ayuda de otros componentes.
+
+## Resumen
+
+Un **optoacoplador** es un componente que permite la transferencia de señales eléctricas entre dos partes de un circuito mientras mantiene el aislamiento eléctrico entre ellas. Utiliza luz para transmitir señales y es comúnmente utilizado en aplicaciones de protección y control. Hay varios tipos de optoacopladores, cada uno diseñado para diferentes aplicaciones, desde conmutación de señales hasta control de cargas AC.

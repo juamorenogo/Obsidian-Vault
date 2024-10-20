@@ -57,3 +57,10 @@ Revisar datos nominales de los demas elementos.
 Para el flyback se manera es un acomplamiento de inductancias, no como tal un transformador. La diferencia es que se posiciona un diodo de manera que la energia se almacene en el nucleo del transformador.
 
 ### Revisar con mas cuidado.
+
+--- 
+
+# Quinto Video
+
+![](https://youtu.be/W6NOV6b8kxs?si=sYswvj2VCOn1Ukxo)
+

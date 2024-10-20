@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Electronica De Potencia Propio/RegulacionDC/3_Video 2h.md",
+                "file": "Electronica De Potencia Propio/RegulacionDC/0_Terminologia General.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3_Video 2h"
+              "title": "0_Terminologia General"
             }
           }
         ],
@@ -342,20 +342,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "950bc8abdbcb2924",
+  "active": "18059a4bc96d42d1",
   "lastOpenFiles": [
+    "Utilidades/Notas Varias/Theme Options.md",
+    "Utilidades/Notas Varias/To-do fluss.md",
+    "Utilidades/Notas Varias/Repasar _ Revisar.md",
     "Electronica De Potencia Propio/RegulacionDC/2_Playlist.md",
     "Electronica De Potencia Propio/RegulacionDC/1_Videos.md",
     "Electronica De Potencia Propio/RegulacionDC/3_Video 2h.md",
     "Electronica De Potencia Propio/RegulacionDC/0_Terminologia General.md",
-    "Utilidades/Notas Varias/Repasar _ Revisar.md",
     "Electronica De Potencia Propio/RegulacionDC/Imagenes/Feedback1.png",
     "Electronica De Potencia Propio/RegulacionDC/Imagenes/Diagrama2.png",
     "Electronica De Potencia Propio/RegulacionDC/Imagenes",
     "Electronica De Potencia Propio/RegulacionDC/Imagenes/Diagrama1.png",
     "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/0_Pump Circuits.md",
     "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/1_ Generaciones.md",
-    "Utilidades/Notas Varias/To-do fluss.md",
     "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/Imagenes/Gen.jpeg",
     "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/1_Foward Converter/1_Topologias generales1.md",
     "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/1_Foward Converter/3_EMI filter.md",
@@ -378,7 +379,6 @@
     "Electronica De Potencia Propio/RegulacionDC/Charge Pump/First Generation",
     "Electronica De Potencia Propio/Switches PE/3_Operación de switches PE.md",
     "Electronica De Potencia Propio/RegulacionDC/Switching Regulators (PWM)/1_Foward Converter/Imagenes",
-    "Utilidades/Notas Varias/Theme Options.md",
     "Electronica De Potencia Propio/Switches PE/2_Switches PE.md",
     "C++/C++_ch1/Iostream (Libreria).md",
     "C++/C++_ch1/Inicios C++.md",
