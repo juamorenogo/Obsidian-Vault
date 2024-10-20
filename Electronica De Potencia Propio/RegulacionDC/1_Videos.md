@@ -4,7 +4,8 @@ Tags: #Topologia #Potencia
 
 # Primer Video
 
-![(https://img.youtube.com/vi/https://youtu.be/cX4q0e124C4?si=j6k2GIxVV4WIN-XA/0.jpg)](https://youtu.be/cX4q0e124C4?si=j6k2GIxVV4WIN-XA)
+[![Video1](https://img.youtube.com/vi/cX4q0e124C4/0.jpg)](https://youtu.be/cX4q0e124C4?si=j6k2GIxVV4WIN-XA)
+
 
 ![](Imagenes/Diagrama1.PNG)
 
