@@ -9,7 +9,7 @@ Tags: #Topologia #Potencia
 ### Esquemático
 
 
-![](Imagenes/Diagrama1.PNG)
+![](Imagenes/Diagrama1.png)
 
 ---
 
