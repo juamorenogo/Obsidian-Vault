@@ -6,7 +6,7 @@ Tags: #Topologia #Potencia
 
 ![Video1](https://youtu.be/cX4q0e124C4?si=j6k2GIxVV4WIN-XA)
 
-### Esquematico
+### Esquemático
 
 
 ![](Imagenes/Diagrama1.PNG)
