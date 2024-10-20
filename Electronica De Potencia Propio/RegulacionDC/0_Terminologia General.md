@@ -200,3 +200,68 @@ En una **fuente de alimentación conmutada (SMPS)**, los **interference capacito
 ## Resumen
 
 Un **interference capacitor** en fuentes de alimentación es clave para **filtrar las interferencias eléctricas de alta frecuencia**, garantizando un funcionamiento limpio y seguro del sistema y evitando que el ruido afecte a otros dispositivos o la red eléctrica.
+
+---
+# Inrush Current (Corriente de Irrupción)
+
+La **inrush current** (corriente de irrupción o corriente de arranque) es un pico de corriente que ocurre cuando un dispositivo eléctrico se enciende por primera vez. Este pico es generalmente mucho mayor que la corriente operativa normal del dispositivo y puede durar desde unos pocos milisegundos hasta unos segundos, dependiendo del tipo de equipo.
+
+## Características principales:
+- **Duración breve**: Aunque el pico de corriente es elevado, su duración es corta, normalmente unos milisegundos o segundos.
+- **Equipos afectados**: Dispositivos con grandes condensadores, motores eléctricos, transformadores o cualquier equipo con bobinas y elementos inductivos son propensos a generar alta inrush current.
+- **Causa principal**: Se produce cuando ciertos componentes, como los condensadores, se cargan inicialmente o cuando se establecen los campos magnéticos en inductores o transformadores.
+
+## Ejemplos de equipos afectados:
+1. **Transformadores**: Al encenderse, pueden experimentar altos picos de corriente debido a la magnetización del núcleo.
+2. **Motores eléctricos**: Consumen una gran corriente cuando arrancan, ya que inicialmente están en reposo y necesitan superar la inercia.
+3. **Fuentes de alimentación**: Los condensadores en las fuentes de alimentación pueden generar un alto pico de corriente cuando se cargan al encenderse.
+
+## Problemas asociados:
+- **Sobrecarga de fusibles o disyuntores**: El inrush current puede ser tan alto que provoque la activación de los dispositivos de protección, apagando el equipo o el circuito.
+- **Daño a componentes electrónicos**: Si no se gestiona adecuadamente, puede dañar componentes sensibles.
+
+## Métodos para reducir la inrush current:
+- **Resistencias NTC (coeficiente de temperatura negativo)**: Limitan la corriente al inicio y disminuyen su resistencia a medida que se calientan.
+- **Relés de arranque suave**: Encienden gradualmente un equipo para reducir el impacto del pico inicial.
+- **Controladores de motores**: Usan arranque suave o controladores de frecuencia variable para reducir la corriente de arranque en motores eléctricos.
+
+---
+# Inductores o "Choke" en Convertidores DC/DC
+
+## ¿Qué es un inductor o "choke"?
+
+Un **inductor** o **choke** es un componente que almacena energía en un campo magnético cuando la corriente fluye a través de él. En los **convertidores DC/DC**, los inductores se utilizan para suavizar las variaciones de corriente y para transferir energía eficientemente desde la fuente de entrada hasta la carga o el capacitor de salida.
+
+## Funcionamiento en Convertidores DC/DC
+
+En los convertidores de tipo **buck** (reductor) o **boost** (elevador), el inductor desempeña un papel crucial en la conversión de voltaje. Se puede describir en dos fases:
+
+1. **Fase de almacenamiento**:
+   - Durante una parte del ciclo de conmutación, el inductor almacena energía cuando el interruptor está encendido. La corriente a través del inductor aumenta linealmente mientras el campo magnético se genera.
+
+2. **Fase de entrega**:
+   - Cuando el interruptor se apaga, el campo magnético en el inductor colapsa y la energía almacenada se libera, entregando corriente a la carga o al capacitor de salida, manteniendo un flujo continuo de corriente hacia la carga.
+
+## Tipos de Convertidores DC/DC que usan Inductores
+
+1. **Convertidor Buck (reductor)**:
+   - Reduce el voltaje de entrada a un voltaje más bajo. El inductor suaviza el flujo de corriente para entregar energía continua a la salida.
+
+2. **Convertidor Boost (elevador)**:
+   - Eleva el voltaje de entrada a un nivel superior. El inductor almacena energía cuando el interruptor está encendido y la entrega a la salida cuando se apaga.
+
+3. **Convertidor Buck-Boost**:
+   - Puede aumentar o reducir el voltaje de entrada, dependiendo de la configuración. El inductor almacena y entrega energía según sea necesario.
+
+4. **Convertidor Flyback**:
+   - Utiliza un transformador para transferir energía entre dos circuitos separados. A diferencia de los inductores, el transformador en un **flyback** permite el aislamiento galvánico entre la entrada y la salida.
+
+## Importancia del Inductor en Convertidores DC/DC
+
+- **Almacenamiento de energía**: El inductor almacena energía en un campo magnético, permitiendo una entrega eficiente de energía.
+- **Regulación de corriente**: Ayuda a regular la corriente, manteniendo un flujo estable y continuo hacia la carga.
+- **Reducción de rizado (ripple)**: Los inductores reducen el ripple de corriente, mejorando la estabilidad del voltaje de salida.
+
+## Resumen
+
+Los **inductores (choke)** son componentes clave en los **convertidores DC/DC** como buck, boost y buck-boost. Permiten almacenar y transferir energía de manera eficiente, regulando el flujo de corriente y reduciendo el ripple. Los inductores son esenciales para la operación eficiente y estable de los convertidores de voltaje.
