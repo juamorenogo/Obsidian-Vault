@@ -26,4 +26,8 @@ De aca se divide en 2 caminos:
 
 ---
 
-Opto
+Opto-acoplador para separar el circuito de potencia del de control. 
+## Stand - by circuit
+
+### Inductores 
+
