@@ -329,3 +329,6 @@ Los optoacopladores se utilizan comúnmente en aplicaciones donde es necesario:
 ## Resumen
 
 Un **optoacoplador** es un componente que permite la transferencia de señales eléctricas entre dos partes de un circuito mientras mantiene el aislamiento eléctrico entre ellas. Utiliza luz para transmitir señales y es comúnmente utilizado en aplicaciones de protección y control. Hay varios tipos de optoacopladores, cada uno diseñado para diferentes aplicaciones, desde conmutación de señales hasta control de cargas AC.
+
+--- 
+

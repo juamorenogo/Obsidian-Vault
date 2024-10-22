@@ -31,3 +31,11 @@ Opto-acoplador para separar el circuito de potencia del de control.
 
 ### Inductores 
 
+Toroidales generalmente mas usados frente a inductor tradicional, debido a:
+
+* Mayor eficiencia magnetica, debido a que la forma del nucleo minimiza las perdidas de flujo magnetico
+* Menor radiacion EMI
+* Mas inductancia en un espacio menor.
+* Mejor rendimiento termico
+* Manejo de altas frecuencias
+

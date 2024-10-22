@@ -64,3 +64,39 @@ Para el flyback se manera es un acomplamiento de inductancias, no como tal un tr
 
 ![](https://youtu.be/W6NOV6b8kxs?si=sYswvj2VCOn1Ukxo)
 
+--- 
+
+![](https://youtu.be/2N_T7VFymFg?si=KThhT8Uz8b5Qs77B)
+
+Este circuito se encarga de convertir una señal DC en una señal AC de alta frecuencia. Despues del filtro capacitivo de un rectificador normal.
+
+![|400](Imagenes/Oscilador1.png)
+
+Convierte de AC a DC, en este caso.
+
+![|400](Imagenes/Imagen2gen.png)
+
+El transformador tiene un embobinado primario, secundario y uno para el oscilador. Adicionalmente se usa un opto-acomplador para el circuito de feedback.
+
+--- 
+
+![](https://youtu.be/ycT-PItAzNk?si=vSPgjacEOSaiGsLo)
+
+_Corriente Eddy:_  Corriente parasitaria de un transformador = Corrientes generadas por un campo magnético externo. Un transformador laminado reduce las perdidas debido a que el núcleo en si no tiene mucho volumen en común como tal.
+
+_Perdidas por Histéresis :_ Perdidas de materiales ferromagnéticos debido a largos ciclos de magnetización y desmagnetización.  Perdidas en calor. Se usan materiales especificos menos suceptibles a este efecto. 
+### Diferencias entre Transformador de nucleo laminar y compacto.
+
+* Mas caro si es compacto, para aplicaciones de alta frecuencia.
+* Laminar poco util para aplicaciones de alta frecuencia debido a perdidas por histeresis y poca capacidad de respuesta rapida.
+
+### Air Gap
+
+Espacio no magnetico en el nucleo que modifica las caracteristicas del campo magnetico. Ayuda a almacenar energia via campo magnetico. Ventajas generales:
+
+* Evita saturacion del nucleo -> Ocurre cuando se somete el nucleo a un flujo magnetico alto. (Saturacion = No puede aumentar mas su magnetizacion)
+* Aumenta reluctancia (Resistencia magnetica) -> Manejo de mas corriente sin saturar el nucleo.
+* Reduce permeabilidad.
+
+No obstante, esto aumenta las perdidas por lo que no se usa para transmitir potencia.
+
