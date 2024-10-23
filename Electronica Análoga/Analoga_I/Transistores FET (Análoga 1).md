@@ -49,19 +49,47 @@ El punto de operacion ***Q*** se halla con la interseccion lineal de otra ecuaci
 ![|500](Imagenes/JFET6.png)
 
 
+--- 
+
 ## MOSFET
 
 Todos los _MOSFETS_ se rigen por la siguiente ecuación:
 
-$$ I_{D} = \frac {K}{2}(|V_{GS}|-|V_{TH}|)^{2}$$
+$$ \Large I_{D} = \frac {K}{2}(|V_{GS}|-|V_{TH}|)^{2}$$
 
-Para cada caso, lo que cambia es la polaridad de _Vgs_ y _Vth_. Por otro lado, la constante **K (Constante de transconductancia)** se expresa en  _A / V^2_.
+Para cada caso, lo que cambia es la polaridad de _Vgs_ y _Vth_. Por otro lado, la constante **K (Constante del parámetro del MOSFET de transconductancia)** se expresa en  _A / V^2_.
 
-### Empobrecimiento
+$$ \Large K = \mu _{{n} C_{ox}}$$
+Donde:
+* _Cox_ = Capacitancia del oxido.
+* _un_ = Movilidad de los electrones en la superficie del canal.
+
+A su vez la resistencia _Rds_ esta dada por:
+
+$$\Large R_{DS} = \frac {1}{g_{DS}} $$
+
+Donde _gds_ es la conductancia del canal.
+La ecuacion triodo es:
+
+$$ \Large I_{D} = K[(V_{GS}-V_{TH})V_{DS}-\frac {1}{2}V_{DS}^{2}] $$
+
+Sus símbolos correspondientes son:
+
+![|500](Imagenes/Mosfet1.png)
+
+---
+### Empobrecimiento (Depletion)
 
 Estos _FETS_ tienen el canal ya creado, al igual que los JFET, por lo que se pueden manejar tanto con las ecuaciones de _MOSFET_ como las de _JFET_, no obstante la ecuación correcta es _Ecuación Del MOSFET_.
+#### Curvas
 
-###
+##### Canal P
+
+![|500](Imagenes/Mosfet3.png)
+##### Canal N
+
+![|500](Imagenes/Mosfet2.png)
+
 #### Saturación
 
 ##### Canal N
@@ -93,13 +121,19 @@ La corriente entra por el _Source_ y sale por el _Drain_ **( S -> D )**, por lo 
 
 $$ I_{S} = \frac {K}{2}(|V_{GS}|-|V_{TH}|)^{2}$$
 
-### Enriquecimiento
+---
+### Enriquecimiento (Enhancement)
 
 En este caso no hay canal creado.
 
 #### Curvas
 
+##### Canal P
 
+![|500](Imagenes/Mosfet5.png)
+##### Canal N
+
+![|500](Imagenes/Mosfet4.png)
 #### Saturación
 ##### Canal N
 Para que entre en saturación el transistor deberá cumplir con las siguientes condiciones:
@@ -129,3 +163,4 @@ La corriente entra por el _Source_ y sale por el _Drain_ **( S -> D )**, por lo 
 $$ I_{S} = \frac {K}{2}(|V_{GS}|-|V_{TH}|)^{2}$$
 
 
+---
