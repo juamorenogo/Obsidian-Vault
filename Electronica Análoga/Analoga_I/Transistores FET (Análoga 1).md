@@ -53,13 +53,49 @@ El punto de operacion ***Q*** se halla con la interseccion lineal de otra ecuaci
 
 Todos los _MOSFETS_ se rigen por la siguiente ecuación:
 
-$$ I_{D} = \frac {K}{2}(V_{GS}-V_{TH})^{2}$$
+$$ I_{D} = \frac {K}{2}(|V_{GS}|-|V_{TH}|)^{2}$$
 
 Para cada caso, lo que cambia es la polaridad de _Vgs_ y _Vth_. Por otro lado, la constante **K (Constante de transconductancia)** se expresa en  _A / V^2_.
 
 ### Empobrecimiento
 
 Estos _FETS_ tienen el canal ya creado, al igual que los JFET, por lo que se pueden manejar tanto con las ecuaciones de _MOSFET_ como las de _JFET_, no obstante la ecuación correcta es _Ecuación Del MOSFET_.
+
+###
+#### Saturación
+
+##### Canal N
+Para que entre en saturación el transistor deberá cumplir con las siguientes condiciones:
+
+* **Vgs > 0 > Vth**
+* **Vds > Vgs - Vth**
+
+A su vez las polaridades son:
+
+* **Vgs < 0** Cierra el canal .
+* **Vgs > 0** Ensancha el canal. 
+* **Vth < 0**
+
+La corriente entra por el _drain_ y sale por el _source_ **( D -> S )**, por lo que la ecuación se mantiene igual.
+##### Canal P
+Para que entre en saturación el transistor deberá cumplir con las siguientes condiciones:
+
+* **Vgs < 0 < Vth**
+* **Vds < Vgs - Vth**
+
+A su vez las polaridades son:
+
+* **Vgs < 0** Ensancha el canal
+* **Vgs > 0** Cierra el canal
+* **Vth > 0**
+
+La corriente entra por el _Source_ y sale por el _Drain_ **( S -> D )**, por lo que si se calcula usando los valores absolutos se obtiene _Is_:
+
+
+### Enriquecimiento
+
+En este caso no hay canal creado.
+
 #### Curvas
 
 
@@ -72,18 +108,23 @@ Para que entre en saturación el transistor deberá cumplir con las siguientes c
 
 A su vez las polaridades son:
 
-* Vgs > 0
-* Vth > 0
+* **Vgs > 0**
+* **Vth > 0**
 
-Y la ecuación se mantiene igual.
+La corriente entra por el _drain_ y sale por el _source_ **( D -> S )**, por lo que la ecuación se mantiene igual.
 ##### Canal P
+Para que entre en saturación el transistor deberá cumplir con las siguientes condiciones:
 
+* **Vgs < 0 < Vth**
+* **Vds < Vgs - Vth**
 
-### Enriquecimiento
+A su vez las polaridades son:
 
-#### Canal N
+* **Vgs < 0**
+* **Vth < 0**
 
+La corriente entra por el _Source_ y sale por el _Drain_ **( S -> D )**, por lo que si se calcula usando los valores absolutos se obtiene _Is_:
 
-#### Canal P
+$$ I_{S} = \frac {K}{2}(|V_{GS}|-|V_{TH}|)^{2}$$
 
 
