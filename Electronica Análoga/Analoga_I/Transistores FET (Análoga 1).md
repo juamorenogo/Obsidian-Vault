@@ -4,7 +4,7 @@ Tags: #Transistores #Analoga
 
 
 Todo FET tendra asocidado unas variables fijas.
-* Rd = Resistencia interna drain - source en region triodo y saturacion.
+* Rd = Resistencia interna drain - source / source - drain en region triodo y saturacion.
 * $\lambda$ = Parametro de modulacion del canal ( _Early_ ). 
 
 $$ \lambda= \frac {1}{V_{A}} $$
