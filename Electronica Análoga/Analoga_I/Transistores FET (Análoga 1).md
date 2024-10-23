@@ -34,19 +34,19 @@ Donde los terminos constantes son :
 
 La curva de transferencia entre _Vds - Id_ muestra el punto de valor de _Idss_ y _Vp_ para un _Vgs = 0v_.
 
-![|500](Imagenes/Jfet3.png)
+![|500](Imagenes/JFET3.png)
 
 En _Vds = Vp_ se genera estrangulamiento del canal y se entra en saturación. La curva va a variar dependiendo de si es un _N-JFET_ O _P-JFET_:
 
-![|500](Imagenes/Jfet4.png)
+![|500](Imagenes/JFET4.png)
 
 Y la otra curva correspondiente para _N-JFET_:
 
-![|500](Imagenes/Jfet5.png)
+![|500](Imagenes/JFET5.png)
 
 El punto de operacion ***Q*** se halla con la interseccion lineal de otra ecuacion que representa la relacion entre ambos terminos de forma lineal.
 
-![|500](Imagenes/Jfet6.png)
+![|500](Imagenes/JFET6.png)
 
 
 ## MOSFET
