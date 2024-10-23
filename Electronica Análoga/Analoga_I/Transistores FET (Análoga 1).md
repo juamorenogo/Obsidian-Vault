@@ -2,6 +2,16 @@
 
 Tags: #Transistores #Analoga 
 
+
+Todo FET tendra asocidado unas variables fijas.
+* Rd = Resistencia interna drain - source en region triodo y saturacion.
+* $\lambda$ = Parametro de modulacion del canal ( _Early_ ). 
+
+$$ \lambda= \frac {1}{V_{A}} $$
+
+![|400](FET1.png)
+
+
 ## JFET
 
 Transistor de efecto de campo, que funciona con junturas semiconductoras y un canal que se encuentra _Normalmente abierto_.
@@ -41,10 +51,39 @@ El punto de operacion ***Q*** se halla con la interseccion lineal de otra ecuaci
 
 ## MOSFET
 
+Todos los _MOSFETS_ se rigen por la siguiente ecuación:
+
+$$ I_{D} = \frac {K}{2}(V_{GS}-V_{TH})^{2}$$
+
+Para cada caso, lo que cambia es la polaridad de _Vgs_ y _Vth_. Por otro lado, la constante **K (Constante de transconductancia)** se expresa en  _A / V^2_.
+
 ### Empobrecimiento
 
+Estos _FETS_ tienen el canal ya creado, al igual que los JFET, por lo que se pueden manejar tanto con las ecuaciones de _MOSFET_ como las de _JFET_, no obstante la ecuación correcta es _Ecuación Del MOSFET_.
+#### Curvas
+
+
+#### Saturación
+##### Canal N
+Para que entre en saturación el transistor deberá cumplir con las siguientes condiciones:
+
+* **Vgs > 0 > Vth**
+* **Vds > Vgs - Vth**
+
+A su vez las polaridades son:
+
+* Vgs > 0
+* Vth > 0
+
+Y la ecuación se mantiene igual.
+##### Canal P
 
 
 ### Enriquecimiento
+
+#### Canal N
+
+
+#### Canal P
 
 
