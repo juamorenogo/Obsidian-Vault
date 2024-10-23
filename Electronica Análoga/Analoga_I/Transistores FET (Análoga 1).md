@@ -91,6 +91,7 @@ A su vez las polaridades son:
 
 La corriente entra por el _Source_ y sale por el _Drain_ **( S -> D )**, por lo que si se calcula usando los valores absolutos se obtiene _Is_:
 
+$$ I_{S} = \frac {K}{2}(|V_{GS}|-|V_{TH}|)^{2}$$
 
 ### Enriquecimiento
 
