@@ -3,15 +3,6 @@
 Tags: #Transistores #Analoga 
 
 
-Todo FET tendra asocidado unas variables fijas.
-* Rd = Resistencia interna drain - source / source - drain en region triodo y saturacion.
-* $\lambda$ = Parametro de modulacion del canal ( _Early_ ). 
-
-$$ \lambda= \frac {1}{V_{A}} $$
-
-![|400](Imagenes/FET1.png)
-
-
 ## JFET
 
 Transistor de efecto de campo, que funciona con junturas semiconductoras y un canal que se encuentra _Normalmente abierto_.
@@ -164,3 +155,19 @@ $$ I_{S} = \frac {K}{2}(|V_{GS}|-|V_{TH}|)^{2}$$
 
 
 ---
+### Efecto de Modulación del canal
+
+![|500](Imagenes/Mosfet6.jpeg)
+
+Todo FET tendra asocidado unas variables fijas.
+* Rd = Resistencia interna drain - source / source - drain en region triodo y saturacion.
+* $\lambda$ = Parametro de modulacion del canal ( _Early_ ). 
+
+$$ \lambda= \frac {1}{V_{A}} $$
+
+![|400](Imagenes/FET1.png)
+
+
+---
+### Amplificacion 
+

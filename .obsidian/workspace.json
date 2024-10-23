@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "10a7763cf379f76c",
+        "id": "493cdfa29f8e0bb1",
         "type": "tabs",
         "children": [
           {
-            "id": "18059a4bc96d42d1",
+            "id": "e211e96e4b8db15e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,21 +173,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3835dd88d3841b00",
+  "active": "e211e96e4b8db15e",
   "lastOpenFiles": [
+    "Electronica Análoga/Analoga_I/Transistores BJT (Análoga 1).md",
+    "Electronica Análoga/Analoga_I/Transistores FET (Análoga 1).md",
+    "Electronica Análoga/Analoga_I/Imagenes/Mosfet6.jpeg",
     "Electronica Análoga/Analoga_I/Imagenes/Mosfet5.png",
     "Electronica Análoga/Analoga_I/Imagenes/Mosfet4.png",
     "Electronica Análoga/Analoga_I/Imagenes/Mosfet3.png",
     "Electronica Análoga/Analoga_I/Imagenes/Mosfet2.png",
     "Pasted image 20241023172943.png",
-    "Electronica Análoga/Analoga_I/Transistores FET (Análoga 1).md",
     "Pasted image 20241023172950.png",
     "Pasted image 20241023172932.png",
     "Electronica Análoga/Analoga_I/Imagenes/Mosfet1.png",
     "Electronica Análoga/Analoga_I/Imagenes/FET1.png",
-    "Electronica Análoga/Analoga_I/Imagenes/JFET6.png",
-    "Electronica Análoga/Analoga_I/Imagenes/JFET5.png",
-    "Electronica Análoga/Analoga_I/Transistores BJT (Análoga 1).md",
     "Electronica Análoga/Analoga_I/Diodos (Análoga 1).md",
     "Untitled.md",
     "Electronica Análoga/Analoga_I",
