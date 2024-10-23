@@ -33,7 +33,7 @@ Se asume una tensión  _0 V_ , una corriente de fuga de _0 A_ y un cambio instan
 * 
 	Fundamentado desde elementos con base de _transistor_ o _thyristor_. 
 	
-	![[Transistores MOSFET (Análoga 1)]]
+	![[Transistores FET (Análoga 1)]]
 	![[Transistores BJT (Análoga 1)]]
 	
 	_IGBT_ : Elemento hibrido donde la parte de control es la del MOSFET y la parte de transmision de energia es la de un BJT. Combina la conmutacion a altas frecuencias del MOSFET con la bjt perdida de potencia del BJT . ( RECOMENDADO)
