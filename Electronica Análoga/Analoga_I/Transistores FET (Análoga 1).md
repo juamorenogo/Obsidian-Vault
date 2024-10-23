@@ -9,18 +9,18 @@ Todo FET tendra asocidado unas variables fijas.
 
 $$ \lambda= \frac {1}{V_{A}} $$
 
-![|400](FET1.png)
+![|400](Imagenes/FET1.png)
 
 
 ## JFET
 
 Transistor de efecto de campo, que funciona con junturas semiconductoras y un canal que se encuentra _Normalmente abierto_.
 
-![|400](JFET1.png)
+![|400](Imagenes/JFET1.png)
 
 El símbolo usado actualmente se usa para _MOSFET_ también, debido al poco uso comercial del _JFET_.
 
-![|400](JFET2.png)
+![|400](Imagenes/JFET2.png)
 
 La ecuacion de transferencia es:
 
@@ -38,15 +38,15 @@ La curva de transferencia entre _Vds - Id_ muestra el punto de valor de _Idss_ y
 
 En _Vds = Vp_ se genera estrangulamiento del canal y se entra en saturación. La curva va a variar dependiendo de si es un _N-JFET_ O _P-JFET_:
 
-![[JFET4.png]]
+![|500](Imagenes/Jfet4.png)
 
 Y la otra curva correspondiente para _N-JFET_:
 
-![[JFET5.png]]
+![|500](Imagenes/Jfet5.png)
 
 El punto de operacion ***Q*** se halla con la interseccion lineal de otra ecuacion que representa la relacion entre ambos terminos de forma lineal.
 
-![[JFET6.png]]
+![|500](Imagenes/Jfet6.png)
 
 
 ## MOSFET
