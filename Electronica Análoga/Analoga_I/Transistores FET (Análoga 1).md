@@ -174,3 +174,4 @@ $$ \lambda= \frac {1}{V_{A}} $$
 Depende del amplificador pero en general:
 
 $$ A = -gmR_{out}$$
+A su vez cada topologia (Emisor comun, base comun, etc..) Tiene sus ventajas, por lo que , usualmente se generan amplificadores de varias etapas para poder tener amplificadores mejores.
