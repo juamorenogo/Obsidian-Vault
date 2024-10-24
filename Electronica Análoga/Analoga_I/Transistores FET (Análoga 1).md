@@ -171,3 +171,6 @@ $$ \lambda= \frac {1}{V_{A}} $$
 ---
 ### Amplificacion 
 
+Depende del amplificador pero en general:
+
+$$ A = -gmR_{out}$$
